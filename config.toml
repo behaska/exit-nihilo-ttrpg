@@ -1,5 +1,5 @@
 title = "Exit Nihilo, le JdR"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://hervedarritchon.github.io/exit-nihilo-ttrpg"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"

@@ -119,16 +119,16 @@ Un personnage pourra dépenser 15 points d'évolution  plus 2 fois la valeur de 
 - Employé
 - Sportif
 - Profession Libérale
+- Artiste
 
 Concernant les compétences que l'on peut développer grâce à sa profession, il faut en parler au MdJ qui lui seul peut décider si oui ou non, c'est logique pour le personnage d'augmenter telle ou telle compétence.
 
 1. ##### Combattant
 
-   * 3 compétences de combat (peut être remplacer par nager, pilotage en fonction du métier)
+   * 3 compétences de combat (peut être remplacer par nager, pilotage ou lancer en fonction du métier)
    * Athlétisme
    * Discrétion
    * Esquive
-   * Lancer
    * Perception
    * Premier Soins
    * Survie
@@ -138,7 +138,6 @@ Concernant les compétences que l'on peut développer grâce à sa profession, i
 
    * 2 compétence du domaine académique (mathématiques, physique, économie, ... )
    * Argumenter
-   * Arts
    * Chercher
    * Influence
    * Langues
@@ -160,11 +159,48 @@ Concernant les compétences que l'on peut développer grâce à sa profession, i
   
 4. ##### Artisan
 
+   * 2 compétences du domaine de l'Artisanat (Électricité, Plomberie, Coiffure, ...)
+   * Athlétisme
+   * Baratin
+   * Bricolage
+   * Chercher
+   * Manipulation
+   * Perception
+   * Pilotage
+  
+
 5. ##### Employé
+
+   * 2 compétences du domaine de l'employé (Comptabilité, ... )
+   * Baratin
+   * Chercher
+   * Langues
+   * Perception
+   * Technologie
 
 6. ##### Sportif
 
+   * 2 Compétences du domaine du sportif (Nager, Equitation, Lancer, ...)
+   * Athlétisme
+   * Esquive
+   * Premiers Soins
+
 7. ##### Profession Libérale
+
+   * 2 compétence du domaine de la profession libérale (Droits, Médecine, ...)
+   * Argumenter
+   * Chercher
+   * Psychologie
+
+8. ##### Artiste
+   
+   * 2 compétences du domaine (Jongler, Jouer la comédie, Chanter, Jouer de la musique)
+   * Athlétisme
+   * Baratin
+   * Imiter
+   * Langues
+   * Manipulation    
+
 
 ## Le Rôle
 

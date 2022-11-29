@@ -1,5 +1,5 @@
 title = "Exit Nihilo, le JdR"
-baseURL = " https://behaska.github.io/exit-nihilo-ttrpg/"
+baseURL = "https://behaska.github.io/exit-nihilo-ttrpg/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
@@ -10,6 +10,13 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 75
+  resampleFilter = 'Box'
+  
 [languages]
   [languages.en]
     title = "Exit Nihilo TTRPG"

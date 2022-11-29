@@ -1,4 +1,6 @@
 {{ $image := resources.GetMatch (.Get "src") }}
 {{ $size :=  default "200x" (.Get "size") }}
 
+{{ with .Get "link" }}<a href="{{ . }}">{{ end }}
 <img src="{{ ($image.Resize $size).RelPermalink }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }} />
+{{ if .Get "link" }}</a>{{ end }}

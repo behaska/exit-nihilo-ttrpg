@@ -98,12 +98,79 @@ Toutes les compétences sont disponibles maintenant. Comme pour les autres tranc
 
 Comme toujours, il faut justifier ces choix au MdJ afin que celui les valide mais aussi s'en servent durant le jeu.
 
+Le développement de l'Âge Adulte incorpore pour les personnages qui l'on vécu toute la partie universitaire. Pour les personnage qui n'ont pas eu à vivre cette période on considère qu'ils ont commencé plus jeune leur vie professionnelle.
+
 ### Profession
 
-en cours
+Une fois que l'on a réalisé le développement de l'Âge Adulte, il faut choisir son métier. Le choix du métier va influer sur les compétences que le personnage va avoir mais rien de plus car on considère que dans le Monde tel qu'il est maintenant, cela n'a plus de sens et ce sera remplacé par Rôle (voir ci-dessous).
 
+Il existe un grand nombre de possibilité de professions, on ne peut pas toutes les détaillées dans les règles donc on propose une liste de famille de profession mais il faut bien choisir une profession lors de la création du personnage et adapter les infos de la famille de profession.
+
+Chaque famille de professions va donner une liste de compétences à augmenter ainsi que quelques choix parmi lesquelles le joueur doit choisir.
+
+Un personnage pourra dépenser 15 points d'évolution  plus 2 fois la valeur de la caractéristique **Apprentissage** dans les compétences disponibles.
+
+#### Familles de professions
+
+- Combattant
+- Académique
+- Religieux
+- Artisan
+- Employé
+- Sportif
+- Profession Libérale
+
+Concernant les compétences que l'on peut développer grâce à sa profession, il faut en parler au MdJ qui lui seul peut décider si oui ou non, c'est logique pour le personnage d'augmenter telle ou telle compétence.
+
+1. ##### Combattant
+
+* 3 compétences de combat (peut être remplacer par nager, pilotage en fonction du métier)
+* Athlétisme
+* Discrétion
+* Esquive
+* Lancer
+* Perception
+* Premier Soins
+* Survie
+
+
+1. ##### Académique
+
+* 2 compétence du domaine académique (mathématiques, physique, économie, ... )
+* Argumenter
+* Arts
+* Chercher
+* Influence
+* Langues
+* Perception
+* Psychologie
+* Technologie
+  
+1. ##### Religieux
+
+* compétence Théologie
+* Argumenter
+* Arts
+* Chercher
+* Influence
+* Langues
+* Perception
+* Premiers Soins
+* Psychologie
+  
+1. ##### Artisan
+
+2. ##### Employé
+
+3. ##### Sportif
+
+##### Profession Libérale
 
 ## Le Rôle
+
+Le rôle ne va pas apporter de compétences aux personnages mais plutôt orienter le joueur sur la posture et la façon d’interpréter son personnage.
+
+Il est possible de changer de rôle au cours de la vie d'un personnage durant les phases inter-aventures. Ceci doit être fait avec l'accord du MdJ.
 
 - Combattant
 - Chasseur-Cueilleur

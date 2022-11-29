@@ -9,7 +9,7 @@ title: "Chapitre I: La création de personnage"
 
 ## Introduction
 
-La création de personnage est une phase importante du jeu, elle doit être un moment important d'échange entre le Maître de l'Apocalypse et le Joueur. N"hésitez pas à passer du temps à échanger, l'objectif est de donner du liant aux caractéristiques.  
+La création de personnage est une phase importante du jeu, elle doit être un moment important d'échange entre le Maître de l'Apocalypse et le Joueur. N'hésitez pas à passer du temps à échanger, l'objectif est de donner du liant aux caractéristiques.  
 Les règles ont été pensées pour donner de l'épaisseur au personnage et qu'il ne reste pas une somme de chiffres et statistiques.
 
 ## Les 5 étapes pour créer un personnage.
@@ -124,47 +124,47 @@ Concernant les compétences que l'on peut développer grâce à sa profession, i
 
 1. ##### Combattant
 
-* 3 compétences de combat (peut être remplacer par nager, pilotage en fonction du métier)
-* Athlétisme
-* Discrétion
-* Esquive
-* Lancer
-* Perception
-* Premier Soins
-* Survie
+   * 3 compétences de combat (peut être remplacer par nager, pilotage en fonction du métier)
+   * Athlétisme
+   * Discrétion
+   * Esquive
+   * Lancer
+   * Perception
+   * Premier Soins
+   * Survie
 
 
-1. ##### Académique
+2. ##### Académique
 
-* 2 compétence du domaine académique (mathématiques, physique, économie, ... )
-* Argumenter
-* Arts
-* Chercher
-* Influence
-* Langues
-* Perception
-* Psychologie
-* Technologie
+   * 2 compétence du domaine académique (mathématiques, physique, économie, ... )
+   * Argumenter
+   * Arts
+   * Chercher
+   * Influence
+   * Langues
+   * Perception
+   * Psychologie
+   * Technologie
   
-1. ##### Religieux
+3. ##### Religieux
 
-* compétence Théologie
-* Argumenter
-* Arts
-* Chercher
-* Influence
-* Langues
-* Perception
-* Premiers Soins
-* Psychologie
+   * compétence Théologie
+   * Argumenter
+   * Arts
+   * Chercher
+   * Influence
+   * Langues
+   * Perception
+   * Premiers Soins
+   * Psychologie
   
-1. ##### Artisan
+4. ##### Artisan
 
-2. ##### Employé
+5. ##### Employé
 
-3. ##### Sportif
+6. ##### Sportif
 
-##### Profession Libérale
+7. ##### Profession Libérale
 
 ## Le Rôle
 

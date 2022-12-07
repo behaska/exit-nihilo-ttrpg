@@ -48,26 +48,30 @@ C'est le stéréotype où le personnage est le plus spécifique dans un domaine.
 
 ## L'enfance
 
-Durant l'enfance, le personnage développe quelques compétences en fonction de son activité. Vous pourrez augmenter 5 compétences de 1 point. Comme on parle d'une période d'enfance, toutes les compétences ne sont pas disponibles. Vous trouverez ci-dessous la liste des compétences que l'on peut augmenter.
+Durant l'enfance, le personnage développe quelques compétences en fonction de son activité. Comme on parle d'une période d'enfance, toutes les compétences ne sont pas disponibles. Vous trouverez ci-dessous la liste des compétences que l'on peut augmenter.
 
 - Arts
 - Athlétisme
 - Baratin
-- Cuisine
+- Dressage
 - Équitation
 - Esquive
-- Imiter
+- Grimper
 - Lancer
 - Langues
 - Nager
 - Perception
 - Survie
 
+### Nombre de points de Développement à dépenser
+
+Vous pourrez dépenser 5 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d'**Apprentissage**).
+
 Il faut bien sûr avoir l'accord de son Maître de Jeu et justifier la progression de la compétence par des exemples ou des activités que le personnage aurait pû faire pendant cette période. Comme par exemple, un sport, une activité artistique, l'école, ... Quel que chose de lié à son historique. L'objectif n'est pas l'optimisation !
 
 ## L'adolescence
 
-Comme pour l'enfance, il est possible d'augmenter 5 compétences de 1 point, par contre la liste des compétences est plus importantes car certaines compétences deviennent accessible à des adolescents par rapport à des enfants.
+La liste des compétences est plus importantes car certaines compétences deviennent accessible à des adolescents par rapport à des enfants.
 
 - Arts
 - Athlétisme
@@ -79,8 +83,7 @@ Comme pour l'enfance, il est possible d'augmenter 5 compétences de 1 point, par
 - Discrétion
 - Equitation
 - Esquive
-- Imiter
-- Lancer
+- Grimper
 - Langues
 - Manipulation
 - Nager
@@ -90,11 +93,20 @@ Comme pour l'enfance, il est possible d'augmenter 5 compétences de 1 point, par
 - Survie
 - Technologie
 
+### Nombre de points de Développement à dépenser
+
+Vous pourrez dépenser 10 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d'**Apprentissage**).
+
 Bien sûr, il est toujours nécessaire de justifier ses choix comme pour l'enfance.  
 
 ## L'âge adulte
 
-Toutes les compétences sont disponibles maintenant. Comme pour les autres tranches d'âge, il est possible d'augmenter 5 compétences de 1 point. Attention, cette augmentation ne doit prendre en compte les compétences professionnelles. En effet, cela fait partir d'une autre phase que celle qui est décrite ci-dessous.
+Presque toutes les compétences sont disponibles maintenant. Le joueur peut investir dans toutes les compétences sauf celles de combats qui sont réservées à certaines professions (fusil d'assaut, fusil de précision et explosif).
+
+### Nombre de points de Développement à dépenser
+
+Vous pourrez dépenser 15 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d'**Apprentissage**).  
+ Attention, cette augmentation ne doit prendre en compte les compétences professionnelles. En effet, cela fait partir d'une autre phase que celle qui est décrite ci-dessous.
 
 Comme toujours, il faut justifier ces choix au MdJ afin que celui les valide mais aussi s'en servent durant le jeu.
 
@@ -104,11 +116,9 @@ Le développement de l'Âge Adulte incorpore pour les personnages qui l'on vécu
 
 Une fois que l'on a réalisé le développement de l'Âge Adulte, il faut choisir son métier. Le choix du métier va influer sur les compétences que le personnage va avoir mais rien de plus car on considère que dans le Monde tel qu'il est maintenant, cela n'a plus de sens et ce sera remplacé par Rôle (voir ci-dessous).
 
-Il existe un grand nombre de possibilité de professions, on ne peut pas toutes les détaillées dans les règles donc on propose une liste de famille de profession mais il faut bien choisir une profession lors de la création du personnage et adapter les infos de la famille de profession.
+Il existe un grand nombre de possibilité de professions, on ne peut pas toutes les détaillées dans les règles donc on propose une liste de famille de profession mais il faut bien choisir une profession lors de la création du personnage et adapter les infos de la famille de professions.
 
-Chaque famille de professions va donner une liste de compétences à augmenter ainsi que quelques choix parmi lesquelles le joueur doit choisir.
-
-Un personnage pourra dépenser 15 points d'évolution  plus 2 fois la valeur de la caractéristique **Apprentissage** dans les compétences disponibles.
+Chaque famille de professions va donner une liste de compétences parmi lesquels on pourra en augmenter certaines.
 
 #### Familles de professions
 
@@ -123,9 +133,13 @@ Un personnage pourra dépenser 15 points d'évolution  plus 2 fois la valeur de 
 
 Concernant les compétences que l'on peut développer grâce à sa profession, il faut en parler au MdJ qui lui seul peut décider si oui ou non, c'est logique pour le personnage d'augmenter telle ou telle compétence.
 
+#### Progression des compétences
+
+Vous pourrez dépenser 15 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d'Apprentissage).
+
 1. ##### Combattant
 
-   * 3 compétences de combat (peut être remplacer par nager, pilotage ou lancer en fonction du métier)
+   * 2 Compétences de combat (peut être remplacer par nager ou pilotage en fonction du métier)
    * Athlétisme
    * Discrétion
    * Esquive
@@ -201,6 +215,13 @@ Concernant les compétences que l'on peut développer grâce à sa profession, i
    * Langues
    * Manipulation    
 
+## Coup de développement des compétences
+
+- 0 -> 1 => 1 pts
+- 1 -> 2 => 3 pts
+- 2 -> 3 => 5 pts
+- 3 -> 4 => 10 pts
+- 4 -> 5 => 20 pts
 
 ## Le Rôle
 
@@ -210,6 +231,9 @@ Il est possible de changer de rôle au cours de la vie d'un personnage durant le
 
 - Combattant
 - Chasseur-Cueilleur
-- Commandent
+- Commandant
 - Animateur
 - Logisticien
+- Médecin
+- Savant
+- Bricoleur

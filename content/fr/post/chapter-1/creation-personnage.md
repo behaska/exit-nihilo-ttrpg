@@ -237,3 +237,13 @@ Il est possible de changer de rôle au cours de la vie d'un personnage durant le
 - Médecin
 - Savant
 - Bricoleur
+
+## Caractéristiques dynamiques
+
+### Humanité
+
+Humanité = Empathie + Intuition
+
+### Résilience
+
+Résilience = Volonté + Vitalité

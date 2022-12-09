@@ -79,11 +79,11 @@ La liste des compétences est plus importantes car certaines compétences devien
 - Bricolage
 - Chercher
 - Cuisine
-- Culture
 - Discrétion
 - Equitation
 - Esquive
 - Grimper
+- Jardinage
 - Langues
 - Manipulation
 - Nager
@@ -211,7 +211,6 @@ Vous pourrez dépenser 15 points de développement (ce nombre de points est modi
    * 2 compétences du domaine (Jongler, Jouer la comédie, Chanter, Jouer de la musique)
    * Athlétisme
    * Baratin
-   * Imiter
    * Langues
    * Manipulation    
 
@@ -229,7 +228,7 @@ Le rôle ne va pas apporter de compétences aux personnages mais plutôt oriente
 
 Il est possible de changer de rôle au cours de la vie d'un personnage durant les phases inter-aventures. Ceci doit être fait avec l'accord du MdJ.
 
-- Combattant
+- Défenseur
 - Chasseur-Cueilleur
 - Commandant
 - Animateur

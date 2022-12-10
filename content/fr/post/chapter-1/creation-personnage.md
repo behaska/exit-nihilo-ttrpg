@@ -228,7 +228,7 @@ Le rôle ne va pas apporter de compétences aux personnages mais plutôt oriente
 
 Il est possible de changer de rôle au cours de la vie d'un personnage durant les phases inter-aventures. Ceci doit être fait avec l'accord du MdJ.
 
-- Défenseur
+- Protecteur
 - Chasseur-Cueilleur
 - Commandant
 - Animateur

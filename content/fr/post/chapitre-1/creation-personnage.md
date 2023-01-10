@@ -24,9 +24,9 @@ On parle ici de la dextérité et de la manipulation. C'est la précision du ges
 
 ## Stéréotype 
 
-Pour commencer la création d'un personnage, il faut choisir son stéréotype ou profil. Cela va influer sur les caractéristiques et ma valeurs qu'elles vont avoir.
-Dans *'Exit Nihilo'*, il existe 3 stéréotypes de caractéristiques. En fonction du stéréotype, les caractéristiques seront plus ou moins différentes.  
-Chaque stéréotype fournira une base de modificateur à chaque groupe ou domaine de compétences.
+Pour commencer la création d'un personnage, il faut choisir son stéréotype ou profil. Cela va influer sur les caractéristiques et la valeurs qu'elles vont avoir.
+Dans *'Exit Nihilo'*, il existe 3 stéréotypes d'attributs. En fonction du stéréotype, les attributs seront plus ou moins différents.  
+Chaque stéréotype fournira une base de modificateur à chaque groupe ou domaine de compétences, aussi appelé [Attributs]({{< relref "caracteristiques" >}}).
 
 ### Le Polyvalent
 

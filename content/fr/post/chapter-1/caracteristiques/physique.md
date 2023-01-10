@@ -1,9 +1,12 @@
 ---
-date: 2023-01-26T10:58:08-04:00
+date: 2023-01-06T10:58:08-04:00
+publishdate: 2022-01-02
 description: "Chapitre 1 - L'Attribut Physique"
-featured_image: "/images/exit-nihilo-character.png"
+slug: 'attribut-physique'
+featured_image: "/images/attribut-physique.png.png"
 tags: ["règles", "chapitre-1"]
 title: "Chapitre I: L'Attribut Physique"
+draft: false
 ---
 
 ## Description

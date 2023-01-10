@@ -4,7 +4,7 @@ publishdate: 2022-01-02
 description: "Chapitre 1 - L'Attribut Agilité"
 slug: 'attribut-agilite'
 featured_image: "/images/attribut-agilite.png"
-tags: ["règles", "chapitre-1"]
+tags: ["règles", "caractéristiques"]
 title: "Chapitre I: L'Attribut Agilité"
 draft: false
 ---

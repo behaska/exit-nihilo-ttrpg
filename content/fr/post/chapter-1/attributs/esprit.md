@@ -4,7 +4,7 @@ publishdate: 2022-01-09
 description: "Chapitre 1 - L'Attribut Esprit"
 slug: 'attribut-esprit'
 featured_image: "/images/attribut-esprit.png"
-tags: ["règles", "chapitre-1"]
+tags: ["règles", "caractéristiques"]
 title: "Chapitre I: L'Attribut Esprit"
 draft: false
 ---
@@ -24,7 +24,7 @@ Les personnages avec une caractéristique de raisonnement élevée sont généra
 En jeu, la caractéristique de raisonnement est généralement utilisée pour déterminer la capacité d'un personnage à résoudre des énigmes, à comprendre des concepts difficiles et à prendre des décisions judicieuses. Elle peut également être utilisée pour déterminer la capacité d'un personnage à utiliser la technologie. Il est souvent utilisé en conjonction avec d'autres caractéristiques comme l'apprentissage, la mémoire pour déterminer les capacités d'un personnage. Elle peut être utilisée pour déterminer le succès dans des défis mentaux, tels que résoudre des énigmes, comprendre les langues étrangères, utiliser des artefacts magiques, ou encore pour comprendre des concepts scientifiques.
 Elle peut également représenter la capacité d'un personnage à raisonner de manière logique, à déduire les conséquences de ses actions ou celles des autres, et à comprendre les relations entre les idées.
 Dans certains cas, cette caractéristique peut être utilisée pour résoudre des énigmes, comprendre des concepts scientifiques, élaborer des plans et des stratégies, et pour résoudre des problèmes mathématiques. Les personnages avec des niveaux élevés de raisonnement sont souvent très intelligents, ont une grande capacité à comprendre les choses rapidement, et ont de fortes compétences de déduction et de logique.
-### Coordination
+### Apprentissage
 La caractéristique ***"Apprentissage"*** est une caractéristique qui représente la capacité d'un personnage à assimiler de nouvelles connaissances rapidement et efficacement. Elle est généralement utilisée pour déterminer la capacité d'un personnage à apprendre rapidement les compétences, les langues, et les connaissances nécessaires pour réussir dans les défis qu'il rencontre.  
 Cette caractéristique décrit la capacité d'un personnage à apprendre et à retenir de nouvelles informations. Elle mesure la capacité d'un personnage à assimiler et à utiliser de nouvelles connaissances et compétences.
 Les personnages avec une caractéristique d'apprentissage élevée sont généralement plus aptes à apprendre de nouvelles choses rapidement et efficacement. Ils ont une meilleure mémoire, une meilleure compréhension de nouveaux concepts et une meilleure capacité à utiliser de nouvelles compétences. Les personnages avec des niveaux élevés d'apprentissage sont souvent très curieux et ont une grande capacité à comprendre les choses rapidement, ils ont une mémoire vive et ont de fortes compétences d'analyse, de déduction et de résolution de problèmes. Ils ont tendance à s'adapter rapidement aux situations changeantes et à être efficaces dans l'acquisition de nouvelles compétences.  

@@ -4,7 +4,7 @@ publishdate: 2022-01-02
 description: "Chapitre 1 - L'Attribut Physique"
 slug: 'attribut-physique'
 featured_image: "/images/attribut-physique.png"
-tags: ["règles", "chapitre-1"]
+tags: ["règles", "caractéristiques"]
 title: "Chapitre I: L'Attribut Physique"
 draft: false
 ---

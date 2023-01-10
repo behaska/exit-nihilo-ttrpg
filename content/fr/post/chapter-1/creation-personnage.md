@@ -2,7 +2,7 @@
 date: 2022-11-22T10:58:08-04:00
 description: "La création de personnage"
 featured_image: "/images/exit-nihilo-character.png"
-tags: ["règles", "chapitre-1"]
+tags: ["règles", "caractéristiques"]
 title: "Chapitre I: La création de personnage"
 ---
 

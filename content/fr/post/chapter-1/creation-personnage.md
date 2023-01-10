@@ -124,7 +124,7 @@ Chaque famille de professions va donner une liste de compétences parmi lesquels
 
 - Combattant
 - Académique
-- Religieux
+- Politicien
 - Artisan
 - Employé
 - Sportif
@@ -159,7 +159,7 @@ Vous pourrez dépenser 15 points de développement (ce nombre de points est modi
    * Psychologie
    * Technologie
   
-3. ##### Religieux
+3. ##### Politicien
 
    * compétence Théologie
    * Argumenter

@@ -9,7 +9,7 @@ title: "Chapitre I: Les caractéristiques"
 
 ## Introduction
 
-Les caractértiques du personnage représente l'innée, là où les compétences représenteront l'acquis. Dans *'Exit Nihilo'*, les caractéristiques sont au nombre de 10 et elles sont organisées en domaine ou groupe.
+Les caractértisques du personnage représente l'innée, là où les compétences représenteront l'acquis. Dans *'Exit Nihilo'*, les caractéristiques sont au nombre de 10 et elles sont organisées en domaine ou groupe.
 
 ## Les Caractéristiques
 

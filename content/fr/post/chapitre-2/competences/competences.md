@@ -51,8 +51,8 @@ Les compétences de combat sont des compétences spécifiques qui représentent 
 
 ### Liste des compétences de combat
 * [Corps à Corps sans arme]({{< relref "competences-de-combat#corps-à-corps-sans-arme" >}})
-* [Corps à Corps armé]({{< relref "competences-de-combat#corps-à-corps-armé" >}})
-* [Arme à projectiles]({{< relref "competences-de-combat#ame-à-projectiles" >}})
+* [Corps à Corps armé]({{< relref "competences-de-combat#corps-à-corps-arme" >}})
+* [Arme à projectiles]({{< relref "competences-de-combat#arme-à-projectiles" >}})
 * [Arme de poing]({{< relref "competences-de-combat#arme-de-poing" >}})
 * [Fusil]({{< relref "competences-de-combat#fusil" >}})
 * [Fusil d'assaut]({{< relref "competences-de-combat#fusil-d-assaut" >}})

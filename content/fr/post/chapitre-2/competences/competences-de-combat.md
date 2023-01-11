@@ -6,6 +6,7 @@ description: "Les Compétences de Combat"
 featured_image: "/images/competences-de-combat.png"
 tags: ["règles", "compétences"]
 draft: false
+slug: "competences-de-combat"
 ---
 
 ## Corps à corps (sans arme)

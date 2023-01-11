@@ -6,6 +6,7 @@ description: "Les Compétences Multiples"
 featured_image: "/images/competences-multiples.png"
 tags: ["règles", "compétences"]
 draft: false
+slug: "competences-multiples"
 ---
 
 ## Arts

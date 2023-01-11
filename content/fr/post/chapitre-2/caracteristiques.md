@@ -15,11 +15,11 @@ Les caractéristiques du personnage représente l'innée, là où les compétenc
 
 Dans *'Exit Nihilo'*, un personnage est définit par 10 caractéristiques qui font parties de 5 domaines ou groupe de caractéristiques, appelés attributs. Il y a donc 2 caractéristiques par groupe.  
 Les groupes sont :  
-- [Physique]({{< relref "attributs/physique" >}})
-- [Agilité]({{< relref "attributs/agilite" >}})
-- [Caractère]({{< relref "attributs/caractere" >}})
-- [Esprit]({{< relref "attributs/esprit" >}})
-- [Social]({{< relref "attributs/social" >}})
+* [Physique]({{< relref "attributs/physique" >}})
+* [Agilité]({{< relref "attributs/agilite" >}})
+* [Caractère]({{< relref "attributs/caractere" >}})
+* [Esprit]({{< relref "attributs/esprit" >}})
+* [Social]({{< relref "attributs/social" >}})
 
 ### Liste des Attributs
 

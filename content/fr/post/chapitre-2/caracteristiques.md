@@ -1,6 +1,6 @@
 ---
 date: 2022-11-26T10:58:08-04:00
-description: "Chapitre 1 - Les Caractéristiques"
+description: "Chapitre 2 - Les Caractéristiques"
 featured_image: "/images/exit-nihilo-character.png"
 tags: ["règles", "caractéristiques"]
 title: "Chapitre I: Les caractéristiques"

@@ -1,7 +1,7 @@
 ---
 date: 2023-01-09T10:58:08-04:00
-publishdate: 2022-01-09
-description: "Chapitre 1 - L'Attribut Esprit"
+publishdate: 2023-01-09
+description: "Chapitre 2 - L'Attribut Esprit"
 slug: 'attribut-esprit'
 featured_image: "/images/attribut-esprit.png"
 tags: ["règles", "caractéristiques"]

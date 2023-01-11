@@ -1,7 +1,7 @@
 ---
 date: 2023-01-09T10:58:08-04:00
-publishdate: 2022-01-09
-description: "Chapitre 1 - L'Attribut Caractère"
+publishdate: 2023-01-09
+description: "Chapitre 2 - L'Attribut Caractère"
 slug: 'attribut-caractère'
 featured_image: "/images/attribut-caractere.png"
 tags: ["règles", "caractéristiques"]

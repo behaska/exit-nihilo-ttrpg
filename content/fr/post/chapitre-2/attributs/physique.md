@@ -1,7 +1,7 @@
 ---
 date: 2023-01-06T10:58:08-04:00
-publishdate: 2022-01-02
-description: "Chapitre 1 - L'Attribut Physique"
+publishdate: 2023-01-02
+description: "Chapitre 2 - L'Attribut Physique"
 slug: 'attribut-physique'
 featured_image: "/images/attribut-physique.png"
 tags: ["règles", "caractéristiques"]

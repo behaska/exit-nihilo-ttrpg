@@ -1,7 +1,7 @@
 ---
 date: 2023-01-10T07:58:08-04:00
 publishdate: 2022-01-10
-description: "Chapitre 1 - LEs Compétences"
+description: "Chapitre 2 - LEs Compétences"
 slug: 'competences'
 featured_image: "/images/competences.png"
 tags: ["règles", "compétences"]

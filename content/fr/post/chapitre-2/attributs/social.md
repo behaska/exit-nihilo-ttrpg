@@ -1,7 +1,7 @@
 ---
 date: 2023-01-09T10:58:08-04:00
-publishdate: 2022-01-09
-description: "Chapitre 1 - L'Attribut Social"
+publishdate: 2023-01-09
+description: "Chapitre 2 - L'Attribut Social"
 slug: 'attribut-social'
 featured_image: "/images/attribut-social.png"
 tags: ["règles", "caractéristiques"]

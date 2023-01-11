@@ -1,7 +1,7 @@
 ---
 date: 2023-01-06T10:58:08-04:00
-publishdate: 2022-01-02
-description: "Chapitre 1 - L'Attribut Agilité"
+publishdate: 2023-01-02
+description: "Chapitre 2 - L'Attribut Agilité"
 slug: 'attribut-agilite'
 featured_image: "/images/attribut-agilite.png"
 tags: ["règles", "caractéristiques"]

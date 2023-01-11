@@ -3,10 +3,10 @@ date: 2023-01-09T07:58:08-04:00
 publishdate: 2023-01-09
 title: "Chapitre II: Les Compétences Simples"
 description: "Les Compétences Simples"
-slug: 'competences-simples'
 featured_image: "/images/competences-simples.png"
 tags: ["règles", "compétences"]
 draft: false
+slug: "competences-simples"
 ---
 
 ## Argumenter

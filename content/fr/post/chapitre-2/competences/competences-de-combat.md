@@ -3,7 +3,6 @@ date: 2023-01-10T07:58:08-04:00
 publishdate: 2023-01-10
 title: "Chapitre II: Les Compétences de Combat"
 description: "Les Compétences de Combat"
-slug: 'competences-de-combat'
 featured_image: "/images/competences-de-combat.png"
 tags: ["règles", "compétences"]
 draft: false

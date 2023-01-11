@@ -3,7 +3,6 @@ date: 2023-01-10T07:58:08-04:00
 publishdate: 2023-01-10
 title: "Chapitre II: Les Compétences Multiples"
 description: "Les Compétences Multiples"
-slug: 'competences-multiples'
 featured_image: "/images/competences-multiples.png"
 tags: ["règles", "compétences"]
 draft: false

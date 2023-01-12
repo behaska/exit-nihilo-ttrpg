@@ -42,7 +42,7 @@ Les compétences simples ou communes sont utilisées pour représenter des conna
 Les compétences groupées regroupant des compétences spécifiques (simples) que l'on doit définir précisément. Par exemple si on parle de l'Arts, cela peut-être la peinture, la sculpture, la musique, etc. Chaque sous-compétence doit être développée indépendamment des autres.
 
 ### Liste des compétences multiples
-* [[Arts]({{< relref "competences-multiples#arts" >}})
+* [Arts]({{< relref "competences-multiples#arts" >}})
 * [Pilotages]({{< relref "competences-multiples#pilotages" >}})
 * [Professions]({{< relref "competences-multiples#professions" >}})
 

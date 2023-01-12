@@ -9,12 +9,13 @@ title: "Chapitre I: La création de personnage"
 
 ## Introduction
 
-La création de personnage est une phase importante du jeu, elle doit être un moment important d'échange entre le Maître de l'Apocalypse et le Joueur. N'hésitez pas à passer du temps à échanger, l'objectif est de donner du liant aux caractéristiques.  
-Les règles ont été pensées pour donner de l'épaisseur au personnage et qu'il ne reste pas une somme de chiffres et statistiques.
+Dans ***Exit-Nihilo***, la première étape dans la création de personnage est la phase de choix d'archétype. Dans un jeu de rôle, un archétype de personnage est un modèle de personnage prédéfini que les joueurs peuvent choisir pour incarner leur personnage dans le jeu. Les archétypes de personnages peuvent inclure des personnages tels que les combattants, le chasseur, le scientifique, le détective, le mercenaire, etc. Le joueur peut choisir son background, c'est à dire son histoire, sa profession, sa famille, ses relations, etc.
+Cela va permettre de donner un contexte à son personnage et de définir les compétences qu'il a acquises avant les événements de la campagne. Enfin, le joueur doit définir les motivations de son personnage, ses objectifs et ses désirs. Cela va donner une direction à son personnage et lui permettre de s'épanouir dans la campagne.
+Cette phase peut également inclure une discussion avec le Maître de Jeu pour s'assurer que l'archétype choisi correspond à l'univers de jeu et à l'histoire qui seront jouées. Le Maître de Jeu est là pour aider le joueur à définir ces éléments et s'assurer qu'ils s'intègrent bien dans l'univers et la trame de fond de la campagne. Pendant cette discussion, le joueur pourra décrire les aspirations de son personnage, sa profession, ses motivations, ses peurs, ses espoirs, ses buts, son passé et bien plus. Il pourra ainsi expliquer comment il voit son personnage et comment il souhaite l'incarner.
+Il est important de noter que choisir un archétype ne signifie pas que le personnage doit être un stéréotype ou qu'il doit suivre certaines règles strictes. Il s'agit plutôt d'un point de départ pour la création de personnage, qui peut être personnalisé et développé de différentes manières dans les étapes suivantes.  
+L'archétype de personnage est un aspect crucial de la création de personnage. Il orientera les étapes suivantes dans le choix des caractéristiques, des compétences de base de votre personnage, ainsi que son histoire et son rôle dans le monde post-apocalyptique d'Exit Nihilo.
 
 ## Les 5 étapes pour créer un personnage.
-
-On parle ici de la dextérité et de la manipulation. C'est la précision du geste mais aussi de la coordination des membres. On utilisera précision pour lancer un objet.
 
 - Choix du Stéréotype 
 - Développement durant l'enfance
@@ -24,9 +25,13 @@ On parle ici de la dextérité et de la manipulation. C'est la précision du ges
 
 ## Stéréotype 
 
-Pour commencer la création d'un personnage, il faut choisir son stéréotype ou profil. Cela va influer sur les caractéristiques et la valeurs qu'elles vont avoir.
-Dans *'Exit Nihilo'*, il existe 3 stéréotypes d'attributs. En fonction du stéréotype, les attributs seront plus ou moins différents.  
+Pour commencer la création d'un personnage en terme technique, il faut choisir son stéréotype ou profil d'attributs. Cela va influer sur les caractéristiques et la valeurs qu'elles vont avoir. Il existe 3 stéréotypes d'attributs. En fonction du stéréotype, les attributs seront plus ou moins différents.  
 Chaque stéréotype fournira une base de modificateur à chaque groupe ou domaine de compétences, aussi appelé [Attributs]({{< relref "caracteristiques" >}}).
+
+Le ***Polyvalent*** est un archétype généraliste qui a des compétences équilibrées dans tous les domaines, mais sans excelle dans un domaine spécifique. Il est souvent utilisé pour des personnages qui ont des rôles de support ou de leader.
+Le ***Spécialiste*** est un archétype qui a des compétences très développées dans plusieurs domaines, mais il manque de polyvalence. Il est souvent utilisé pour des personnages qui ont des rôles de combattant ou de leader.
+L'***Expert*** est un archétype qui a des compétences très développées dans un domaine spécifique, mais qui peut être faible dans d'autres domaines. Il est souvent utilisé pour des personnages qui ont des rôles de combattant ou d'expert.
+Chacun de ces archétypes ont leur propre avantages et inconvénients, c'est à vous de choisir celui qui convient le mieux à votre personnage et à l'histoire que vous souhaitez raconter.
 
 ### Le Polyvalent
 

@@ -1,11 +1,11 @@
 ---
 date: 2023-01-12T10:58:08-04:00
 publishdate: 2023-01-02
-description: "Le Soigant"
-slug: 'occupation-soignant'
-featured_image: "/images/soignant.png"
+description: "Le Bricoleur"
+slug: 'occupation-bricoleur'
+featured_image: "/images/bricoleur.png"
 tags: ["règles", "occupations"]
-title: "Chapitre I: Le Soignant"
+title: "Chapitre I: Le Bricoleur"
 draft: false
 ---
 

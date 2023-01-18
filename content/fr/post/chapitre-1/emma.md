@@ -3,7 +3,7 @@ date: 2023-01-10T09:58:08-04:00
 publishdate: 2023-01-10
 description: "Chapitre 1 - Emma"
 slug: 'presentation-exit-nihilo'
-featured_image: "/images/exit-nihilo-introduction.png"
+featured_image: "/images/emma-introduction.png"
 tags: ["contexte", "emma"]
 title: "Chapitre I: Emma"
 draft: false

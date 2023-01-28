@@ -21,4 +21,6 @@ Vous apprenez rapidement que pour survivre dans ce monde, vous devrez faire des 
 
 Bienvenue dans l'univers de Exit-Nihilo, un jeu de rôle immersif où vous devrez faire face aux épreuves d'un monde sans merci, où chaque jour est une lutte pour la survie. Préparez-vous à vivre une aventure stressante et tendue, où chaque décision peut être la dernière." 
 
-{{< img src="/images/ville-avec-zombies-2.png" alt="un aperçu d'une ville remplie de zombie" size="500x">}}
+{{< img src="/images/ville-avec-zombies-2.png" alt="un aperçu d'une ville remplie de zombie" size="500x" extraCss="center">}}
+
+{{% navigation beforePost=introduction beforeLabel=Introduction  afterPost=emma afterLabel=Emma %}}

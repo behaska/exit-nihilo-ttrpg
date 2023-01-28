@@ -1,7 +1,8 @@
 {{ $image := resources.GetMatch (.Get "src") }}
 {{ $characterSheet := resources.GetMatch (.Get "link") }}
 {{ $size :=  default "200x" (.Get "size") }}
+{{ $extraCss := .Get "extraCss" }}
 
 {{ with .Get "link" }}<a href="{{ ($characterSheet).RelPermalink }}">{{ end }}
-<img src="{{ ($image.Resize $size).RelPermalink }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }} />
+<img {{ with .Params.extraCss }}class="{{ $extraCss }}" {{ end }} src="{{ ($image.Resize $size).RelPermalink }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }} />
 {{ if .Get "link" }}</a>{{ end }}

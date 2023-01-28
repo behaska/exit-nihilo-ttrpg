@@ -20,6 +20,8 @@ Mais alors qu'ils croyaient être en sécurité, Emma et les survivants furent t
 
 Emma a réussi à s'en sortir, mais elle savait qu'elle devait rester vigilante. La mort était partout, menaçant de la prendre à tout moment. Elle se jura de continuer à se battre pour sa survie, jusqu'à son dernier souffle. Car dans ce monde de cauchemar, il n'y avait pas d'autre choix que de lutter pour rester en vie.
 
-{{< img src="/images/emma-vue-de-dos.png" alt="un aperçu d'Emma de dos marchant" size="500x">}}
+{{< img src="/images/emma-vue-de-dos.png" alt="un aperçu d'Emma de dos marchant" size="500x" extraCss="center" >}}
 
 Tout au long de ces règles vous allez suivre Emma, elle nous servira d'exemple pour expliquer les règles de ce jeu.
+
+{{% navigation beforePost=presentation beforeLabel=Présentation parentPost=introduction parentLabel=Introduction afterPost=.. afterLabel=Accueil %}}

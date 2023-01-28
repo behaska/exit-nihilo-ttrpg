@@ -1,0 +1,29 @@
+{{ $before := .Get "beforePost" }}
+{{ $beforeLabel := .Get "beforeLabel" }}
+{{ $beforeUrl := relref . $before }}
+
+{{ $parent := .Get "parentPost" }}
+{{ $parentLabel := .Get "parentLabel" }}
+{{ $parentUrl := relref . $parent }}
+
+{{ $after := .Get "afterPost" }}
+{{ $afterLabel := .Get "afterLabel" }}
+{{ $afterUrl := relref . $after }}
+
+<div class="navigation">
+<div class="before">
+{{ if isset .Params "beforePost" }}
+<a href="{{ $beforeUrl }}"><i class="fa-solid fa-angles-left"></i> {{ $beforeLabel }}</a>
+{{end}}
+</div>
+<div class="parent">
+{{ with (.Get "parentPost" ) }}
+<a href="{{ $parentUrl }}"><i class="fa-solid fa-angles-up"></i> {{ $parentLabel }}</a>
+{{end}}
+</div>
+<div class="after">
+{{ with (.Get "afterPost" ) }}
+<a href="{{ $afterUrl }}">{{ $afterLabel }} <i class="fa-solid fa-angles-right"></i></a>
+{{end}}
+</div>
+</div>

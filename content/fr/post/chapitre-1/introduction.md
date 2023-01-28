@@ -13,4 +13,7 @@ Bienvenue dans un monde post-apocalyptique où les morts se relèvent et où les
 
 Bienvenue dans Exit Nihilo.
 
-{{< img src="/images/ville-avec-zombies.png" alt="un aperçu d'une ville remplie de zombie" size="500x">}}
+{{< img src="/images/ville-avec-zombies.png" alt="un aperçu d'une ville remplie de zombie" size="500x" extraCss="center" >}}
+
+
+{{% navigation parentPost=.. parentLabel=Accueil afterPost=presentation afterLabel=Présentation %}}

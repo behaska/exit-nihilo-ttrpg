@@ -8,7 +8,9 @@ title: "Chapitre I: La création de personnage"
 
 
 ## Introduction
+Bienvenue dans un monde post-apocalyptique où les morts se relèvent et où les vivants doivent lutter pour survivre. Vous incarnez un personnage déterminé à survivre dans ce monde rempli de dangers, où chaque jour est une lutte pour rester en vie. Vous devrez faire des choix difficiles, affronter des zombies affamés, et naviguer les relations complexes avec les autres survivants.  
 
+## Synthèse  
 Dans ***Exit-Nihilo***, la première étape dans la création de personnage est la phase de choix d'archétype. Dans un jeu de rôle, un archétype de personnage est un modèle de personnage prédéfini que les joueurs peuvent choisir pour incarner leur personnage dans le jeu. Les archétypes de personnages peuvent inclure des personnages tels que les combattants, le chasseur, le scientifique, le détective, le mercenaire, etc. Le joueur peut choisir son background, c'est à dire son histoire, sa profession, sa famille, ses relations, etc.
 Cela va permettre de donner un contexte à son personnage et de définir les compétences qu'il a acquises avant les événements de la campagne. Enfin, le joueur doit définir les motivations de son personnage, ses objectifs et ses désirs. Cela va donner une direction à son personnage et lui permettre de s'épanouir dans la campagne.
 Cette phase peut également inclure une discussion avec le Maître de Jeu pour s'assurer que l'archétype choisi correspond à l'univers de jeu et à l'histoire qui seront jouées. Le Maître de Jeu est là pour aider le joueur à définir ces éléments et s'assurer qu'ils s'intègrent bien dans l'univers et la trame de fond de la campagne. Pendant cette discussion, le joueur pourra décrire les aspirations de son personnage, sa profession, ses motivations, ses peurs, ses espoirs, ses buts, son passé et bien plus. Il pourra ainsi expliquer comment il voit son personnage et comment il souhaite l'incarner.

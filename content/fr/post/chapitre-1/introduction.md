@@ -9,7 +9,7 @@ title: "Chapitre I: Introduction"
 draft: false
 ---
 ## Introduction  
-Bienvenue dans un monde post-apocalyptique où les morts se relèvent et où les vivants doivent lutter pour survivre. Vous incarnez un personnage déterminé à survivre dans ce monde rempli de dangers, où chaque jour est une lutte pour rester en vie. Vous devrez faire des choix difficiles, affronter des zombies affamés, et naviguer les relations complexes avec les autres survivants.  
+Exit Nihilo est un jeu de rôle de survie post-apocalyptique qui vous plongera dans un monde dévasté par une catastrophe. Les joueurs devront faire face à des zombies et à d'autres dangers tout en cherchant à survivre et à se reconstruire. Le système de jeu utilisé est basé sur les dés 6, où les joueurs ont le contrôle de leur destinée. Le Maître de Jeu, appelé Maître des Zombies, joue un rôle de narrateur et met en scène les événements, mais les décisions finales reposent sur les joueurs. Ce jeu est pour ceux qui cherchent une expérience de jeu immersif et intense où les choix ont des conséquences réelles. Rejoignez Exit Nihilo et vivez l'aventure post-apocalyptique ultime.
 
 Bienvenue dans Exit Nihilo.
 

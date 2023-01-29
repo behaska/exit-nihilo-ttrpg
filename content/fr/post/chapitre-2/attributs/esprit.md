@@ -1,11 +1,11 @@
 ---
 date: 2023-01-09T10:58:08-04:00
 publishdate: 2023-01-09
-description: "Chapitre 2 - L'Attribut Esprit"
+title: "Chapitre II: L'Attribut Esprit"
+description: "Raisonnement et Apprentissage"
 slug: 'attribut-esprit'
 featured_image: "/images/attribut-esprit.png"
-tags: ["règles", "caractéristiques"]
-title: "Chapitre I: L'Attribut Esprit"
+tags: ["règles", "attributs", "caractéristiques"]
 draft: false
 ---
 

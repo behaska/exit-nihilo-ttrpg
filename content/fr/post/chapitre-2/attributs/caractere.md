@@ -1,11 +1,11 @@
 ---
 date: 2023-01-09T10:58:08-04:00
 publishdate: 2023-01-09
-description: "Chapitre 2 - L'Attribut Caractère"
+title: "Chapitre II: L'Attribut Caractère"
+description: "Volonté et Conscience"
 slug: 'attribut-caractère'
 featured_image: "/images/attribut-caractere.png"
-tags: ["règles", "caractéristiques"]
-title: "Chapitre I: L'Attribut Caractère"
+tags: ["règles", "attributs", "caractéristiques"]
 draft: false
 ---
 

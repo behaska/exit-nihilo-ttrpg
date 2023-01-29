@@ -1,11 +1,11 @@
 ---
 date: 2023-01-09T10:58:08-04:00
 publishdate: 2023-01-09
-description: "Chapitre 2 - L'Attribut Social"
+title: "Chapitre II: L'Attribut Social"
+description: "Empathie et Communication"
 slug: 'attribut-social'
 featured_image: "/images/attribut-social.png"
-tags: ["règles", "caractéristiques"]
-title: "Chapitre I: L'Attribut Social"
+tags: ["règles", "attributs", "caractéristiques"]
 draft: false
 ---
 

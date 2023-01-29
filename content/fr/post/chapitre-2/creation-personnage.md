@@ -47,10 +47,10 @@ Les joueurs doivent choisir l'archétype qui convient le mieux à leur personnag
 Maintenant que vous avez choisit votre stéréotype, il va falloir [calculer la valeur de chaque attribut]({{< relref "attributs#calculer-les-attributs" >}}), pour cela il faut appliquer les modifications de ce dernier à vos attributs.
 
 Les attributs sont au nombre de 5 et représentent les groupes de caractéristiques
-* [Physique]({{< relref "attributs/physique" >}})
 * [Agilité]({{< relref "attributs/agilite" >}})
-* [Esprit]({{< relref "attributs/esprit" >}})
 * [Caractère]({{< relref "attributs/caractere" >}})
+* [Esprit]({{< relref "attributs/esprit" >}})
+* [Physique]({{< relref "attributs/physique" >}})
 * [Social]({{< relref "attributs/social" >}})
 
 En tant que joueur, vous devez classer ces attributs dans l'ordre que vous voulez puis appliquer les bonus/malus éventuel de votre [stéréotype]({{< relref "stereotypes" >}}). Vous obtiendrez donc la valeur de vos attributs que vous pouvez reporter sur votre feuille de personnage. Ces valeurs ne changeront plus jamais durant la vie de votre personnage.
@@ -65,11 +65,11 @@ Ainsi, on obtient la valeur des caractéristiques du personnage qui ne changeron
 #### Exemple
 Nous retrouvons Sarah qui doit maintenant pour chaque attribut, choisir sa caractéristique principale et la secondaire. Pour rappel, elle avait choisit le stéréotype spécialiste (nous avons remis les valeurs des attributs pour rappel).
 * Physique (+1) --> Puissance (secondaire), Vitalité (principal)
-* Agilité (+1) --> Adresse (secondaire), Coordination (principal)
+* Agilité (+1) --> [Adresse]({{< relref "attributs/agilite#adresse" >}}) (secondaire), [Coordination]({{< relref "attributs/agilite#coordination" >}}) (principal)
 * Esprit (-1) --> Raisonnement (secondaire), Apprentissage (principal)
 * Caractère (0) --> Conscience (secondaire), Volonté (principal)
 * Social (-1) --> Communication (secondaire), Empathie (principal)
-
+  
 Les caractéristiques d'Emma sont au final :
 > Puissance (1), Vitalité (2), Adresse (1), Coordination (2), Raisonnement (-1), Apprentissage (0), Conscience (0), Volonté (1), Communication (-1), Empathie (0)
 

@@ -1,11 +1,11 @@
 ---
 date: 2023-01-06T10:58:08-04:00
 publishdate: 2023-01-02
-description: "Chapitre 2 - L'Attribut Physique"
+title: "Chapitre II: L'Attribut Physique"
+description: "Puissance et Vitalité"
 slug: 'attribut-physique'
 featured_image: "/images/attribut-physique.png"
-tags: ["règles", "caractéristiques"]
-title: "Chapitre I: L'Attribut Physique"
+tags: ["règles", "attributs", "caractéristiques"]
 draft: false
 ---
 

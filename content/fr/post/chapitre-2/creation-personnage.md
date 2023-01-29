@@ -13,7 +13,7 @@ Bienvenue dans un monde post-apocalyptique où les morts se relèvent et où les
 
 ## Les 5 étapes pour créer un personnage.
 
-- Choix de l'Archétype
+- Choix de l'[Archétype]({{< relref "#archétype-de-personnage" >}})
 - Calcul des [Attributs]({{< relref "#les-attributs" >}})
 - Calcul des [Compétences]({{< relref "#les-compétences" >}})
 - Choix du Rôle
@@ -24,10 +24,19 @@ Dans un jeu de rôle, un archétype de personnage est un modèle de personnage p
 Cela va permettre de donner un contexte à son personnage et de définir les compétences qu'il a acquises avant les événements de la campagne. Enfin, le joueur doit définir les motivations de son personnage, ses objectifs et ses désirs. Cela va donner une direction à son personnage et lui permettre de s'épanouir dans la campagne.  
 Cette phase peut également inclure une discussion avec le Maître de Jeu pour s'assurer que l'archétype choisi correspond à l'univers de jeu et à l'histoire qui seront jouées. Le Maître de Jeu est là pour aider le joueur à définir ces éléments et s'assurer qu'ils s'intègrent bien dans l'univers et la trame de fond de la campagne. Pendant cette discussion, le joueur pourra décrire les aspirations de son personnage, sa profession, ses motivations, ses peurs, ses espoirs, ses buts, son passé et bien plus. Il pourra ainsi expliquer comment il voit son personnage et comment il souhaite l'incarner.  
 Il est important de noter que choisir un archétype ne signifie pas que le personnage doit être un stéréotype ou qu'il doit suivre certaines règles strictes. Il s'agit plutôt d'un point de départ pour la création de personnage, qui peut être personnalisé et développé de différentes manières dans les étapes suivantes.  
-L'archétype de personnage est un aspect crucial de la création de personnage. Il orientera les étapes suivantes dans le choix des caractéristiques, des compétences de base de votre personnage, ainsi que son histoire et son rôle dans le monde post-apocalyptique d'Exit Nihilo.
+L'archétype de personnage est un aspect crucial de la création de personnage. Il orientera les étapes suivantes dans le choix des caractéristiques, des compétences de base de votre personnage, ainsi que son histoire et son rôle dans le monde post-apocalyptique d'Exit Nihilo.  
+
+En consacrant du temps à la phase d'archétype, vous pouvez vous assurer que votre personnage est cohérent et qu'il a une histoire crédible. Cela peut vous aider à mieux comprendre la personnalité et les motivations de votre personnage, ce qui peut en retour améliorer votre jeu et votre immersion dans le monde du jeu.  
+De plus, en déterminant les forces et les faiblesses de votre personnage à travers son archétype, vous pouvez vous assurer que votre personnage est bien équilibré et qu'il a les capacités nécessaires pour réussir dans le jeu. Cela peut aussi aider à éviter les incohérences dans le développement de votre personnage au fil du jeu.  
+Enfin, choisir un archétype peut ajouter une dimension supplémentaire à votre jeu en vous permettant de jouer un personnage que vous aimez ou en vous offrant de nouveaux défis à relever en jouant un personnage très différent de ce que vous êtes habitué à jouer.  
+
+En conclusion, consacrer du temps à la phase d'archétype peut vous aider à créer un personnage cohérent, équilibré et immersif, et peut vous offrir de nouveaux défis et opportunités de jeu. C'est donc un investissement de temps qui peut s'avérer très rentable pour votre expérience de jeu.
 
 ### Exemple d'archétype
-Sarah, la joueuse d'Emma, voit son personnage comme une jeu femme forte et résistante aussi bien physiquement que mentalement. Avant l'apocalypse elle était pompier professionnelle dans une brigade. Elle aime aider les gens malgré le fait qu'elle a du mal dans les interactions humaines.
+Sarah, la joueuse d'Emma, voit son personnage Emma ainsi.
+> Elle était une pompière avant l'effondrement de la société et a conservé son sens du devoir en aidant les autres survivants dans le besoin. Emma est forte physiquement, elle a l'agilité et la force nécessaires pour survivre dans ce monde difficile.  
+> Cependant, la vie dans un monde rempli de zombies l'a également endurcie mentalement. Emma est déterminée à faire ce qui est juste et à aider les autres, mais elle a du mal à s'ouvrir aux gens et à construire des relations humaines. Elle peut être froide et distante, même avec les personnes les plus proches d'elle, et peut avoir des difficultés à faire confiance aux autres.  
+> Malgré cela, Emma est un leader naturel et est capable de prendre des décisions difficiles pour protéger les autres survivants. Elle est un modèle de détermination et de courage pour les personnes autour d'elle, même si elle peut paraître inaccessible à certains moments.
 
 ## Les Attributs
 

@@ -11,31 +11,69 @@ title: "Chapitre II: La création de personnage"
 ## Introduction
 Bienvenue dans un monde post-apocalyptique où les morts se relèvent et où les vivants doivent lutter pour survivre. Vous incarnez un personnage déterminé à survivre dans ce monde rempli de dangers, où chaque jour est une lutte pour rester en vie. Vous devrez faire des choix difficiles, affronter des zombies affamés, et naviguer les relations complexes avec les autres survivants.  
 
-## Synthèse  
-Dans ***Exit-Nihilo***, la première étape dans la création de personnage est la phase de choix d'archétype. Dans un jeu de rôle, un archétype de personnage est un modèle de personnage prédéfini que les joueurs peuvent choisir pour incarner leur personnage dans le jeu. Les archétypes de personnages peuvent inclure des personnages tels que les combattants, le chasseur, le scientifique, le détective, le mercenaire, etc. Le joueur peut choisir son background, c'est à dire son histoire, sa profession, sa famille, ses relations, etc.
-Cela va permettre de donner un contexte à son personnage et de définir les compétences qu'il a acquises avant les événements de la campagne. Enfin, le joueur doit définir les motivations de son personnage, ses objectifs et ses désirs. Cela va donner une direction à son personnage et lui permettre de s'épanouir dans la campagne.
-Cette phase peut également inclure une discussion avec le Maître de Jeu pour s'assurer que l'archétype choisi correspond à l'univers de jeu et à l'histoire qui seront jouées. Le Maître de Jeu est là pour aider le joueur à définir ces éléments et s'assurer qu'ils s'intègrent bien dans l'univers et la trame de fond de la campagne. Pendant cette discussion, le joueur pourra décrire les aspirations de son personnage, sa profession, ses motivations, ses peurs, ses espoirs, ses buts, son passé et bien plus. Il pourra ainsi expliquer comment il voit son personnage et comment il souhaite l'incarner.
+## Les 5 étapes pour créer un personnage.
+
+- Choix de l'Archétype
+- Calcul des [Attributs]({{< relref "#les-attributs" >}})
+- Calcul des [Compétences]({{< relref "#les-compétences" >}})
+- Choix du Rôle
+
+## Archétype de personnage  
+Dans ***Exit-Nihilo***, la première étape dans la création de personnage est la phase de choix d'archétype.  
+Dans un jeu de rôle, un archétype de personnage est un modèle de personnage prédéfini que les joueurs peuvent choisir pour incarner leur personnage dans le jeu. Les archétypes de personnages peuvent inclure des personnages tels que les combattants, le chasseur, le scientifique, le détective, le mercenaire, etc. Le joueur peut choisir son background, c'est à dire son histoire, sa profession, sa famille, ses relations, etc.  
+Cela va permettre de donner un contexte à son personnage et de définir les compétences qu'il a acquises avant les événements de la campagne. Enfin, le joueur doit définir les motivations de son personnage, ses objectifs et ses désirs. Cela va donner une direction à son personnage et lui permettre de s'épanouir dans la campagne.  
+Cette phase peut également inclure une discussion avec le Maître de Jeu pour s'assurer que l'archétype choisi correspond à l'univers de jeu et à l'histoire qui seront jouées. Le Maître de Jeu est là pour aider le joueur à définir ces éléments et s'assurer qu'ils s'intègrent bien dans l'univers et la trame de fond de la campagne. Pendant cette discussion, le joueur pourra décrire les aspirations de son personnage, sa profession, ses motivations, ses peurs, ses espoirs, ses buts, son passé et bien plus. Il pourra ainsi expliquer comment il voit son personnage et comment il souhaite l'incarner.  
 Il est important de noter que choisir un archétype ne signifie pas que le personnage doit être un stéréotype ou qu'il doit suivre certaines règles strictes. Il s'agit plutôt d'un point de départ pour la création de personnage, qui peut être personnalisé et développé de différentes manières dans les étapes suivantes.  
 L'archétype de personnage est un aspect crucial de la création de personnage. Il orientera les étapes suivantes dans le choix des caractéristiques, des compétences de base de votre personnage, ainsi que son histoire et son rôle dans le monde post-apocalyptique d'Exit Nihilo.
 
-## Les 5 étapes pour créer un personnage.
+### Exemple d'archétype
+Sarah, la joueuse d'Emma, voit son personnage comme une jeu femme forte et résistante aussi bien physiquement que mentalement. Avant l'apocalypse elle était pompier professionnelle dans une brigade. Elle aime aider les gens malgré le fait qu'elle a du mal dans les interactions humaines.
 
-- Choix du [Stéréotype]({{< relref "stereotypes" >}}) 
-- Développement durant l'enfance
-- Développement durant l'adolescence
-- Développement à l'âge adulte (profession)
-- Choix du Rôle
+## Les Attributs
 
-## Les Stéréotypes
-Dans Exit Nihilo, les joueurs peuvent choisir parmi trois [stéréotypes]({{< relref "stereotypes" >}}) d'attributs pour leur personnage : 
-* le [polyvalent]({{< relref "stereotypes#le-polyvalent" >}})
-* le [spécialiste]({{< relref "stereotypes#le-spécialiste" >}})
-* l'[expert]({{< relref "stereotypes#lexpert" >}})
+Afin de calculer la valeur des attributs, il faut tout d'abord choisir le stéréotype de son personnage, sorte d'archétype d'attributs.
 
-Le polyvalent a des compétences équilibrées dans tous les domaines, ce qui le rend utile pour des rôles de support ou de leader. Le spécialiste a des compétences développées dans plusieurs domaines, mais il manque de polyvalence, il est donc souvent utilisé pour des rôles de combattant ou de leader. L'expert a des compétences développées dans un domaine spécifique, mais peut être faible dans d'autres domaines, il est donc souvent utilisé pour des rôles de combattant ou d'expert. 
-Les joueurs doivent choisir le stéréotype qui convient le mieux à leur personnage et à l'histoire qu'ils souhaitent raconter.
+### Les Stéréotypes
+Les joueurs peuvent choisir parmi trois [stéréotypes]({{< relref "stereotypes" >}}) d'attributs pour leur personnage : 
+* le [polyvalent]({{< relref "stereotypes#le-polyvalent" >}}) (0/0/0/0/0)
+* le [spécialiste]({{< relref "stereotypes#le-spécialiste" >}}) (-1/-1/0/+1/+1)
+* l'[expert]({{< relref "stereotypes#lexpert" >}}) (-2/-1/0/+1/+2)
 
-## Développement
+L'archétype choisi influe sur les attributs en modifiant les valeurs de base de chaque attribut.  
+Par exemple, un personnage polyvalent aura des compétences équilibrées dans tous les domaines, mais sans excelle dans un domaine spécifique. Au contraire, un personnage spécialiste aura des compétences très développées dans plusieurs domaines, mais sera moins polyvalent. Le personnage expert aura des compétences très développées dans un seul domaine, mais peut être faible dans d'autres domaines. Ainsi, l'archétype choisi aura un impact sur les capacités de combat, de survie, de leadership et d'autres compétences importantes dans le monde post-apocalyptique d'Exit Nihilo.  
+Les joueurs doivent choisir l'archétype qui convient le mieux à leur personnage et à l'histoire qu'ils souhaitent raconter.
+
+### Calcul de la valeur des Attributs
+Maintenant que vous avez choisit votre stéréotype, il va falloir [calculer la valeur de chaque attribut]({{< relref "attributs#calculer-les-attributs" >}}), pour cela il faut appliquer les modifications de ce dernier à vos attributs.
+
+Les attributs sont au nombre de 5 et représentent les groupes de caractéristiques
+* [Physique]({{< relref "attributs/physique" >}})
+* [Agilité]({{< relref "attributs/agilite" >}})
+* [Esprit]({{< relref "attributs/esprit" >}})
+* [Caractère]({{< relref "attributs/caractere" >}})
+* [Social]({{< relref "attributs/social" >}})
+
+En tant que joueur, vous devez classer ces attributs dans l'ordre que vous voulez puis appliquer les bonus/malus éventuel de votre [stéréotype]({{< relref "stereotypes" >}}). Vous obtiendrez donc la valeur de vos attributs que vous pouvez reporter sur votre feuille de personnage. Ces valeurs ne changeront plus jamais durant la vie de votre personnage.
+
+### Calcul des Caractéristiques
+
+Une fois les attributs calculés, il faut maintenant pour chaque attribut choisir parmi les 2 caractéristique, celle qui est principale et celle qui est secondaire.  
+La compétence principal aura un bonus de +1 par rapport à son attribut tandis que celle qui est secondaire n'aura aucun modificateur.  
+
+Ainsi, on obtient la valeur des caractéristiques du personnage qui ne changeront plus jusqu'à la fin de la partie.
+
+#### Exemple
+Nous retrouvons Sarah qui doit maintenant pour chaque attribut, choisir sa caractéristique principale et la secondaire. Pour rappel, elle avait choisit le stéréotype spécialiste (nous avons remis les valeurs des attributs pour rappel).
+* Physique (+1) --> Puissance (secondaire), Vitalité (principal)
+* Agilité (+1) --> Adresse (secondaire), Coordination (principal)
+* Esprit (-1) --> Raisonnement (secondaire), Apprentissage (principal)
+* Caractère (0) --> Conscience (secondaire), Volonté (principal)
+* Social (-1) --> Communication (secondaire), Empathie (principal)
+
+Les caractéristiques d'Emma sont au final :
+> Puissance (1), Vitalité (2), Adresse (1), Coordination (2), Raisonnement (-1), Apprentissage (0), Conscience (0), Volonté (1), Communication (-1), Empathie (0)
+
+## Les Compétences
 
 ### L'enfance
 

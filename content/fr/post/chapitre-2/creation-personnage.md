@@ -65,14 +65,16 @@ Les attributs sont au nombre de 5 et représentent les groupes de caractéristiq
 En tant que joueur, vous devez classer ces attributs dans l'ordre que vous voulez puis appliquer les bonus/malus éventuel de votre [stéréotype]({{< relref "stereotypes" >}}). Vous obtiendrez donc la valeur de vos attributs que vous pouvez reporter sur votre feuille de personnage. Ces valeurs ne changeront plus jamais durant la vie de votre personnage.
 
 ### Calcul des Caractéristiques
-
 Une fois les attributs calculés, il faut maintenant pour chaque attribut choisir parmi les 2 caractéristique, celle qui est principale et celle qui est secondaire.  
 La compétence principal aura un bonus de +1 par rapport à son attribut tandis que celle qui est secondaire n'aura aucun modificateur.  
+
+#### Remarque
+C'est la dernière fois que vous aurez l'occasion de modifier vos caractéristiques, ensuite elles seront pour toujours figer.  
 
 Ainsi, on obtient la valeur des caractéristiques du personnage qui ne changeront plus jusqu'à la fin de la partie.
 
 #### Exemple
-Nous retrouvons Sarah qui doit maintenant pour chaque attribut, choisir sa caractéristique principale et la secondaire. Pour rappel, elle avait choisit le stéréotype spécialiste (nous avons remis les valeurs des attributs pour rappel).
+Nous retrouvons Sarah qui doit maintenant pour chaque attribut, choisir sa caractéristique principale et la secondaire pour son personnage d'**Emma**. Pour rappel, elle avait choisit le stéréotype spécialiste (nous avons remis les valeurs des attributs pour rappel).
 * Physique (+1) --> Puissance (secondaire), Vitalité (principal)
 * Agilité (+1) --> [Adresse]({{< relref "attributs/agilite#adresse" >}}) (secondaire), [Coordination]({{< relref "attributs/agilite#coordination" >}}) (principal)
 * Esprit (-1) --> Raisonnement (secondaire), Apprentissage (principal)

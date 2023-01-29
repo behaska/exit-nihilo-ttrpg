@@ -20,41 +20,24 @@ L'archétype de personnage est un aspect crucial de la création de personnage. 
 
 ## Les 5 étapes pour créer un personnage.
 
-- Choix du Stéréotype 
+- Choix du [Stéréotype]({{< relref "stereotypes" >}}) 
 - Développement durant l'enfance
 - Développement durant l'adolescence
 - Développement à l'âge adulte (profession)
 - Choix du Rôle
 
-## Stéréotype 
+## Les Stéréotypes
+Dans Exit Nihilo, les joueurs peuvent choisir parmi trois [stéréotypes]({{< relref "stereotypes" >}}) d'attributs pour leur personnage : 
+* le [polyvalent]({{< relref "stereotypes#le-polyvalent" >}})
+* le [spécialiste]({{< relref "stereotypes#le-spécialiste" >}})
+* l'[expert]({{< relref "stereotypes#lexpert" >}})
 
-Pour commencer la création d'un personnage en terme technique, il faut choisir son stéréotype ou profil d'attributs. Cela va influer sur les caractéristiques et la valeurs qu'elles vont avoir. Il existe 3 stéréotypes d'attributs. En fonction du stéréotype, les attributs seront plus ou moins différents.  
-Chaque stéréotype fournira une base de modificateur à chaque groupe ou domaine de compétences, aussi appelé [Attributs]({{< relref "caracteristiques" >}}).
+Le polyvalent a des compétences équilibrées dans tous les domaines, ce qui le rend utile pour des rôles de support ou de leader. Le spécialiste a des compétences développées dans plusieurs domaines, mais il manque de polyvalence, il est donc souvent utilisé pour des rôles de combattant ou de leader. L'expert a des compétences développées dans un domaine spécifique, mais peut être faible dans d'autres domaines, il est donc souvent utilisé pour des rôles de combattant ou d'expert. 
+Les joueurs doivent choisir le stéréotype qui convient le mieux à leur personnage et à l'histoire qu'ils souhaitent raconter.
 
-Le ***Polyvalent*** est un archétype généraliste qui a des compétences équilibrées dans tous les domaines, mais sans excelle dans un domaine spécifique. Il est souvent utilisé pour des personnages qui ont des rôles de support ou de leader.
-Le ***Spécialiste*** est un archétype qui a des compétences très développées dans plusieurs domaines, mais il manque de polyvalence. Il est souvent utilisé pour des personnages qui ont des rôles de combattant ou de leader.
-L'***Expert*** est un archétype qui a des compétences très développées dans un domaine spécifique, mais qui peut être faible dans d'autres domaines. Il est souvent utilisé pour des personnages qui ont des rôles de combattant ou d'expert.
-Chacun de ces archétypes ont leur propre avantages et inconvénients, c'est à vous de choisir celui qui convient le mieux à votre personnage et à l'histoire que vous souhaitez raconter.
+## Développement
 
-### Le Polyvalent
-
-C'est le stéréotype pour les personnages qui n'ont aucune spécialité dans leurs caractéristiques, elles ont toutes comme base 0 qui sera modifié par la suite dans le process de génération du personnage.
-
-{{< img src="images/stereotype-versatile.png" alt="schéma du stéréotype polyvalent" size="150x">}}
-
-### Le Spécialiste
-
-Pour ce stéréotype, le personnage est spécialisé dans 2 familles de caractéristique, ce qui permet d'avoir un personne plus orienté dans une domaine comme le physique ou le mental.
-
-{{< img src="/images/stereotype-specialist.png" alt="schéma du stéréotype spécialiste" size="150x">}}
-
-### L'Expert
-
-C'est le stéréotype où le personnage est le plus spécifique dans un domaine. Il sera très performant dans un domaine aura en contre partie un domaine pour lequel il est réellement handicapé.
-
-{{< img src="images/stereotype-expert.png" alt="schéma du stéréotype expert" size="150x">}}
-
-## L'enfance
+### L'enfance
 
 Durant l'enfance, le personnage développe quelques compétences en fonction de son activité. Comme on parle d'une période d'enfance, toutes les compétences ne sont pas disponibles. Vous trouverez ci-dessous la liste des compétences que l'on peut augmenter.
 
@@ -71,13 +54,13 @@ Durant l'enfance, le personnage développe quelques compétences en fonction de 
 - Perception
 - Survie
 
-### Nombre de points de Développement à dépenser
+#### Nombre de points de Développement à dépenser
 
 Vous pourrez dépenser 5 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d'**Apprentissage**).
 
 Il faut bien sûr avoir l'accord de son Maître de Jeu et justifier la progression de la compétence par des exemples ou des activités que le personnage aurait pû faire pendant cette période. Comme par exemple, un sport, une activité artistique, l'école, ... Quel que chose de lié à son historique. L'objectif n'est pas l'optimisation !
 
-## L'adolescence
+### L'adolescence
 
 La liste des compétences est plus importantes car certaines compétences deviennent accessible à des adolescents par rapport à des enfants.
 
@@ -101,17 +84,17 @@ La liste des compétences est plus importantes car certaines compétences devien
 - Survie
 - Technologie
 
-### Nombre de points de Développement à dépenser
+#### Nombre de points de Développement à dépenser
 
 Vous pourrez dépenser 10 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d'**Apprentissage**).
 
 Bien sûr, il est toujours nécessaire de justifier ses choix comme pour l'enfance.  
 
-## L'âge adulte
+### L'âge adulte
 
 Presque toutes les compétences sont disponibles maintenant. Le joueur peut investir dans toutes les compétences sauf celles de combats qui sont réservées à certaines professions (fusil d'assaut, fusil de précision et explosif).
 
-### Nombre de points de Développement à dépenser
+#### Nombre de points de Développement à dépenser
 
 Vous pourrez dépenser 15 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d'**Apprentissage**).  
  Attention, cette augmentation ne doit prendre en compte les compétences professionnelles. En effet, cela fait partir d'une autre phase que celle qui est décrite ci-dessous.
@@ -120,7 +103,7 @@ Comme toujours, il faut justifier ces choix au MdJ afin que celui les valide mai
 
 Le développement de l'Âge Adulte incorpore pour les personnages qui l'on vécu toute la partie universitaire. Pour les personnage qui n'ont pas eu à vivre cette période on considère qu'ils ont commencé plus jeune leur vie professionnelle.
 
-### Profession
+### Professions
 
 Une fois que l'on a réalisé le développement de l'Âge Adulte, il faut choisir son métier. Le choix du métier va influer sur les compétences que le personnage va avoir mais rien de plus car on considère que dans le Monde tel qu'il est maintenant, cela n'a plus de sens et ce sera remplacé par Rôle (voir ci-dessous).
 

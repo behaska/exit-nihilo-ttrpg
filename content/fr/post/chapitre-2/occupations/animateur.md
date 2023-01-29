@@ -14,3 +14,5 @@ En jeu, les animateurs peuvent être utilisés pour calmer les tensions entre le
 Il est important de noter que cette occupation n'est pas réserver aux personnages extravertis, elle peut également être endosser par des personnages ayant des capacités à écouter, être à l'écoute et comprendre les besoins des autres.
 
 {{< img src="/images/animateur.png" alt="un guitariste avec un bonnet" size="500x" extraCss="center" >}}
+
+{{% navigation parentPost=../occupations parentLabel="Les Occupations" afterPost=bricoleur afterLabel="Le Bricoleur" %}}

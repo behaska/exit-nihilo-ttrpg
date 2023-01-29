@@ -10,3 +10,7 @@ draft: false
 ---
 
 Le rôle de Protecteur dans Exit Nihilo est celui de la sécurité et de la défense du groupe. Les personnages jouant ce rôle sont souvent des combattants expérimentés, capables de se battre efficacement contre les zombies et les autres dangers qui menacent le groupe. Ils peuvent être des soldats, des policiers, des chasseurs, des gardes du corps, etc. Ils ont des compétences de combat élevées, des connaissances en armes et en tactiques de survie, et une bonne condition physique. Ils sont souvent des membres respectés et écoutés dans le groupe, car ils sont considérés comme des protecteurs de tous. Mais ce rôle peut aussi être lourd de responsabilités, car ils sont souvent les premiers à devoir prendre des décisions difficiles pour assurer la sécurité du groupe. Ils peuvent être amenés à prendre des risques pour sauver les autres, même si cela met leur propre vie en danger.
+
+{{< img src="/images/protecteur.png" alt="un cowboy moderne" size="500x" extraCss="center" >}}
+
+{{% navigation beforePost=logisticien beforeLabel="Le Logisticien" parentPost=../occupations parentLabel="Les Occupations" afterPost=soignant afterLabel="Le Soignant" %}}

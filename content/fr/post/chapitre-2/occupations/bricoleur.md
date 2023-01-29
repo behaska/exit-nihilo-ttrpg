@@ -13,3 +13,5 @@ Dans Exit Nihilo, l'occupation de Bricoleur est un rôle clé pour les survivant
 En jeu, le Bricoleur sera un membre précieux de l'équipe qui pourra aider à résoudre des énigmes et des défis qui impliquent de la construction ou de la réparation. Il pourra aussi prodiguer des conseils à d'autres personnages pour les aider à résoudre des problèmes pratiques. Enfin, les joueurs qui choisissent ce rôle pour leur personnage pourront explorer leur créativité en inventant des gadgets et des outils pour aider leur groupe à surmonter les obstacles rencontrés dans leur quête de survie.
 
 {{< img src="/images/bricoleur.png" alt="un mécanicien dans un garage" size="500x" extraCss="center" >}}
+
+{{% navigation beforePost=animateur beforeLabel="L'Animateur" parentPost=../occupations parentLabel="Les Occupations" afterPost=chasseur afterLabel="Le Chasseur" %}}

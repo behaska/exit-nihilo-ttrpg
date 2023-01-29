@@ -1,9 +1,10 @@
 ---
 date: 2022-11-22T10:58:08-04:00
+publishdate: 2022-11-22
 description: "La création de personnage"
 featured_image: "/images/exit-nihilo-character.png"
-tags: ["règles", "caractéristiques"]
-title: "Chapitre I: La création de personnage"
+tags: ["règles", "création-de-personnage"]
+title: "Chapitre II: La création de personnage"
 ---
 
 
@@ -229,20 +230,21 @@ Vous pourrez dépenser 15 points de développement (ce nombre de points est modi
 - 3 -> 4 => 10 pts
 - 4 -> 5 => 20 pts
 
-## Le Rôle
+## Les Occupations
+Dans Exit Nihilo, le concept d'[Occupation]({{< relref "occupations" >}}) est un élément clé qui permet aux joueurs de définir leur personnage et son utilité dans la communauté post-apocalyptique. L'[occupation]({{< relref "occupations" >}}) représente les activités et les talents de votre personnage, ainsi que sa place dans la société. Il peut être différent de sa profession d'avant l'apocalypse.  
+Les joueurs peuvent choisir de changer d'[occupation]({{< relref "occupations" >}}) à certains moment précis du jeu, mais cela doit être fait avec l'accord du Maître de Jeu, car cela fait partie intégrante de l'histoire de leur personnage. L'[occupation]({{< relref "occupations" >}}) est un élément clé pour aider les joueurs à se plonger dans leur personnage et à interagir avec le monde post-apocalyptique d'Exit Nihilo.
 
-Le rôle ne va pas apporter de compétences aux personnages mais plutôt orienter le joueur sur la posture et la façon d’interpréter son personnage.
+Exit Nihilo est un jeu de rôle qui vous plongera dans un univers post-apocalyptique où se mélange les groupes armées de survivants et les zombies. En incarnant un survivant, vous devrez faire face aux dangers qui vous entourent tout en essayant de construire une vie meilleure pour vous et votre groupe.  
 
-Il est possible de changer de rôle au cours de la vie d'un personnage durant les phases inter-aventures. Ceci doit être fait avec l'accord du MdJ.
-
-- Protecteur
-- Chasseur-Cueilleur
-- Commandant
-- Animateur
-- Logisticien
-- Médecin
-- Savant
-- Bricoleur
+Il existe plusieurs [occupations]({{< relref "occupations" >}}) différentes que vous pourrez endosser dans le jeu :  
+* L'[Animateur]({{< relref "occupations/animateur" >}}) est responsable de maintenir le moral et la motivation du groupe. Il doit être capable de créer des activités pour divertir les membres et de les aider à s'entendre.
+* Le [Bricoleur]({{< relref "occupations/bricoleur" >}}) est responsable de la réparation et de la maintenance des équipements et des bâtiments. Il doit être capable de réparer les armes, les véhicules et les outils.
+* Le [Chasseur]({{< relref "occupations/chasseur" >}}) est responsable de trouver de la nourriture et de l'eau pour le groupe. Il doit être capable de chasser et de pêcher, et de connaître les plantes comestibles.
+* Le [Dirigeant]({{< relref "occupations/dirigeant" >}}) est responsable de prendre des décisions pour le groupe et de les diriger. Il doit être capable de prendre des décisions rapidement et de rassembler les membres de son groupe pour faire face aux dangers.
+* Le [Fermier]({{< relref "occupations/fermier" >}}) est responsable de faire pousseur légumes, plantes médicinales ainsi que de s'occuper des animaux comestibles. Comme le chasseur il peut connaître les plantes comestibles.
+* Le [Logisticien]({{< relref "occupations/logisticien" >}}) est responsable de la gestion des ressources et de la logistique du groupe. Il doit être capable de gérer les provisions et de planifier les déplacements.
+* Le [Protecteur]({{< relref "occupations/protecteur" >}}) est responsable de la sécurité du groupe. Il doit être capable de se battre efficacement contre les zombies et d'être un bon garde du corps pour les autres membres du groupe.
+* Le [Soignant]({{< relref "occupations/soignant" >}}) est responsable de la santé physique et mentale du groupe. Il doit être capable de soigner les blessures et de distribuer les médicaments, ainsi que de soutenir les membres émotionnellement.
 
 ## Caractéristiques dynamiques
 

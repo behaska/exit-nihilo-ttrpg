@@ -13,3 +13,7 @@ Le rôle de Logisticien dans Exit Nihilo est un rôle clé pour la survie des su
 Les joueurs qui choisissent le rôle de Logisticien doivent avoir des compétences en gestion de projet, en communication et en résolution de problèmes. Les compétences en survie et en vérification de la sécurité sont également importantes pour ce rôle.  
 En jeu, le Logisticien peut être chargé de planifier des expéditions pour trouver des ressources, de gérer les stocks de nourriture et d'eau, de planifier les défenses pour protéger le refuge et de gérer les relations avec les autres groupes de survivants.  
 Un personnage ayant une forte compétence en logistique pourrait être un ancien militaire, un chef d'entreprise, un ingénieur, un maire d'une petite ville ou un professeur. Il sera capable de gérer efficacement les ressources pour le groupe de survivants et de les aider à s'adapter au nouveau monde hostile.
+
+{{< img src="/images/logisticien.png" alt="un vieil homme en costume dans un entrepot." size="500x" extraCss="center" >}}
+
+{{% navigation beforePost=fermier beforeLabel="Le Fermier" parentPost=../occupations parentLabel="Les Occupations" afterPost=protecteur afterLabel="Le Protecteur" %}}

@@ -86,6 +86,25 @@ Les caractéristiques d'Emma sont au final :
 
 ## Les Compétences
 
+Il existe 3 types de compétences dans Exit Nihilo :
+* [Compétences Simples]({{< relref "competences/competences-simples" >}}) ou Communes
+* [Compétences Multiples]({{< relref "competences/competences-multiples" >}}) ou Groupées
+* [Compétence de Combat]({{< relref "competences/competences-de-combat" >}})
+
+Si elles sont un peu différentes, elles suivent la même logique quand à leur augmentation (voir plus loin).
+
+### Augmentation des compétences
+
+Durant la phase de création du personnage, il va être possible d'augmenter ses compétences pendant 4 phases différentes et complémentaires.
+* Durant l'[Enfance]({{< relref "#lenfance" >}})
+* Durant l'[Adolescence]({{< relref "#ladolescence" >}})
+* Durant l'[Âge Adulte]({{< relref "#lage-adulte" >}})
+* Grâce à la [Profession]({{< relref "#professions" >}})
+
+Chaque période a ses propres règles de progression qu'il faut consulter.
+
+Il est important de passer du temps sur cette phase de développement des compétences car elles vont déterminer les capacités du personnage et son aptitude à surmonter les défis qui se présenteront au cours de la partie. Cela permettra également au joueur de personnaliser son personnage en fonction de ses intérêts et de son style de jeu. En fin de compte, les compétences du personnage seront un facteur déterminant pour la réussite ou l'échec du personnage dans Exit Nihilo.
+
 ### L'enfance
 
 Durant l'enfance, le personnage développe quelques compétences en fonction de son activité. Comme on parle d'une période d'enfance, toutes les compétences ne sont pas disponibles. Vous trouverez ci-dessous la liste des compétences que l'on peut augmenter.
@@ -279,6 +298,8 @@ Il existe plusieurs [occupations]({{< relref "occupations" >}}) différentes que
 * Le [Soignant]({{< relref "occupations/soignant" >}}) est responsable de la santé physique et mentale du groupe. Il doit être capable de soigner les blessures et de distribuer les médicaments, ainsi que de soutenir les membres émotionnellement.
 
 ## Caractéristiques dynamiques
+Les caractéristiques dynamiques ou statistiques sont des caractéristiques qui ne sont pas déterminées directement par le joueur lors de la création du personnage, mais qui sont plutôt calculées en fonction d'autres caractéristiques. Par exemple, dans Exit Nihilo, l'Humanité et la Résilience sont des statistiques dynamiques qui découlent d'autres attributs tels que le Caractère et l'Esprit. L'Humanité représente la mesure dans laquelle le personnage conserve sa moralité et son humanité dans un monde apocalyptique et hostile, tandis que la Résilience représente la capacité du personnage à surmonter les épreuves et les traumatismes. Les statistiques dynamiques ajoutent une dimension supplémentaire à la personnalité et au développement du personnage, car elles reflètent les conséquences de ses actions et de ses choix dans le jeu.  
+Ce sont des indicateurs importants pour évaluer l'état mental et physique du personnage, ainsi que sa capacité à faire face aux situations difficiles dans l'univers du jeu. Les joueurs doivent donc les surveiller attentivement pour garantir la survie de leur personnage.
 
 ### Humanité
 
@@ -287,3 +308,5 @@ Humanité = Empathie + Intuition
 ### Résilience
 
 Résilience = Volonté + Vitalité
+
+{{% navigation parentPost=.. parentLabel="Accueil" afterPost=attributs afterLabel="Les Attributs" %}}

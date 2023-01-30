@@ -75,13 +75,13 @@ Ainsi, on obtient la valeur des caractéristiques du personnage qui ne changeron
 
 #### Exemple
 Nous retrouvons Sarah qui doit maintenant pour chaque attribut, choisir sa caractéristique principale et la secondaire pour son personnage d'**Emma**. Pour rappel, elle avait choisit le stéréotype spécialiste (nous avons remis les valeurs des attributs pour rappel).
-* Physique (+1) --> Puissance (secondaire), Vitalité (principal)
+* Physique (+1) --> [Puissance]({{< relref "attributs/physique#puissance" >}}) (secondaire), [Vitalité]({{< relref "attributs/physique#vitalité" >}}) (principal)
 * Agilité (+1) --> [Adresse]({{< relref "attributs/agilite#adresse" >}}) (secondaire), [Coordination]({{< relref "attributs/agilite#coordination" >}}) (principal)
-* Esprit (-1) --> Raisonnement (secondaire), Apprentissage (principal)
-* Caractère (0) --> Conscience (secondaire), Volonté (principal)
-* Social (-1) --> Communication (secondaire), Empathie (principal)
+* Esprit (-1) --> [Raisonnement]({{< relref "attributs/esprit#raisonnement" >}}) (secondaire), [Apprentissage]({{< relref "attributs/esprit#apprentissage" >}}) (principal)
+* Caractère (0) --> [Conscience]({{< relref "attributs/caractere#conscience" >}}) (secondaire), [Volonté]({{< relref "attributs/caractere#volonté" >}}) (principal)
+* Social (-1) --> [Communication]({{< relref "attributs/social#communication" >}}) (secondaire), [Empathie]({{< relref "attributs/social#empathie" >}}) (principal)
   
-Les caractéristiques d'Emma sont au final :
+**Les caractéristiques d'Emma sont au final :**
 > Puissance (1), Vitalité (2), Adresse (1), Coordination (2), Raisonnement (-1), Apprentissage (0), Conscience (0), Volonté (1), Communication (-1), Empathie (0)
 
 ## Les Compétences

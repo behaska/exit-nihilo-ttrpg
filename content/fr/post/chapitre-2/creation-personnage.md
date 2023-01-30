@@ -24,7 +24,7 @@ Dans un jeu de rôle, un archétype de personnage est un modèle de personnage p
 Cela va permettre de donner un contexte à son personnage et de définir les compétences qu'il a acquises avant les événements de la campagne. Enfin, le joueur doit définir les motivations de son personnage, ses objectifs et ses désirs. Cela va donner une direction à son personnage et lui permettre de s'épanouir dans la campagne.  
 Cette phase peut également inclure une discussion avec le Maître de Jeu pour s'assurer que l'archétype choisi correspond à l'univers de jeu et à l'histoire qui seront jouées. Le Maître de Jeu est là pour aider le joueur à définir ces éléments et s'assurer qu'ils s'intègrent bien dans l'univers et la trame de fond de la campagne. Pendant cette discussion, le joueur pourra décrire les aspirations de son personnage, sa profession, ses motivations, ses peurs, ses espoirs, ses buts, son passé et bien plus. Il pourra ainsi expliquer comment il voit son personnage et comment il souhaite l'incarner.  
 Il est important de noter que choisir un archétype ne signifie pas que le personnage doit être un stéréotype ou qu'il doit suivre certaines règles strictes. Il s'agit plutôt d'un point de départ pour la création de personnage, qui peut être personnalisé et développé de différentes manières dans les étapes suivantes.  
-L'archétype de personnage est un aspect crucial de la création de personnage. Il orientera les étapes suivantes dans le choix des caractéristiques, des compétences de base de votre personnage, ainsi que son histoire et son rôle dans le monde post-apocalyptique d'Exit Nihilo.  
+L'archétype de personnage est un aspect crucial de la création de personnage. Il orientera les étapes suivantes dans le choix des [caractéristiques]({{< relref "caracteristiques" >}}), des compétences de base de votre personnage, ainsi que son histoire et son rôle dans le monde post-apocalyptique d'Exit Nihilo.  
 
 En consacrant du temps à la phase d'archétype, vous pouvez vous assurer que votre personnage est cohérent et qu'il a une histoire crédible. Cela peut vous aider à mieux comprendre la personnalité et les motivations de votre personnage, ce qui peut en retour améliorer votre jeu et votre immersion dans le monde du jeu.  
 De plus, en déterminant les forces et les faiblesses de votre personnage à travers son archétype, vous pouvez vous assurer que votre personnage est bien équilibré et qu'il a les capacités nécessaires pour réussir dans le jeu. Cela peut aussi aider à éviter les incohérences dans le développement de votre personnage au fil du jeu.  
@@ -69,7 +69,7 @@ Une fois les attributs calculés, il faut maintenant pour chaque attribut choisi
 La compétence principal aura un bonus de +1 par rapport à son attribut tandis que celle qui est secondaire n'aura aucun modificateur.  
 
 #### Remarque
-C'est la dernière fois que vous aurez l'occasion de modifier vos caractéristiques, ensuite elles seront pour toujours figer.  
+C'est la dernière fois que vous aurez l'occasion de modifier vos [caractéristiques]({{< relref "caracteristiques" >}}), ensuite elles seront pour toujours figer.  
 
 Ainsi, on obtient la valeur des caractéristiques du personnage qui ne changeront plus jusqu'à la fin de la partie.
 
@@ -124,7 +124,7 @@ Durant l'enfance, le personnage développe quelques compétences en fonction de 
 
 #### Nombre de points de Développement à dépenser
 
-Vous pourrez dépenser 5 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d'**Apprentissage**).
+Vous pourrez dépenser 5 points de développement (ce nombre de points est modifié par la valeur de la [caractéristique]({{< relref "caracteristiques#esprit" >}}) d'**Apprentissage**).
 
 Il faut bien sûr avoir l'accord de son Maître de Jeu et justifier la progression de la compétence par des exemples ou des activités que le personnage aurait pû faire pendant cette période. Comme par exemple, un sport, une activité artistique, l'école, ... Quel que chose de lié à son historique. L'objectif n'est pas l'optimisation !
 
@@ -298,7 +298,7 @@ Il existe plusieurs [occupations]({{< relref "occupations" >}}) différentes que
 * Le [Soignant]({{< relref "occupations/soignant" >}}) est responsable de la santé physique et mentale du groupe. Il doit être capable de soigner les blessures et de distribuer les médicaments, ainsi que de soutenir les membres émotionnellement.
 
 ## Caractéristiques dynamiques
-Les caractéristiques dynamiques ou statistiques sont des caractéristiques qui ne sont pas déterminées directement par le joueur lors de la création du personnage, mais qui sont plutôt calculées en fonction d'autres caractéristiques. Par exemple, dans Exit Nihilo, l'Humanité et la Résilience sont des statistiques dynamiques qui découlent d'autres attributs tels que le Caractère et l'Esprit. L'Humanité représente la mesure dans laquelle le personnage conserve sa moralité et son humanité dans un monde apocalyptique et hostile, tandis que la Résilience représente la capacité du personnage à surmonter les épreuves et les traumatismes. Les statistiques dynamiques ajoutent une dimension supplémentaire à la personnalité et au développement du personnage, car elles reflètent les conséquences de ses actions et de ses choix dans le jeu.  
+Les caractéristiques dynamiques ou statistiques sont des [caractéristiques]({{< relref "caracteristiques" >}}) qui ne sont pas déterminées directement par le joueur lors de la création du personnage, mais qui sont plutôt calculées en fonction d'autres caractéristiques. Par exemple, dans Exit Nihilo, l'[Humanité]({{< relref "caracteristiques#humanité" >}}) et la [Résilience]({{< relref "caracteristiques#résilience" >}}) sont des statistiques dynamiques qui découlent d'autres attributs tels que le Caractère et l'Esprit. L'Humanité représente la mesure dans laquelle le personnage conserve sa moralité et son humanité dans un monde apocalyptique et hostile, tandis que la Résilience représente la capacité du personnage à surmonter les épreuves et les traumatismes. Les statistiques dynamiques ajoutent une dimension supplémentaire à la personnalité et au développement du personnage, car elles reflètent les conséquences de ses actions et de ses choix dans le jeu.  
 Ce sont des indicateurs importants pour évaluer l'état mental et physique du personnage, ainsi que sa capacité à faire face aux situations difficiles dans l'univers du jeu. Les joueurs doivent donc les surveiller attentivement pour garantir la survie de leur personnage.
 
 ### Humanité

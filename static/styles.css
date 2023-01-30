@@ -6,14 +6,17 @@
 
 .navigation>.before {
     text-align: left;
+    min-width: 33%;
 }
 
 .navigation>.parent {
     text-align: center;
+    min-width: 33%;
 }
 
 .navigation>.after {
     text-align: right;
+    min-width: 33%;
 }
 
 .mw8 {

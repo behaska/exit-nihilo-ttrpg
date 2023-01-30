@@ -9,8 +9,8 @@ title: "Chapitre II: Les Stéréotypes"
 ---
 
 ## Introduction
-Afin de pouvoir calculer la valeur des [attributs]({{< relref "attributs" >}}), il faut tout d'abord choisir son stéréotype ou profil d'attributs. Cela va influer sur les caractéristiques et la valeurs qu'elles vont avoir. Il existe 3 stéréotypes d'attributs. En fonction du stéréotype, les attributs seront plus ou moins différents.  
-Chaque stéréotype fournira une base de modificateur à chaque groupe ou domaine de compétences, aussi appelé [Attributs]({{< relref "caracteristiques" >}}).
+Afin de pouvoir calculer la valeur des [attributs]({{< relref "attributs" >}}), il faut tout d'abord choisir son stéréotype ou profil d'attributs. Cela va influer sur les [caractéristiques]({{< relref "caracteristiques" >}}) et la valeurs qu'elles vont avoir. Il existe 3 stéréotypes d'attributs. En fonction du stéréotype, les attributs seront plus ou moins différents.  
+Chaque stéréotype fournira une base de modificateur à chaque groupe ou domaine de compétences, aussi appelé [Attributs]({{< relref "attributs" >}}).
 
 {{< img src="/images/attributs.png" alt="le pentagone des attributs et des caractéristiques" size="500x" extraCss="center" >}}
 
@@ -22,7 +22,7 @@ Est ce qu'il sera un personnage qui aura des forces ou des faiblesses, est ce qu
 
 ### Le Polyvalent
 
-C'est le stéréotype pour les personnages qui n'ont aucune spécialité dans leurs caractéristiques, elles ont toutes comme base 0 qui sera modifié par la suite dans le process de génération du personnage. Pas de force, pas de faiblesse.
+C'est le stéréotype pour les personnages qui n'ont aucune spécialité dans leurs [caractéristiques]({{< relref "caracteristiques" >}}), elles ont toutes comme base 0 qui sera modifié par la suite dans le process de génération du personnage. Pas de force, pas de faiblesse.
 
 {{< img src="images/stereotype-versatile.png" alt="schéma du stéréotype polyvalent" size="150x">}}
 
@@ -30,7 +30,7 @@ Le ***Polyvalent*** est un archétype généraliste qui a des compétences équi
 
 ### Le Spécialiste
 
-Pour ce stéréotype, le personnage est spécialisé dans 2 familles de caractéristique, ce qui permet d'avoir un personne plus orienté dans une domaine comme le physique ou le mental. Ceci permet d'avoir une personnage avec quelques forces mais aussi quelques faiblesses, sans que ce soit rédhibitoire.
+Pour ce stéréotype, le personnage est spécialisé dans 2 familles de [caractéristiques]({{< relref "caracteristiques" >}}), ce qui permet d'avoir un personne plus orienté dans une domaine comme le physique ou le mental. Ceci permet d'avoir une personnage avec quelques forces mais aussi quelques faiblesses, sans que ce soit rédhibitoire.
 
 {{< img src="/images/stereotype-specialist.png" alt="schéma du stéréotype spécialiste" size="150x">}}
 

@@ -1,14 +1,14 @@
 ---
 date: 2023-01-25T10:58:08-04:00
-publishdate: 2023-0&-25
+publishdate: 2023-01-25
 description: "Les Attributs"
 featured_image: "/images/attributs.png"
-tags: ["règles", "création-de-personnage"]
+tags: ["règles", "création-de-personnage", "attributs"]
 title: "Chapitre II: Les Attributs"
 ---
 
 ## Introduction
-Les attributs, dans Exit Nihilo, n'ont pas d'utilité direct dans le jeu, ces valeurs sont utilisés comme base pour le calcul des caractéristique. Il y en a 5 au total et chaque attribut représente 2 caractéristiques, ce qui fait 10 caractéristiques au total.
+Les attributs, dans Exit Nihilo, n'ont pas d'utilité direct dans le jeu, ces valeurs sont utilisés comme base pour le calcul des caractéristique. Il y en a 5 au total et chaque attribut représente 2 caractéristiques, ce qui fait 10 [caractéristiques]({{< relref "caracteristiques" >}}) au total.
 
 ## Liste des Attributs
 * [Agilité]({{< relref "attributs/physique" >}}): Mesure la combinaison de l'adresse et de la coordination d'un personnage pour déterminer la rapidité et la précision de ses actions physiques.
@@ -27,7 +27,7 @@ Le mieux est de discuter avec le Maître de Jeu pour voir en fonction de ses id�
 
 #### Exemple
 
-Si l'on reprends ce qui a été [décidé par Sarah]({{< relref "creation-personnage#exemple-darchétype" >}}) à propos d'Emma, c'est une jeune femme forte, qui était pompier. A l'aise dans l'action, elle a quelques difficultés dans les relations humaines.  
+Si l'on reprend ce qui a été [décidé par Sarah]({{< relref "creation-personnage#exemple-darchétype" >}}) à propos d'Emma, c'est une jeune femme forte, qui était pompier. A l'aise dans l'action, elle a quelques difficultés dans les relations humaines.  
 Elle a un profil de **Spécialiste**, la joueuse d'Emma va donc maintenant appliquer les bonus/malus qu'apportent le stéréotype spécialiste aux attributs. Chaque modificateur doit être appliqué qu'une seule.  
 Sarah, la joueuse, choisit qu'Emma aura plutôt des qualité physique et de caractère et aura plutôt des faiblesse en social et esprit pour respecter ses choix d'Archétype.  
 Ce qui donne au final :  

@@ -2,6 +2,7 @@
 date: 2023-01-22T10:58:08-04:00
 publishdate: 2023-01-22
 description: "Les Professions"
+slug: 'les-professions'
 featured_image: "/images/professions.png"
 tags: ["règles", "création-de-personnage", "professions"]
 title: "Chapitre II: Les Professions"

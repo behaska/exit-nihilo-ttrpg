@@ -2,7 +2,7 @@
 date: 2023-01-24T10:58:08-04:00
 publishdate: 2023-01-24
 description: "Les Stéréotypes"
-slug: 'stereotypes'
+slug: 'les-stereotypes'
 featured_image: "/images/attributs.png"
 tags: ["règles", "création-de-personnage", "attributs"]
 title: "Chapitre II: Les Stéréotypes"

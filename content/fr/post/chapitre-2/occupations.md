@@ -2,7 +2,7 @@
 date: 2023-01-23T10:58:08-04:00
 publishdate: 2023-01-23
 description: "Les Occupations"
-slug: 'occupations'
+slug: 'les-occupations'
 featured_image: "/images/occupations-des-personnages.png"
 tags: ["règles", "création-de-personnage", "occupations"]
 title: "Chapitre II: Les Occupations"

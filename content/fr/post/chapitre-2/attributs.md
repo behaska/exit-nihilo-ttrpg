@@ -1,6 +1,7 @@
 ---
 date: 2023-01-25T10:58:08-04:00
 publishdate: 2023-01-25
+slug: 'les-attributs'
 description: "Les Attributs"
 featured_image: "/images/attributs.png"
 tags: ["règles", "création-de-personnage", "attributs"]

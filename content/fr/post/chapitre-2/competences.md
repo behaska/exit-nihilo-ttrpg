@@ -2,6 +2,7 @@
 date: 2023-01-28T10:58:08-04:00
 publishdate: 2023-01-28
 description: "Les Compétences"
+slug: 'les-competences'
 featured_image: "/images/competences.png"
 tags: ["règles", "création-de-personnage", "compétences"]
 title: "Chapitre II: Les Compétences"

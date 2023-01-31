@@ -2,6 +2,7 @@
 date: 2022-11-22T10:58:08-04:00
 publishdate: 2022-11-22
 description: "La création de personnage"
+slug: 'creation-de-personnage'
 featured_image: "/images/exit-nihilo-character.png"
 tags: ["règles", "création-de-personnage"]
 title: "Chapitre II: La création de personnage"

@@ -2,6 +2,7 @@
 date: 2023-01-06T10:58:08-04:00
 publishdate: 2023-01-06
 description: "Chapitre 2 - Les Caractéristiques"
+slug: 'les-caracteristiques'
 featured_image: "/images/exit-nihilo-character.png"
 tags: ["règles", "création-de-personnage", "caractéristiques"]
 title: "Chapitre I: Les caractéristiques"

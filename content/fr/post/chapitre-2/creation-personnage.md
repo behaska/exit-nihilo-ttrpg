@@ -122,10 +122,10 @@ Ce sont des indicateurs importants pour évaluer l'état mental et physique du p
 
 ### Humanité
 
-Humanité = Empathie + Intuition
+Humanité = 5 + Empathie + Conscience
 
 ### Résilience
 
-Résilience = Volonté + Vitalité
+Résilience = 5 + Volonté + Vitalité
 
 {{% navigation parentPost=.. parentLabel="Accueil" afterPost=attributs afterLabel="Les Attributs" %}}

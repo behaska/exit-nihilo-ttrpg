@@ -16,8 +16,8 @@ En jeu, l'attribut Caractère est généralement utilisé pour déterminer la ca
 
 ## Les caractéristiques qui en découlent
 Comme pour le reste du jeu, il y a 2 Caractéristiques qui découlent de cet attribut:
-* [Raisonnement]({{< relref "#raisonnement" >}})
-* [Apprentissage]({{< relref "#apprentissage" >}})
+* [Volonté]({{< relref "#volonté" >}})
+* [Conscience]({{< relref "#conscience" >}})
 
 ### Volonté
 La caractéristique ***"Volonté"*** est une caractéristique qui représente la capacité d'un personnage à maintenir sa détermination et sa résolution face aux défis et aux situations difficiles. Il s'agit de la capacité d'un personnage à garder son sang-froid et à continuer à avancer malgré les obstacles, la pression ou les épreuves.  

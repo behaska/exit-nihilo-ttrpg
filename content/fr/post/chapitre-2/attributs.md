@@ -22,7 +22,7 @@ Pour calculer la valeur des attributs, il faut utiliser les modificateurs fourni
 Chaque stéréotype possède 5 modificateurs, 1 par attribut, c'est aux joueurs de choisir quel modificateur doit être appliqué à quel attribut en fonction du type de personnage qu'il veut incarner.
 
 ### Comment décider comment allouer les modificateurs du stéréotype
-Afin de choisir comment allouer les modificateurs du stéréotype, il faut se poser la question de comment on voit son personnage, quel type de personnage il sera, ses forces, ses faiblesse. Pour cela vous pouvez affiner la vision de votre personnage que vous avez poser durant la phase d'[archétype]({{< relref "creation-personnage#archétype-de-personnage" >}} au début de la création du personnage.  
+Afin de choisir comment allouer les modificateurs du stéréotype, il faut se poser la question de comment on voit son personnage, quel type de personnage il sera, ses forces, ses faiblesse. Pour cela vous pouvez affiner la vision de votre personnage que vous avez poser durant la phase d'[archétype]({{< relref "creation-personnage#archétype-de-personnage" >}}) au début de la création du personnage.  
 Le mieux est de discuter avec le Maître de Jeu pour voir en fonction de ses idées et de ses souhaits ce qui correspond le plus à la campagne.
 
 #### Exemple

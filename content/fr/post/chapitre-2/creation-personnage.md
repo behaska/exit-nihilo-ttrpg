@@ -6,25 +6,22 @@ featured_image: "/images/exit-nihilo-character.png"
 tags: ["règles", "création-de-personnage"]
 title: "Chapitre II: La création de personnage"
 ---
-
-
 ## Introduction
-Bienvenue dans un monde post-apocalyptique où les morts se relèvent et où les vivants doivent lutter pour survivre. Vous incarnez un personnage déterminé à survivre dans ce monde rempli de dangers, où chaque jour est une lutte pour rester en vie. Vous devrez faire des choix difficiles, affronter des zombies affamés, et naviguer les relations complexes avec les autres survivants.  
+Bienvenue dans un monde post-apocalyptique où les morts se relèvent et où les vivants doivent lutter pour survivre. Vous incarnez un personnage déterminé à survivre dans ce monde rempli de dangers, où chaque jour est une lutte pour rester en vie. Vous devrez faire des choix difficiles, affronter des zombies affamés, et naviguer dans les relations complexes avec les autres survivants.  
 
 ## Les 5 étapes pour créer un personnage.
-
 - Choix de l'[Archétype]({{< relref "#archétype-de-personnage" >}})
 - Calcul des [Attributs]({{< relref "#les-attributs" >}})
 - Calcul des [Compétences]({{< relref "#les-compétences" >}})
 - Choix du Rôle
 
 ## Archétype de personnage  
-Dans ***Exit-Nihilo***, la première étape dans la création de personnage est la phase de choix d'archétype.  
-Dans un jeu de rôle, un archétype de personnage est un modèle de personnage prédéfini que les joueurs peuvent choisir pour incarner leur personnage dans le jeu. Les archétypes de personnages peuvent inclure des personnages tels que les combattants, le chasseur, le scientifique, le détective, le mercenaire, etc. Le joueur peut choisir son background, c'est à dire son histoire, sa profession, sa famille, ses relations, etc.  
+Dans ***Exit-Nihilo***, la première étape dans la création de personnages est la phase de choix d'archétype.  
+Dans un jeu de rôle, un archétype de personnage est un modèle de personnage prédéfini que les joueurs peuvent choisir pour incarner leur personnage dans le jeu. Les archétypes de personnages peuvent inclure des personnages tels que les combattants, le chasseur, le scientifique, le détective, le mercenaire, etc. Le joueur peut choisir son background, c'est-à-dire son histoire, sa profession, sa famille, ses relations, etc.  
 Cela va permettre de donner un contexte à son personnage et de définir les compétences qu'il a acquises avant les événements de la campagne. Enfin, le joueur doit définir les motivations de son personnage, ses objectifs et ses désirs. Cela va donner une direction à son personnage et lui permettre de s'épanouir dans la campagne.  
-Cette phase peut également inclure une discussion avec le Maître de Jeu pour s'assurer que l'archétype choisi correspond à l'univers de jeu et à l'histoire qui seront jouées. Le Maître de Jeu est là pour aider le joueur à définir ces éléments et s'assurer qu'ils s'intègrent bien dans l'univers et la trame de fond de la campagne. Pendant cette discussion, le joueur pourra décrire les aspirations de son personnage, sa profession, ses motivations, ses peurs, ses espoirs, ses buts, son passé et bien plus. Il pourra ainsi expliquer comment il voit son personnage et comment il souhaite l'incarner.  
-Il est important de noter que choisir un archétype ne signifie pas que le personnage doit être un stéréotype ou qu'il doit suivre certaines règles strictes. Il s'agit plutôt d'un point de départ pour la création de personnage, qui peut être personnalisé et développé de différentes manières dans les étapes suivantes.  
-L'archétype de personnage est un aspect crucial de la création de personnage. Il orientera les étapes suivantes dans le choix des [caractéristiques]({{< relref "caracteristiques" >}}), des compétences de base de votre personnage, ainsi que son histoire et son rôle dans le monde post-apocalyptique d'Exit Nihilo.  
+Cette phase peut également inclure une discussion avec le Maître de Jeu pour s'assurer que l'archétype choisi correspond à l'univers de jeu et à l'histoire qui seront joués. Le Maître de Jeu est là pour aider le joueur à définir ces éléments et s'assurer qu'ils s'intègrent bien dans l'univers et la trame de fond de la campagne. Pendant cette discussion, le joueur pourra décrire les aspirations de son personnage, sa profession, ses motivations, ses peurs, ses espoirs, ses buts, son passé et bien plus. Il pourra ainsi expliquer comment il voit son personnage et comment il souhaite l'incarner.  
+Il est important de noter que choisir un archétype ne signifie pas que le personnage doit être un stéréotype ou qu'il doit suivre certaines règles strictes. Il s'agit plutôt d'un point de départ pour la création de personnages, qui peut être personnalisé et développé de différentes manières dans les étapes suivantes.  
+L'archétype de personnage est un aspect crucial de la création de personnages. Il orientera les étapes suivantes dans le choix des [caractéristiques]({{< relref "caracteristiques" >}}), des compétences de base de votre personnage, ainsi que son histoire et son rôle dans le monde post-apocalyptique d'Exit Nihilo.  
 
 En consacrant du temps à la phase d'archétype, vous pouvez vous assurer que votre personnage est cohérent et qu'il a une histoire crédible. Cela peut vous aider à mieux comprendre la personnalité et les motivations de votre personnage, ce qui peut en retour améliorer votre jeu et votre immersion dans le monde du jeu.  
 De plus, en déterminant les forces et les faiblesses de votre personnage à travers son archétype, vous pouvez vous assurer que votre personnage est bien équilibré et qu'il a les capacités nécessaires pour réussir dans le jeu. Cela peut aussi aider à éviter les incohérences dans le développement de votre personnage au fil du jeu.  
@@ -36,10 +33,9 @@ En conclusion, consacrer du temps à la phase d'archétype peut vous aider à cr
 Sarah, la joueuse d'Emma, voit son personnage Emma ainsi.
 > Elle était une pompière avant l'effondrement de la société et a conservé son sens du devoir en aidant les autres survivants dans le besoin. Emma est forte physiquement, elle a l'agilité et la force nécessaires pour survivre dans ce monde difficile.  
 > Cependant, la vie dans un monde rempli de zombies l'a également endurcie mentalement. Emma est déterminée à faire ce qui est juste et à aider les autres, mais elle a du mal à s'ouvrir aux gens et à construire des relations humaines. Elle peut être froide et distante, même avec les personnes les plus proches d'elle, et peut avoir des difficultés à faire confiance aux autres.  
-> Malgré cela, Emma est un leader naturel et est capable de prendre des décisions difficiles pour protéger les autres survivants. Elle est un modèle de détermination et de courage pour les personnes autour d'elle, même si elle peut paraître inaccessible à certains moments.
+> Malgré cela, Emma est une leader naturelle et est capable de prendre des décisions difficiles pour protéger les autres survivants. Elle est un modèle de détermination et de courage pour les personnes autour d'elle, même si elle peut paraître inaccessible à certains moments.
 
 ## Les Attributs
-
 Afin de calculer la valeur des attributs, il faut tout d'abord choisir le stéréotype de son personnage, sorte d'archétype d'attributs.
 
 ### Les Stéréotypes
@@ -53,7 +49,7 @@ Par exemple, un personnage polyvalent aura des compétences équilibrées dans t
 Les joueurs doivent choisir l'archétype qui convient le mieux à leur personnage et à l'histoire qu'ils souhaitent raconter.
 
 ### Calcul de la valeur des Attributs
-Maintenant que vous avez choisit votre stéréotype, il va falloir [calculer la valeur de chaque attribut]({{< relref "attributs#calculer-les-attributs" >}}), pour cela il faut appliquer les modifications de ce dernier à vos attributs.
+Maintenant que vous avez choisi votre stéréotype, il va falloir [calculer la valeur de chaque attribut]({{< relref "attributs#calculer-les-attributs" >}}), pour cela il faut appliquer les modifications de ce dernier à vos attributs.
 
 Les attributs sont au nombre de 5 et représentent les groupes de caractéristiques
 * [Agilité]({{< relref "attributs/agilite" >}})
@@ -62,11 +58,11 @@ Les attributs sont au nombre de 5 et représentent les groupes de caractéristiq
 * [Physique]({{< relref "attributs/physique" >}})
 * [Social]({{< relref "attributs/social" >}})
 
-En tant que joueur, vous devez classer ces attributs dans l'ordre que vous voulez puis appliquer les bonus/malus éventuel de votre [stéréotype]({{< relref "stereotypes" >}}). Vous obtiendrez donc la valeur de vos attributs que vous pouvez reporter sur votre feuille de personnage. Ces valeurs ne changeront plus jamais durant la vie de votre personnage.
+En tant que joueur, vous devez classer ces attributs dans l'ordre que vous voulez puis appliquer les bonus/malus éventuels de votre [stéréotype]({{< relref "stereotypes" >}}). Vous obtiendrez donc la valeur de vos attributs que vous pouvez reporter sur votre feuille de personnage. Ces valeurs ne changeront plus jamais durant la vie de votre personnage.
 
 ### Calcul des Caractéristiques
-Une fois les attributs calculés, il faut maintenant pour chaque attribut choisir parmi les 2 caractéristique, celle qui est principale et celle qui est secondaire.  
-La compétence principal aura un bonus de +1 par rapport à son attribut tandis que celle qui est secondaire n'aura aucun modificateur.  
+Une fois les attributs calculés, il faut maintenant pour chaque attribut choisir parmi les 2 caractéristiques, celle qui est principale et celle qui est secondaire.  
+La compétence principale aura un bonus de +1 par rapport à son attribut tandis que celle qui est secondaire n'aura aucun modificateur.  
 
 #### Remarque
 C'est la dernière fois que vous aurez l'occasion de modifier vos [caractéristiques]({{< relref "caracteristiques" >}}), ensuite elles seront pour toujours figer.  
@@ -74,7 +70,7 @@ C'est la dernière fois que vous aurez l'occasion de modifier vos [caractéristi
 Ainsi, on obtient la valeur des caractéristiques du personnage qui ne changeront plus jusqu'à la fin de la partie.
 
 #### Exemple
-Nous retrouvons Sarah qui doit maintenant pour chaque attribut, choisir sa caractéristique principale et la secondaire pour son personnage d'**Emma**. Pour rappel, elle avait choisit le stéréotype spécialiste (nous avons remis les valeurs des attributs pour rappel).
+Nous retrouvons Sarah qui doit maintenant, pour chaque attribut, choisir sa caractéristique principale et la secondaire pour son personnage d'**Emma**. Pour rappel, elle avait choisi le stéréotype spécialiste (nous avons remis les valeurs des attributs pour rappel).
 * Physique (+1) --> [Puissance]({{< relref "attributs/physique#puissance" >}}) (secondaire), [Vitalité]({{< relref "attributs/physique#vitalité" >}}) (principal)
 * Agilité (+1) --> [Adresse]({{< relref "attributs/agilite#adresse" >}}) (secondaire), [Coordination]({{< relref "attributs/agilite#coordination" >}}) (principal)
 * Esprit (-1) --> [Raisonnement]({{< relref "attributs/esprit#raisonnement" >}}) (secondaire), [Apprentissage]({{< relref "attributs/esprit#apprentissage" >}}) (principal)
@@ -85,207 +81,30 @@ Nous retrouvons Sarah qui doit maintenant pour chaque attribut, choisir sa carac
 > Puissance (1), Vitalité (2), Adresse (1), Coordination (2), Raisonnement (-1), Apprentissage (0), Conscience (0), Volonté (1), Communication (-1), Empathie (0)
 
 ## Les Compétences
-
-Il existe 3 types de compétences dans Exit Nihilo :
+Il existe 3 types de [compétences]({{< relref "competences" >}}) dans Exit Nihilo :
 * [Compétences Simples]({{< relref "competences/competences-simples" >}}) ou Communes
 * [Compétences Multiples]({{< relref "competences/competences-multiples" >}}) ou Groupées
 * [Compétence de Combat]({{< relref "competences/competences-de-combat" >}})
 
-Si elles sont un peu différentes, elles suivent la même logique quand à leur augmentation (voir plus loin).
+Si elles sont un peu différentes, elles suivent la même logique quant à leur augmentation (voir plus loin).
 
 ### Augmentation des compétences
-
 Durant la phase de création du personnage, il va être possible d'augmenter ses compétences pendant 4 phases différentes et complémentaires.
 * Durant l'[Enfance]({{< relref "#lenfance" >}})
 * Durant l'[Adolescence]({{< relref "#ladolescence" >}})
 * Durant l'[Âge Adulte]({{< relref "#lage-adulte" >}})
 * Grâce à la [Profession]({{< relref "#professions" >}})
 
-Chaque période a ses propres règles de progression qu'il faut consulter.
+Chaque période a ses propres règles de progression qu'il faut consulter, vous les retrouverez dans la partie [progression des compétences]({{< relref "competences#progression-des-compétences" >}}) durant la phase de création du personnage.
 
-Il est important de passer du temps sur cette phase de développement des compétences car elles vont déterminer les capacités du personnage et son aptitude à surmonter les défis qui se présenteront au cours de la partie. Cela permettra également au joueur de personnaliser son personnage en fonction de ses intérêts et de son style de jeu. En fin de compte, les compétences du personnage seront un facteur déterminant pour la réussite ou l'échec du personnage dans Exit Nihilo.
-
-### L'enfance
-
-Durant l'enfance, le personnage développe quelques compétences en fonction de son activité. Comme on parle d'une période d'enfance, toutes les compétences ne sont pas disponibles. Vous trouverez ci-dessous la liste des compétences que l'on peut augmenter.
-
-- Arts
-- Athlétisme
-- Baratin
-- Dressage
-- Équitation
-- Esquive
-- Grimper
-- Lancer
-- Langues
-- Nager
-- Perception
-- Survie
-
-#### Nombre de points de Développement à dépenser
-
-Vous pourrez dépenser 5 points de développement (ce nombre de points est modifié par la valeur de la [caractéristique]({{< relref "caracteristiques#esprit" >}}) d'**Apprentissage**).
-
-Il faut bien sûr avoir l'accord de son Maître de Jeu et justifier la progression de la compétence par des exemples ou des activités que le personnage aurait pû faire pendant cette période. Comme par exemple, un sport, une activité artistique, l'école, ... Quel que chose de lié à son historique. L'objectif n'est pas l'optimisation !
-
-### L'adolescence
-
-La liste des compétences est plus importantes car certaines compétences deviennent accessible à des adolescents par rapport à des enfants.
-
-- Arts
-- Athlétisme
-- Baratin
-- Bricolage
-- Chercher
-- Cuisine
-- Discrétion
-- Equitation
-- Esquive
-- Grimper
-- Jardinage
-- Langues
-- Manipulation
-- Nager
-- Perception
-- Pilotage
-- Premiers Soins
-- Survie
-- Technologie
-
-#### Nombre de points de Développement à dépenser
-
-Vous pourrez dépenser 10 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d'**Apprentissage**).
-
-Bien sûr, il est toujours nécessaire de justifier ses choix comme pour l'enfance.  
-
-### L'âge adulte
-
-Presque toutes les compétences sont disponibles maintenant. Le joueur peut investir dans toutes les compétences sauf celles de combats qui sont réservées à certaines professions (fusil d'assaut, fusil de précision et explosif).
-
-#### Nombre de points de Développement à dépenser
-
-Vous pourrez dépenser 15 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d'**Apprentissage**).  
- Attention, cette augmentation ne doit prendre en compte les compétences professionnelles. En effet, cela fait partir d'une autre phase que celle qui est décrite ci-dessous.
-
-Comme toujours, il faut justifier ces choix au MdJ afin que celui les valide mais aussi s'en servent durant le jeu.
-
-Le développement de l'Âge Adulte incorpore pour les personnages qui l'on vécu toute la partie universitaire. Pour les personnage qui n'ont pas eu à vivre cette période on considère qu'ils ont commencé plus jeune leur vie professionnelle.
-
-### Professions
-
-Une fois que l'on a réalisé le développement de l'Âge Adulte, il faut choisir son métier. Le choix du métier va influer sur les compétences que le personnage va avoir mais rien de plus car on considère que dans le Monde tel qu'il est maintenant, cela n'a plus de sens et ce sera remplacé par Rôle (voir ci-dessous).
-
-Il existe un grand nombre de possibilité de professions, on ne peut pas toutes les détaillées dans les règles donc on propose une liste de famille de profession mais il faut bien choisir une profession lors de la création du personnage et adapter les infos de la famille de professions.
-
-Chaque famille de professions va donner une liste de compétences parmi lesquels on pourra en augmenter certaines.
-
-#### Familles de professions
-
-- Combattant
-- Académique
-- Politicien
-- Artisan
-- Employé
-- Sportif
-- Profession Libérale
-- Artiste
-
-Concernant les compétences que l'on peut développer grâce à sa profession, il faut en parler au MdJ qui lui seul peut décider si oui ou non, c'est logique pour le personnage d'augmenter telle ou telle compétence.
-
-#### Progression des compétences
-
-Vous pourrez dépenser 15 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d'Apprentissage).
-
-1. ##### Combattant
-
-   * 2 Compétences de combat (peut être remplacer par nager ou pilotage en fonction du métier)
-   * Athlétisme
-   * Discrétion
-   * Esquive
-   * Perception
-   * Premier Soins
-   * Survie
-
-
-2. ##### Académique
-
-   * 2 compétence du domaine académique (mathématiques, physique, économie, ... )
-   * Argumenter
-   * Chercher
-   * Influence
-   * Langues
-   * Perception
-   * Psychologie
-   * Technologie
-  
-3. ##### Politicien
-
-   * compétence Théologie
-   * Argumenter
-   * Arts
-   * Chercher
-   * Influence
-   * Langues
-   * Perception
-   * Premiers Soins
-   * Psychologie
-  
-4. ##### Artisan
-
-   * 2 compétences du domaine de l'Artisanat (Électricité, Plomberie, Coiffure, ...)
-   * Athlétisme
-   * Baratin
-   * Bricolage
-   * Chercher
-   * Manipulation
-   * Perception
-   * Pilotage
-  
-
-5. ##### Employé
-
-   * 2 compétences du domaine de l'employé (Comptabilité, ... )
-   * Baratin
-   * Chercher
-   * Langues
-   * Perception
-   * Technologie
-
-6. ##### Sportif
-
-   * 2 Compétences du domaine du sportif (Nager, Equitation, Lancer, ...)
-   * Athlétisme
-   * Esquive
-   * Premiers Soins
-
-7. ##### Profession Libérale
-
-   * 2 compétence du domaine de la profession libérale (Droits, Médecine, ...)
-   * Argumenter
-   * Chercher
-   * Psychologie
-
-8. ##### Artiste
-   
-   * 2 compétences du domaine (Jongler, Jouer la comédie, Chanter, Jouer de la musique)
-   * Athlétisme
-   * Baratin
-   * Langues
-   * Manipulation    
-
-## Coup de développement des compétences
-
-- 0 -> 1 => 1 pts
-- 1 -> 2 => 3 pts
-- 2 -> 3 => 5 pts
-- 3 -> 4 => 10 pts
-- 4 -> 5 => 20 pts
+Il est important de passer du temps sur cette phase de développement des compétences, car elles vont déterminer les capacités du personnage et son aptitude à surmonter les défis qui se présenteront au cours de la partie. Cela permettra également au joueur de personnaliser son personnage en fonction de ses intérêts et de son style de jeu.  
+En fin de compte, les compétences du personnage seront un facteur déterminant pour la réussite ou l'échec du personnage dans Exit Nihilo.  
 
 ## Les Occupations
 Dans Exit Nihilo, le concept d'[Occupation]({{< relref "occupations" >}}) est un élément clé qui permet aux joueurs de définir leur personnage et son utilité dans la communauté post-apocalyptique. L'[occupation]({{< relref "occupations" >}}) représente les activités et les talents de votre personnage, ainsi que sa place dans la société. Il peut être différent de sa profession d'avant l'apocalypse.  
-Les joueurs peuvent choisir de changer d'[occupation]({{< relref "occupations" >}}) à certains moment précis du jeu, mais cela doit être fait avec l'accord du Maître de Jeu, car cela fait partie intégrante de l'histoire de leur personnage. L'[occupation]({{< relref "occupations" >}}) est un élément clé pour aider les joueurs à se plonger dans leur personnage et à interagir avec le monde post-apocalyptique d'Exit Nihilo.
+Les joueurs peuvent choisir de changer d'[occupation]({{< relref "occupations" >}}) à certains moments précis du jeu, mais cela doit être fait avec l'accord du Maître de Jeu, car cela fait partie intégrante de l'histoire de leur personnage. L'[occupation]({{< relref "occupations" >}}) est un élément clé pour aider les joueurs à se plonger dans leur personnage et à interagir avec le monde post-apocalyptique d'Exit Nihilo.
 
-Exit Nihilo est un jeu de rôle qui vous plongera dans un univers post-apocalyptique où se mélange les groupes armées de survivants et les zombies. En incarnant un survivant, vous devrez faire face aux dangers qui vous entourent tout en essayant de construire une vie meilleure pour vous et votre groupe.  
+Exit Nihilo est un jeu de rôle qui vous plongera dans un univers post-apocalyptique où se mélangent les groupes armés de survivants et les zombies. En incarnant un survivant, vous devrez faire face aux dangers qui vous entourent tout en essayant de construire une vie meilleure pour vous et votre groupe.  
 
 Il existe plusieurs [occupations]({{< relref "occupations" >}}) différentes que vous pourrez endosser dans le jeu :  
 * L'[Animateur]({{< relref "occupations/animateur" >}}) est responsable de maintenir le moral et la motivation du groupe. Il doit être capable de créer des activités pour divertir les membres et de les aider à s'entendre.
@@ -298,7 +117,7 @@ Il existe plusieurs [occupations]({{< relref "occupations" >}}) différentes que
 * Le [Soignant]({{< relref "occupations/soignant" >}}) est responsable de la santé physique et mentale du groupe. Il doit être capable de soigner les blessures et de distribuer les médicaments, ainsi que de soutenir les membres émotionnellement.
 
 ## Caractéristiques dynamiques
-Les caractéristiques dynamiques ou statistiques sont des [caractéristiques]({{< relref "caracteristiques" >}}) qui ne sont pas déterminées directement par le joueur lors de la création du personnage, mais qui sont plutôt calculées en fonction d'autres caractéristiques. Par exemple, dans Exit Nihilo, l'[Humanité]({{< relref "caracteristiques#humanité" >}}) et la [Résilience]({{< relref "caracteristiques#résilience" >}}) sont des statistiques dynamiques qui découlent d'autres attributs tels que le Caractère et l'Esprit. L'Humanité représente la mesure dans laquelle le personnage conserve sa moralité et son humanité dans un monde apocalyptique et hostile, tandis que la Résilience représente la capacité du personnage à surmonter les épreuves et les traumatismes. Les statistiques dynamiques ajoutent une dimension supplémentaire à la personnalité et au développement du personnage, car elles reflètent les conséquences de ses actions et de ses choix dans le jeu.  
+Les caractéristiques dynamiques ou statistiques sont des [caractéristiques]({{< relref "caracteristiques" >}}) qui ne sont pas déterminées directement par le joueur lors de la création du personnage, mais plutôt calculées en fonction d'autres caractéristiques. Par exemple, dans Exit Nihilo, l'[Humanité]({{< relref "caracteristiques#humanité" >}}) et la [Résilience]({{< relref "caracteristiques#résilience" >}}) sont des statistiques dynamiques qui découlent d'autres attributs tels que le Caractère et l'Esprit. L'Humanité représente la mesure dans laquelle le personnage conserve sa moralité et son humanité dans un monde apocalyptique et hostile, tandis que la Résilience représente la capacité du personnage à surmonter les épreuves et les traumatismes. Les statistiques dynamiques ajoutent une dimension supplémentaire à la personnalité et au développement du personnage, car elles reflètent les conséquences de ses actions et de ses choix dans le jeu.  
 Ce sont des indicateurs importants pour évaluer l'état mental et physique du personnage, ainsi que sa capacité à faire face aux situations difficiles dans l'univers du jeu. Les joueurs doivent donc les surveiller attentivement pour garantir la survie de leur personnage.
 
 ### Humanité

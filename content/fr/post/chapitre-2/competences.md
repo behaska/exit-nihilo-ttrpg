@@ -1,8 +1,8 @@
 ---
 date: 2023-01-28T10:58:08-04:00
 publishdate: 2023-01-28
-description: "Les Compétences"
-slug: 'les-competences'
+description: "Amélioration des Compétences"
+slug: 'ameliorer-les-competences'
 featured_image: "/images/competences.png"
 tags: ["règles", "création-de-personnage", "compétences"]
 title: "Chapitre II: Les Compétences"
@@ -15,19 +15,18 @@ Dans Exit Nihilo, les personnages ont un certain nombre de compétences qui les 
 Les compétences peuvent être améliorées au fil du temps à mesure que les personnages gagnent en expérience et en accomplissent des tâches. Les compétences sont un élément crucial pour la survie des personnages dans Exit Nihilo.
 
 ## Progression des compétences
-À chaque tranche d'âge, une liste de compétences est fournie, et le joueur peut utiliser ses points d'apprentissage pour augmenter un certain nombre de compétences de cette liste. Le nombre de points d'apprentissage alloués dépend de la période d'âge en question, ainsi que de la valeur de la caractéristique "Apprentissage" (voir [calcul du nombre de points d'apprentissage](#calcul-du-nombre-de-points-dapprentissage)).  
+À chaque tranche d'âge, une liste de compétences est fournie, et le joueur peut utiliser ses points d'apprentissage pour augmenter un certain nombre de compétences de cette liste. Le nombre de points d'apprentissage alloués dépend de la période d'âge en question, ainsi que de la valeur de la caractéristique "Apprentissage" (voir [calcul du nombre de points d'apprentissage](#points-d-apprentissage)).  
 
-**Remarque:**
+### Rôle du Maître de Jeu  
 le Maître du Jeu est le garant de la table de jeu et peut donc autoriser un joueur à augmenter une compétence qui n'est pas prévue dans une tranche d'âge donnée, si la justification est plausible. Cela signifie que le Maître du Jeu a une certaine marge de manœuvre pour adapter le jeu aux besoins et aux souhaits des joueurs, tout en respectant les principes de base de l'univers de jeu.  
 
-#### Calcul du nombre de points d'apprentissage
+### Nombre de points d'apprentissage par tranche d'âge {#points-d-apprentissage}
 Valeur de base de la tranche d'âge + valeur de la caractéristique Apprentissage  
 
 Se reporter à chaque paragraphe de tranche d'âge pour connaître la valeur de base à prendre en compte pour le calcul.
 
 ### Période de l’enfance
-Durant l’enfance, le personnage développe quelques compétences en fonction de son activité. Comme on parle d’une période d’enfance, toutes les compétences ne sont pas disponibles par défaut. 
-
+Durant l’enfance, le personnage développe quelques compétences en fonction de son activité. Comme on parle d’une période d’enfance, toutes les compétences ne sont pas disponibles par défaut.  
 Vous trouverez ci-dessous la liste des compétences que l’on peut augmenter :
 - Arts
 - Athlétisme
@@ -43,10 +42,9 @@ Vous trouverez ci-dessous la liste des compétences que l’on peut augmenter :
 - Survie
 
 #### Nombre de points de Développement à dépenser
-
-Vous pourrez dépenser 5 points de développement (ce nombre de points est modifié par la valeur de la [caractéristique]({{< relref "caracteristiques#esprit" >}}) d’**Apprentissage**).
-
-Il faut bien sûr avoir l’accord de son Maître de Jeu et justifier la progression de la compétence par des exemples ou des activités que le personnage aurait pu faire pendant cette période. Comme, un sport, une activité artistique, l’école… Quelque chose de lié à son historique. L’objectif n’est pas l’optimisation !
+Vous pourrez dépenser 5 points de développement (ce nombre de points est modifié par la valeur de la [caractéristique]({{< relref "caracteristiques#esprit" >}}) d’**Apprentissage**).  
+**Remarque:**  
+Pour augmenter une compétence, il est important de fournir une justification plausible pour justifier ce choix, qui doit être approuvé par le Maître de Jeu (MJ). Le MJ est en effet le garant de la table de jeu et peut autoriser ou non l'augmentation de compétences en fonction de sa propre interprétation de la situation. Il est donc important de bien discuter avec le MJ avant de faire tout choix de compétences pour le personnage. Comme, un sport, une activité artistique, l’école… Quelque chose de lié à son historique. L’objectif n’est pas l’optimisation !
 
 ### Période de l’adolescence
 

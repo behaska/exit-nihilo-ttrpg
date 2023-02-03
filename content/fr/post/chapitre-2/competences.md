@@ -26,7 +26,7 @@ Valeur de base de la tranche d'âge + valeur de la caractéristique Apprentissag
 Se reporter à chaque paragraphe de tranche d'âge pour connaître la valeur de base à prendre en compte pour le calcul.
 
 ### Période de l’enfance
-Durant l’enfance, le personnage développe quelques compétences en fonction de son activité. Comme on parle d’une période d’enfance, toutes les compétences ne sont pas disponibles par défaut.  
+Au cours de l'enfance, le personnage acquiert des compétences en fonction de son environnement et de ses activités. Cependant, certaines compétences ne sont pas disponibles, il faut donc choisir parmi la liste ci-dessous. De plus, il est nécessaire de justifier les compétences choisies pour le personnage et d'obtenir l'approbation du Maître de Jeu. Le MJ joue un rôle important pour s'assurer que les choix du joueur sont cohérents avec le monde d'Exit Nihilo.  
 Vous trouverez ci-dessous la liste des compétences que l’on peut augmenter :
 - Arts
 - Athlétisme
@@ -34,11 +34,9 @@ Vous trouverez ci-dessous la liste des compétences que l’on peut augmenter :
 - Bricolage
 - Cuisine
 - Équitation
-- Esquiver
 - Jardinage
 - Langues
 - Nager
-- Perception
 - Survie
 
 #### Nombre de points de Développement à dépenser
@@ -47,9 +45,8 @@ Vous pourrez dépenser 5 points de développement (ce nombre de points est modi
 Pour augmenter une compétence, il est important de fournir une justification plausible pour justifier ce choix, qui doit être approuvé par le Maître de Jeu (MJ). Le MJ est en effet le garant de la table de jeu et peut autoriser ou non l'augmentation de compétences en fonction de sa propre interprétation de la situation. Il est donc important de bien discuter avec le MJ avant de faire tout choix de compétences pour le personnage. Comme, un sport, une activité artistique, l’école… Quelque chose de lié à son historique. L’objectif n’est pas l’optimisation !
 
 ### Période de l’adolescence
-
+Durant l'adolescence, le personnage continue de développer ses compétences en fonction de son activité et de son environnement. Cependant, étant donné que c'est une période importante pour la formation et la maturité du personnage, plus de compétences deviennent disponibles pour le joueur (cf. liste ci-dessous). Il est donc important de bien réfléchir à la direction que le personnage prendra durant cette période et de justifier les compétences choisies. Cependant, comme pour l'enfance, les choix doivent être validés par le Maitre de Jeu pour s'assurer de leur cohérence avec l'univers du jeu.  
 La liste des compétences est plus importante, car certaines compétences deviennent accessibles à des adolescents par rapport à des enfants.
-
 - Arts (2)
 - Athlétisme
 - Baratin
@@ -70,30 +67,36 @@ La liste des compétences est plus importante, car certaines compétences devien
 - Technologie
 
 #### Nombre de points de Développement à dépenser
-
-Vous pourrez dépenser 10 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d’**Apprentissage**).
-
+Vous pourrez dépenser 10 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d’**Apprentissage**).  
 Bien sûr, il est toujours nécessaire de justifier ses choix comme pour l’enfance.  
 
 ### L’âge adulte
-
-Presque toutes les compétences sont disponibles maintenant. Le joueur peut investir dans toutes les compétences sauf celles de combats qui sont réservées à certaines professions (fusil d’assaut, fusil de précision et explosif).
+Au cours de l'âge adulte, la plupart des compétences sont disponibles pour le personnage (cf. liste ci-dessous). Les compétences développées lors de cette phase sont celles qui sont liées aux compétences de vie quotidienne et à la personnalité du personnage. 
+Le nombre de compétences qui peuvent être développées dépend du nombre de points d'apprentissage disponibles pour cette phase, qui est basé sur la tranche d'âge et la caractéristique Apprentissage. Il est donc important de choisir soigneusement les compétences à développer pour maximiser les capacités du personnage.  
+Cependant, il est important de noter que les compétences professionnelles ne font pas partie de cette phase. En effet, il y aura une phase dédiée pour développer les compétences professionnelles en fonction du choix de carrière du personnage.
+Liste des compétences qui ne sont pas disponibles :
+- fusil d’assaut
+- fusil de précision
+- explosif
+- profession (1 et 2)
 
 #### Nombre de points de Développement à dépenser
-
-Vous pourrez dépenser 15 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d’**Apprentissage**).  
- Attention, cette augmentation ne doit pas prendre en compte les compétences professionnelles. En effet, cela fait partir d’une autre phase que celle qui est décrite ci-dessous.
-
-Comme toujours, il faut justifier ces choix au MdJ afin que celui-ci les valide, mais aussi s’en serve durant le jeu.
-
-Le développement de l’Âge Adulte incorpore pour les personnages qui l’ont vécut toute la partie universitaire. Pour les personnages qui n’ont pas eu à vivre cette période, on considère qu’ils ont commencé plus jeune leur vie professionnelle.
+Pendant la phase d'âge adulte, chaque année au-dessus de 18 ans donne **un point de compétence** au personnage pour développer ses compétences + la caractéristique Apprentissage.  
+Maximum 15 points + le modificateur d'Apprentissage (équivalent 35 ans).
+##### Exemple:
+Pour Emma, qui a atteint l'âge de 25 ans, elle aura 7 points de compétence à utiliser pour augmenter ses compétences modifié par sa caractéristique d'Apprentissage qui est de 0. Ce qui fait 7 points au total.  
+  Il est à noter que les compétences professionnelles ne font pas partie de cette phase et qu'il y aura une phase dédiée à leur développement.  
+Comme toujours, il faut justifier de ces choix auprès du MdJ afin que celui-ci les valide, mais aussi s’en serve durant le jeu.
 
 ### Augmentation des Compétences de Professions
-
-Après avoir accompli le développement de l’âge adulte, il est temps de sélectionner un métier. Ce choix aura une influence sur les compétences du personnage, mais ne déterminera plus son rôle dans le monde tel qu’il est aujourd’hui. En effet, le métier n’a plus la même signification et sera remplacé par le concept de rôle.  
+Pour ce qui est de l'augmentation des compétences grâce à l'activité professionnelle, le personnage peut développer de nouvelles compétences en fonction de son métier. Cependant, ces compétences sont spécifiques à chaque profession et ne peuvent être choisies que parmi une liste déterminée. Il est également possible d'augmenter des compétences déjà développées antérieurement grâce à son activité professionnelle. Comme pour les autres phases, il est nécessaire de justifier ses choix auprès du Maître de Jeu et de les faire valider afin qu'ils soient pris en compte durant le jeu.  
+Avec le Grand Bouleversement, les professions telles qu'on les connaissait auparavant ont perdu de leur pertinence. Les communautés sont devenues des organismes fermés, et les rôles de chacun de ses membres sont devenus primordiaux pour leur survie. Ainsi, les compétences acquises en fonction d'une profession d'avant la catastrophe sont moins importantes que celles acquises en fonction des tâches nécessaires à la survie de la communauté. Les joueurs pourront choisir de se concentrer sur des compétences liées à des rôles tels que jardinage, bricolage, combat, etc.
 
 #### Remarque
-Lors de la création de votre personnage dans Exit Nihilo, il faut choisir une profession. Comme il existe un grand nombre de possibilités de professions, il n’est pas possible de toutes les détailler dans les règles, donc on propose une liste de famille de profession. Chaque famille vous donnera une liste de compétences que vous pouvez augmenter. De plus, il y aura des compétences de profession qui devront être précisées et définies par le MdZ.
+Cependant, il est important de noter que la liste des professions est très vaste et qu'il peut être difficile de les détailler toutes. Pour aider les joueurs dans leur choix, une liste de familles de métiers est mise à leur disposition. Cette liste oriente le choix des compétences disponibles en fonction du métier choisi. Il est donc important de bien réfléchir à la profession que l'on souhaite donner à son personnage et de s'informer sur les compétences qui en découlent pour pouvoir les adapter en conséquence.  
+
+#### Nombre de points de Développement à dépenser
+La caractéristique d'Apprentissage peut également influencer le nombre de points disponibles pour augmenter les compétences professionnelles.
 
 #### Familles de professions
 Il y a 8 familles de professions pour l’instant :

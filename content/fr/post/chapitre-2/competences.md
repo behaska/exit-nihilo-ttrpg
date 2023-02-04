@@ -99,6 +99,7 @@ Cependant, il est important de noter que la liste des professions est très vast
 La caractéristique d'Apprentissage peut également influencer le nombre de points disponibles pour augmenter les compétences professionnelles.
 
 #### Familles de professions
+Chacune de ces familles de professions fournit une liste de compétences qui peuvent être choisies par le joueur pour son personnage. En choisissant une famille de métier, le joueur peut augmenter ses compétences en conséquence, en utilisant les points d'apprentissage gagnés au fil des années. De plus, le Maître du Jeu peut toujours décider de ne pas autoriser certaines compétences si la justification n'est pas plausible. Enfin, il est important de se rappeler que l'objectif du jeu n'est pas l'optimisation, mais de créer une histoire cohérente et intéressante pour les joueurs.
 Il y a 8 familles de professions pour l’instant :
 - Combattant
 - Académique
@@ -113,22 +114,25 @@ Concernant les compétences que l’on peut développer grâce à sa profession,
 N’hésitez pas à prendre des notes et des justifications pour vos choix, car cela permettra d’étayer et développer votre background.
 
 #### Progression des compétences
+Le nombre de points de compétence pour la phase professionnelle dépend de plusieurs facteurs, tels que la famille de métier choisie, le nombre d'années d'expérience dans ce métier et la caractéristique d'apprentissage du personnage. En général, plus le personnage a consacré de temps à une profession, plus il aura de points de compétence pour améliorer ses compétences liées à ce métier. La caractéristique d'apprentissage peut également influencer le nombre de points de compétence gagnés, car elle reflète la capacité du personnage à apprendre rapidement et efficacement.  
+Le nombre de points de compétence disponibles pour développer les compétences professionnelles est calculé en utilisant la formule suivante : 
+> 10 + nombre d'années passées depuis l'âge de 18 ans (max 15) + la valeur de la caractéristique Apprentissage. 
+En d'autres termes, plus le personnage a d'expérience et une capacité d'apprentissage accrue, plus il aura de points de compétence disponibles pour développer ses compétences professionnelles. Il est important de noter que, comme toujours, le Maître de Jeu doit valider les choix de compétence du personnage avant qu'ils ne soient pris en compte dans le jeu.
 
-Vous pourrez dépenser 15 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d’Apprentissage).
-
-1. #####Combattant
-
-   * 2 Compétences de combat (peut-être remplacé, par la compétence « Nager » ou « Pilotage », en fonction du métier)
+1. Combattant
+La famille de métier des combattants regroupe toutes les professions qui impliquent l'utilisation de la force ou de l'agilité pour se défendre ou attaquer. Les métiers de cette famille peuvent inclure des soldats, des policiers, des mercenaires, des membres des unités d'élite, etc. Les compétences liées à cette famille de métier peuvent inclure la maîtrise des armes à feu, la stratégie de combat, la survie en milieu hostile, la connaissance des explosifs, la résistance à la douleur, etc. Les personnages qui choisissent de se spécialiser dans cette famille de métier peuvent développer des compétences qui les rendent plus efficaces pour se défendre dans un monde post-apocalyptique.  
+   * Compétences de combat
    * Athlétisme
    * Discrétion
    * Esquive
+   * Nager
    * Perception
+   * Pilotage
    * Premiers Soins
    * Survie
 
-
-2. #####Académique
-
+1. Académique
+La famille de métier des Académiques regroupe les personnes ayant choisi de consacrer leur vie à l'apprentissage et à la recherche. Cette famille comprend des métiers tels que les enseignants, les chercheurs, les historiens, les médecins, les scientifiques, entre autres. Les compétences qui peuvent être développées sont la connaissance en histoire, sciences, médecine, mathématiques, etc. Les Académiques peuvent également améliorer leur capacité à enseigner et à transmettre leur connaissance à d'autres. Les compétences en négociation et en diplomatie peuvent aussi être améliorées pour aider à mieux communiquer et à résoudre les conflits. Enfin, les compétences en recherche et en analyse peuvent être développées pour aider les Académiques à trouver des solutions à des problèmes complexes et à faire avancer la connaissance dans leur domaine.  
    * 2 compétences du domaine académique (« Mathématiques », « Physique », « Économie »…)
    * Argumenter
    * Chercher
@@ -138,8 +142,8 @@ Vous pourrez dépenser 15 points de développement (ce nombre de points est mod
    * Psychologie
    * Technologie
   
-3. #####Politicien
-
+1. #####Politicien
+La famille de métier des politiciens regroupe les personnes travaillant dans les domaines de la politique, de la gouvernance et de l'administration. Les exemples de métiers peuvent inclure les maires, les députés, les sénateurs, les conseillers municipaux, les directeurs de campagne électorale, etc. Les compétences que l'on peut augmenter dans cette famille de métier peuvent inclure la persuasion, la négociation, la diplomatie, la compréhension de la politique et des lois, le leadership, l'éloquence et la gestion des conflits. En tant que politiciens, il est important d'avoir une compréhension approfondie des systèmes politiques et gouvernementaux et d'être en mesure de les utiliser pour le bien-être de la communauté. Les politiques jouent un rôle important dans la prise de décisions et l'orientation de la société, il est donc crucial que leurs compétences soient développées de manière adéquate.  
    * compétence Théologie
    * Argumenter
    * Arts
@@ -150,8 +154,9 @@ Vous pourrez dépenser 15 points de développement (ce nombre de points est mod
    * Premiers Soins
    * Psychologie
   
-4. #####Artisan
-
+2. #####Artisan
+La famille de métier des artisans regroupe les métiers manuels et techniques, tels que les menuisiers, les électriciens, les plombiers, etc. Ces métiers sont axés sur la création et la réparation de biens matériels. Les artisans sont généralement des personnes habiles de leurs mains et ayant une bonne compréhension des matériaux et des outils nécessaires à leur travail.  
+Les compétences que l'on peut augmenter en étant dans cette famille de métier incluent la Construction, la Réparation, l'Usage des outils, la Connaissance des matériaux, la Résistance à la fatigue, etc. Ces compétences peuvent aider les personnages à créer des structures solides et durables, à réparer des objets cassés, à utiliser des outils efficacement et à résister aux conditions difficiles dans lesquelles ils peuvent être amenés à travailler.  
    * 2 compétences du domaine de l’Artisanat (« Électricité », « Plomberie », « Coiffure »…)
    * Athlétisme
    * Baratin
@@ -160,10 +165,10 @@ Vous pourrez dépenser 15 points de développement (ce nombre de points est mod
    * Manipulation
    * Perception
    * Pilotage
-  
 
 5. #####Employé
-
+La famille de métiers des employés regroupe les métiers qui se concentrent sur les tâches administratives et les services à la clientèle. Les employés sont souvent chargés de gérer les tâches quotidiennes d'une entreprise ou d'une organisation, telles que la gestion des documents, les communications avec les clients et les fournisseurs, et la gestion de l'inventaire. Les employés peuvent travailler dans des environnements variés, tels que les entreprises, les gouvernements, les organisations à but non lucratif, et les agences de voyage.  
+Des exemples de métiers dans cette famille incluent les secrétaires, les employés de bureau, les agents de voyage, les responsables de la clientèle, et les responsables des ressources humaines. Les compétences que les employés peuvent développer incluent la gestion du temps, la communication efficace, la capacité à travailler en équipe, la connaissance des logiciels de bureau et la résolution de problèmes. Les employés peuvent utiliser ces compétences pour améliorer leur rendement au travail et pour progresser dans leur carrière.  
    * 2 compétences du domaine de l’employé (« Comptabilité »…)
    * Baratin
    * Chercher
@@ -172,21 +177,21 @@ Vous pourrez dépenser 15 points de développement (ce nombre de points est mod
    * Technologie
 
 6. #####Sportif
-
+La famille de métiers des sportifs est dédiée aux personnes ayant choisi de consacrer leur vie à une activité sportive. Cela inclut les athlètes professionnels, les entraîneurs, les arbitres et les commentateurs sportifs. Les compétences liées à cette famille de métiers sont celles qui peuvent être développées grâce à la pratique intensive d'un sport. Par exemple, un athlète peut augmenter sa condition physique, sa coordination et son endurance. Un entraîneur peut développer des compétences en leadership et en stratégie d'entraînement. Les arbitres et les commentateurs peuvent améliorer leur connaissance des règles et de l'histoire des sports qu'ils pratiquent. Les compétences acquises dans ce domaine peuvent être utiles pour survivre dans un monde post-apocalyptique où la force physique et la détermination peuvent faire la différence entre la vie et la mort.  
    * 2 Compétences du domaine du sportif (« Nager », « Équitation », « Lancer »,…)
    * Athlétisme
    * Esquive
    * Premiers Soins
 
 7. #####Profession libérale
-
+Les professionnels libéraux sont des individus qui exercent une activité indépendante et utilisent leur expertise pour fournir des services à leurs clients. Cette famille de métiers inclut des avocats, des médecins, des architectes et des consultants en tout genre. Les joueurs peuvent augmenter leurs compétences en matière de communication, de négociation, de résolution de problèmes et de prise de décision. Ils peuvent également développer leur connaissance spécialisée dans leur domaine de travail afin de devenir encore plus compétitifs dans leur carrière. Les joueurs peuvent également augmenter leurs compétences en matière de gestion, de leadership et de vente pour gérer leur entreprise avec succès.  
    * 2 compétences du domaine de la profession libérale (« Droits », « Médecine »…)
    * Argumenter
    * Chercher
    * Psychologie
 
 8. #####Artiste
-   
+La famille de métier des artistes comprend les créateurs dans divers domaines, tels que la musique, la peinture, la danse, la littérature, le cinéma, etc. Les artistes sont souvent considérés comme des personnes talentueuses et expressives, ayant le don de traduire leurs émotions et leur vision du monde en formes artistiques. Les métiers dans cette famille peuvent inclure le musicien, le peintre, le danseur, l'écrivain, le réalisateur, etc. Les compétences liées à cette famille peuvent inclure la créativité, la technique artistique, la compréhension de l'histoire de l'art, la communication interpersonnelle, la capacité à travailler en équipe, etc. Les artistes peuvent augmenter leurs compétences en suivant des cours, en pratiquant régulièrement leur art et en se familiarisant avec les techniques et les styles différents. Les compétences dans cette famille peuvent être utiles dans de nombreux contextes différents, y compris la création d'œuvres d'art pour le plaisir personnel ou pour un public, l'enseignement de l'art à d'autres personnes, et même dans des domaines professionnels tels que la publicité, la conception de produits, et la production de films.     
    * 2 compétences du domaine (« Jongler », « Jouer la comédie », « Chanter », « Jouer de la musique »)
    * Athlétisme
    * Baratin
@@ -197,8 +202,8 @@ Vous pourrez dépenser 15 points de développement (ce nombre de points est mod
 
 - 0 -> 1 => 1 pts
 - 1 -> 2 => 3 pts
-- 2 -> 3 => 5 pts
-- 3 -> 4 => 10 pts
-- 4 -> 5 => 20 pts  
+- 2 -> 3 => 7 pts
+- 3 -> 4 => 13 pts
+- 4 -> 5 => 21 pts  
 
 {{% navigation parentPost="creation-personnage#les-attributs" parentLabel="La Création de Personnage" afterPost="creation-personnage#calcul-des-caractéristiques" afterLabel="Calculer les Caractéristiques" %}}

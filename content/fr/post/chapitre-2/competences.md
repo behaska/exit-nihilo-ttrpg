@@ -39,6 +39,53 @@ Vous trouverez ci-dessous la liste des compétences que l’on peut augmenter :
 - Nager
 - Survie
 
+Situation : Votre meilleur ami vient de perdre son ballon de foot préféré dans un arbre très haut. Il est triste et ne sait pas quoi faire.  
+* Solution 1 (Athlétisme) : Vous pourriez grimper à l'arbre pour récupérer le ballon. Vous pourriez vous entraîner à grimper sur d'autres arbres pour vous préparer à cette mission.
+* Solution 2 (Baratin) : Vous pourriez persuader votre ami que vous pouvez trouver un nouveau ballon encore mieux et plus cool pour lui. Vous pourriez commencer à lui dire des histoires sur les ballons les plus incroyables que vous avez vus dans le magasin de sport.
+* Solution 3 (Bricolage) : Vous pourriez construire un filet pour récupérer le ballon. Vous pourriez utiliser des branches, des cordes et tout ce que vous pourriez trouver pour construire ce filet afin de récupérer le ballon du sol.
+
+Situation : Lors d'un pique-nique en forêt, vous vous retrouvez soudainement emporté par le courant d'une rivière après être tombé dedans.  
+* Solution 1 (Nager) : Vous pouvez vous rappeler des techniques de nage que vous avez apprises et vous concentrer sur garder la tête hors de l'eau tout en respirant calmement pour ne pas paniquer. En utilisant ces compétences, vous pouvez nager jusqu'à la berge la plus proche pour vous mettre en sécurité.
+* Solution 2 (Athlétisme) : Vous pouvez lutter contre le courant en vous arc-boutant et en forçant sur vos jambes pour sauter et attraper une branche qui se trouve sur le bord de la rivière, puis vous hisser en sécurité.
+* Solution 3 (Survie) : Vous vous laissez entraîné par le courant pendant un bon moment, puis vous arrivez à atteindre la berge. Vous vous faites un abris pour la nuit, vous allumez un feu et vous vous nourrissez de baies et de champignons qui vous trouvez. Ce qui laisse le temps au secours de vous retrouver.
+
+Situation : C'est un jour de pluie et votre petit frère ou soeur s'ennuie. Il ou elle veut faire quelque chose de divertissant à l'intérieur.  
+* Solution 1 (Arts) : Proposez de peindre ensemble. Vous pouvez prendre des feuilles de papier et des peintures et créer des chefs-d'oeuvre en utilisant votre imagination.
+* Solution 2 (Bricolage) : Proposez de construire une forteresse en utilisant des boîtes, des couvertures et tout ce que vous pouvez trouver dans la maison. Vous pouvez également construire des jouets pour votre frère ou soeur.
+* Solution 3 (Cuisine) : Proposez de faire une cuisine ensemble. Vous pouvez préparer des gâteaux, des biscuits ou tout autre aliment qui vous tente. Cela vous aidera à développer vos compétences culinaires.
+
+Situation : Ton ami vient de se faire renverser par son cheval qui a traversé la rivière et il est très triste. Il t'a demandé de l'aider à le ramener.  
+* Solution 1 (Équitation) : Tu lui proposes de traverser sur ton cheval pour rejoindre le sien.  
+* Solution 2 (Baratin) : Tu lui proposes d'aller voir le vieux pêcheur qui est non loin de là pour le convaincre de vous prêter sa barque pour traverser et aller chercher son cheval.  
+* Solution 3 (Nager) : Tu lui proposes de traverser la rivière à la nage pour rejoindre le cheval de l'autre côté.  
+
+Situation : Votre ami a perdu son jouet préféré dans le jardin public. Il pleure et ne sait pas quoi faire.  
+* Solution 1 (Arts) : Dessiner une affiche pour demander si quelqu'un l'a vu. Si quelqu'un l'a trouvé, il pourra le rapporter en voyant l'affiche.
+* Solution 2 (Jardinage) : Tu écoutes sa description du lieu où il pense avoir perdu son joueur et des plantes qui s'y trouvent. Grâce à tes connaissances, il ne te faut pas longtemps pour retrouver l'endroit en sachant l'orientation et le sol que ces plantes aiment.
+* Solution 3 (Survie) : Tu suis ses traces pour revenir à l'endroit où il a perdu son jouet.
+
+Situation : Ton ami te demande de l'aider à préparer un goûter d'anniversaire pour son frère. Il veut que ce soit une surprise, mais il ne sait pas quoi préparer.  
+* Solution 1 (cuisine) : Tu pourrais proposer de préparer des cupcakes décorés avec des glacages et des fruits. Tu pourrais également lui montrer comment faire une pâte à tarte maison pour une tarte aux fruits frais.
+* Solution 2 (équitation) : Tu pourrais suggérer d'aller à la ferme locale pour rencontrer les chevaux et les poney. Tu pourrais montrer à ton ami comment monter à cheval et comment prendre soin des animaux.
+* Solution 3 (langues) : Tu pourrais suggérer d'apprendre à dire "Bon anniversaire" dans plusieurs langues différentes pour surprendre son frère. Tu pourrais lui montrer comment dire "Bon anniversaire" en français, en espagnol et en allemand.
+* Solution 4 (jardinage) : Tu pourrais suggérer de planter des fleurs ou des légumes pour décorer le jardin pour l'anniversaire de son frère. Tu pourrais lui montrer comment prendre soin des plantes et comment les arroser.
+
+Pour pouvoir affiner les compétences que vous souhaitez augmenter, voici une liste de questions aux-quelles vous pouvez répondre et cela pourra vous aider dans le choix des compétences:
+un personnage lors de sa petite enfance :
+* Où avez-vous grandi et comment décririez-vous votre environnement de jeunesse ?
+* Quel genre de personnes avez-vous fréquentées étant enfant ?
+* Quel était votre mode de vie lorsque vous étiez enfant ?
+* Avez-vous eu des animaux de compagnie ou des responsabilités envers des créatures vivantes ?
+* Comment décririez-vous votre relation avec votre famille lorsque vous étiez enfant ?
+* Avez-vous joué à des sports ou participé à des activités physiques en groupe ?
+* Avez-vous pratiqué des activités artistiques ou créatives lorsque vous étiez enfant ?
+* Avez-vous été exposé à des cultures, des croyances ou des modes de vie différents de votre propre environnement ?
+* Comment décririez-vous votre personnalité lorsque vous étiez enfant et comment cela a-t-il influencé vos compétences développées ?
+* Quels étaient vos jeux préférés lorsque vous étiez enfant ?
+* Comment avez-vous passé la plupart de votre temps libre lorsque vous étiez enfant ?  
+
+Ces questions peuvent vous aider à déterminer les compétences développées par votre personnage lors de sa petite enfance et à décrire son passé de manière plus détaillée. Vous pouvez également ajouter d'autres questions en fonction de vos besoins pour améliorer la profondeur et la richesse de votre personnage.
+
 #### Nombre de points de Développement à dépenser
 Vous pourrez dépenser 5 points de développement (ce nombre de points est modifié par la valeur de la [caractéristique]({{< relref "caracteristiques#esprit" >}}) d’**Apprentissage**).  
 **Remarque:**  
@@ -65,6 +112,10 @@ La liste des compétences est plus importante, car certaines compétences devien
 - Secourisme
 - Survie
 - Technologie
+- Combat Corps à Corps
+- Combat Corps à Corps Armé
+- Combat Arme à Projectiles
+- Combat Fusil
 
 #### Nombre de points de Développement à dépenser
 Vous pourrez dépenser 10 points de développement (ce nombre de points est modifié par la valeur de la caractéristique d’**Apprentissage**).  
@@ -120,8 +171,8 @@ Le nombre de points de compétence disponibles pour développer les compétences
 En d'autres termes, plus le personnage a d'expérience et une capacité d'apprentissage accrue, plus il aura de points de compétence disponibles pour développer ses compétences professionnelles. Il est important de noter que, comme toujours, le Maître de Jeu doit valider les choix de compétence du personnage avant qu'ils ne soient pris en compte dans le jeu.
 
 1. Combattant
-La famille de métier des combattants regroupe toutes les professions qui impliquent l'utilisation de la force ou de l'agilité pour se défendre ou attaquer. Les métiers de cette famille peuvent inclure des soldats, des policiers, des mercenaires, des membres des unités d'élite, etc. Les compétences liées à cette famille de métier peuvent inclure la maîtrise des armes à feu, la stratégie de combat, la survie en milieu hostile, la connaissance des explosifs, la résistance à la douleur, etc. Les personnages qui choisissent de se spécialiser dans cette famille de métier peuvent développer des compétences qui les rendent plus efficaces pour se défendre dans un monde post-apocalyptique.  
-   * Compétences de combat
+La famille de métier des combattants regroupe toutes les professions qui impliquent l'utilisation de la force ou de l'agilité pour se défendre ou attaquer. Les métiers de cette famille peuvent inclure des soldats, des policiers, des mercenaires, des membres des unités d'élite, des pompiers, etc. Les compétences liées à cette famille de métier peuvent inclure la maîtrise des armes à feu, la survie en milieu hostile, la connaissance des explosifs, les techniques de déplacements, etc. Les personnages qui choisissent de se spécialiser dans cette famille de métier peuvent développer des compétences qui les rendent plus efficaces pour se défendre dans un monde post-apocalyptique.  
+   * Compétences de combat (tous les types d'armes)
    * Athlétisme
    * Discrétion
    * Esquive
@@ -132,18 +183,17 @@ La famille de métier des combattants regroupe toutes les professions qui impliq
    * Survie
 
 1. Académique
-La famille de métier des Académiques regroupe les personnes ayant choisi de consacrer leur vie à l'apprentissage et à la recherche. Cette famille comprend des métiers tels que les enseignants, les chercheurs, les historiens, les médecins, les scientifiques, entre autres. Les compétences qui peuvent être développées sont la connaissance en histoire, sciences, médecine, mathématiques, etc. Les Académiques peuvent également améliorer leur capacité à enseigner et à transmettre leur connaissance à d'autres. Les compétences en négociation et en diplomatie peuvent aussi être améliorées pour aider à mieux communiquer et à résoudre les conflits. Enfin, les compétences en recherche et en analyse peuvent être développées pour aider les Académiques à trouver des solutions à des problèmes complexes et à faire avancer la connaissance dans leur domaine.  
+La famille de métier des Académiques regroupe les personnes ayant choisi de consacrer leur vie à l'apprentissage et à la recherche. Cette famille comprend des métiers tels que les enseignants, les chercheurs, les historiens, les scientifiques, entre autres. Les compétences qui peuvent être développées sont la connaissance en histoire, sciences, mathématiques, informatique, etc. Les Académiques peuvent également améliorer leur capacité à enseigner et à transmettre leur connaissance à d'autres. Les compétences en négociation et en diplomatie peuvent aussi être améliorées pour aider à mieux communiquer et à résoudre les conflits. Enfin, les compétences en recherche et en analyse peuvent être développées pour aider les Académiques à trouver des solutions à des problèmes complexes et à faire avancer la connaissance dans leur domaine.  
    * 2 compétences du domaine académique (« Mathématiques », « Physique », « Économie »…)
    * Argumenter
    * Chercher
-   * Influence
    * Langues
    * Perception
    * Psychologie
    * Technologie
   
-1. #####Politicien
-La famille de métier des politiciens regroupe les personnes travaillant dans les domaines de la politique, de la gouvernance et de l'administration. Les exemples de métiers peuvent inclure les maires, les députés, les sénateurs, les conseillers municipaux, les directeurs de campagne électorale, etc. Les compétences que l'on peut augmenter dans cette famille de métier peuvent inclure la persuasion, la négociation, la diplomatie, la compréhension de la politique et des lois, le leadership, l'éloquence et la gestion des conflits. En tant que politiciens, il est important d'avoir une compréhension approfondie des systèmes politiques et gouvernementaux et d'être en mesure de les utiliser pour le bien-être de la communauté. Les politiques jouent un rôle important dans la prise de décisions et l'orientation de la société, il est donc crucial que leurs compétences soient développées de manière adéquate.  
+1. Politicien
+La famille de métier des politiciens regroupe les personnes travaillant dans les domaines de la politique, de la gouvernance et de l'administration. Les exemples de métiers peuvent inclure les maires, les députés, les sénateurs, les conseillers municipaux, les directeurs de campagne électorale, les religieux, etc. Les compétences que l'on peut augmenter dans cette famille de métier peuvent inclure la persuasion, la négociation, la diplomatie, la compréhension de la politique et des lois, le leadership, l'éloquence et la gestion des conflits. En tant que politiciens, il est important d'avoir une compréhension approfondie des systèmes politiques et gouvernementaux et d'être en mesure de les utiliser pour le bien-être de la communauté. Les politiques jouent un rôle important dans la prise de décisions et l'orientation de la société, il est donc crucial que leurs compétences soient développées de manière adéquate.  
    * compétence Théologie
    * Argumenter
    * Arts
@@ -154,9 +204,9 @@ La famille de métier des politiciens regroupe les personnes travaillant dans le
    * Premiers Soins
    * Psychologie
   
-2. #####Artisan
-La famille de métier des artisans regroupe les métiers manuels et techniques, tels que les menuisiers, les électriciens, les plombiers, etc. Ces métiers sont axés sur la création et la réparation de biens matériels. Les artisans sont généralement des personnes habiles de leurs mains et ayant une bonne compréhension des matériaux et des outils nécessaires à leur travail.  
-Les compétences que l'on peut augmenter en étant dans cette famille de métier incluent la Construction, la Réparation, l'Usage des outils, la Connaissance des matériaux, la Résistance à la fatigue, etc. Ces compétences peuvent aider les personnages à créer des structures solides et durables, à réparer des objets cassés, à utiliser des outils efficacement et à résister aux conditions difficiles dans lesquelles ils peuvent être amenés à travailler.  
+1. Artisan
+La famille de métier des artisans regroupe les métiers manuels et techniques, tels que les menuisiers, les électriciens, les plombiers, garagistes, etc. Ces métiers sont axés sur la création et la réparation de biens matériels. Les artisans sont généralement des personnes habiles de leurs mains et ayant une bonne compréhension des matériaux et des outils nécessaires à leur travail.  
+Les compétences que l'on peut augmenter en étant dans cette famille de métier incluent le Bricolage, la Plomberie, l'Électricité, etc. Ces compétences peuvent aider les personnages à créer des structures solides et durables, à réparer des objets cassés, à utiliser des outils efficacement et à résister aux conditions difficiles dans lesquelles ils peuvent être amenés à travailler.  
    * 2 compétences du domaine de l’Artisanat (« Électricité », « Plomberie », « Coiffure »…)
    * Athlétisme
    * Baratin
@@ -166,8 +216,8 @@ Les compétences que l'on peut augmenter en étant dans cette famille de métier
    * Perception
    * Pilotage
 
-5. #####Employé
-La famille de métiers des employés regroupe les métiers qui se concentrent sur les tâches administratives et les services à la clientèle. Les employés sont souvent chargés de gérer les tâches quotidiennes d'une entreprise ou d'une organisation, telles que la gestion des documents, les communications avec les clients et les fournisseurs, et la gestion de l'inventaire. Les employés peuvent travailler dans des environnements variés, tels que les entreprises, les gouvernements, les organisations à but non lucratif, et les agences de voyage.  
+1. Employé
+La famille de métiers des employés regroupe les métiers qui se concentrent sur les tâches administratives et les services à la clientèle. Les employés sont souvent chargés de gérer les tâches quotidiennes d'une entreprise ou d'une organisation, telles que la gestion des documents, les communications avec les clients et les fournisseurs, et la gestion de l'inventaire, la psychologie, etc. Les employés peuvent travailler dans des environnements variés, tels que les entreprises, les gouvernements, les organisations à but non lucratif, et les agences de voyage.  
 Des exemples de métiers dans cette famille incluent les secrétaires, les employés de bureau, les agents de voyage, les responsables de la clientèle, et les responsables des ressources humaines. Les compétences que les employés peuvent développer incluent la gestion du temps, la communication efficace, la capacité à travailler en équipe, la connaissance des logiciels de bureau et la résolution de problèmes. Les employés peuvent utiliser ces compétences pour améliorer leur rendement au travail et pour progresser dans leur carrière.  
    * 2 compétences du domaine de l’employé (« Comptabilité »…)
    * Baratin
@@ -176,22 +226,22 @@ Des exemples de métiers dans cette famille incluent les secrétaires, les emplo
    * Perception
    * Technologie
 
-6. #####Sportif
-La famille de métiers des sportifs est dédiée aux personnes ayant choisi de consacrer leur vie à une activité sportive. Cela inclut les athlètes professionnels, les entraîneurs, les arbitres et les commentateurs sportifs. Les compétences liées à cette famille de métiers sont celles qui peuvent être développées grâce à la pratique intensive d'un sport. Par exemple, un athlète peut augmenter sa condition physique, sa coordination et son endurance. Un entraîneur peut développer des compétences en leadership et en stratégie d'entraînement. Les arbitres et les commentateurs peuvent améliorer leur connaissance des règles et de l'histoire des sports qu'ils pratiquent. Les compétences acquises dans ce domaine peuvent être utiles pour survivre dans un monde post-apocalyptique où la force physique et la détermination peuvent faire la différence entre la vie et la mort.  
+1. Sportif
+La famille de métiers des sportifs est dédiée aux personnes ayant choisi de consacrer leur vie à une activité sportive. Cela inclut les athlètes professionnels, les entraîneurs, les arbitres et les commentateurs sportifs, les professeurs de sport. Les compétences liées à cette famille de métiers sont celles qui peuvent être développées grâce à la pratique intensive d'un sport. Par exemple, un athlète peut augmenter sa condition physique, sa coordination et son endurance. Un entraîneur peut développer des compétences en leadership et en stratégie d'entraînement. Les arbitres et les commentateurs peuvent améliorer leur connaissance des règles et de l'histoire des sports qu'ils pratiquent. Les compétences acquises dans ce domaine peuvent être utiles pour survivre dans un monde post-apocalyptique où la force physique et la détermination peuvent faire la différence entre la vie et la mort.  
    * 2 Compétences du domaine du sportif (« Nager », « Équitation », « Lancer »,…)
    * Athlétisme
    * Esquive
    * Premiers Soins
 
-7. #####Profession libérale
+1. Profession libérale
 Les professionnels libéraux sont des individus qui exercent une activité indépendante et utilisent leur expertise pour fournir des services à leurs clients. Cette famille de métiers inclut des avocats, des médecins, des architectes et des consultants en tout genre. Les joueurs peuvent augmenter leurs compétences en matière de communication, de négociation, de résolution de problèmes et de prise de décision. Ils peuvent également développer leur connaissance spécialisée dans leur domaine de travail afin de devenir encore plus compétitifs dans leur carrière. Les joueurs peuvent également augmenter leurs compétences en matière de gestion, de leadership et de vente pour gérer leur entreprise avec succès.  
    * 2 compétences du domaine de la profession libérale (« Droits », « Médecine »…)
    * Argumenter
    * Chercher
    * Psychologie
 
-8. #####Artiste
-La famille de métier des artistes comprend les créateurs dans divers domaines, tels que la musique, la peinture, la danse, la littérature, le cinéma, etc. Les artistes sont souvent considérés comme des personnes talentueuses et expressives, ayant le don de traduire leurs émotions et leur vision du monde en formes artistiques. Les métiers dans cette famille peuvent inclure le musicien, le peintre, le danseur, l'écrivain, le réalisateur, etc. Les compétences liées à cette famille peuvent inclure la créativité, la technique artistique, la compréhension de l'histoire de l'art, la communication interpersonnelle, la capacité à travailler en équipe, etc. Les artistes peuvent augmenter leurs compétences en suivant des cours, en pratiquant régulièrement leur art et en se familiarisant avec les techniques et les styles différents. Les compétences dans cette famille peuvent être utiles dans de nombreux contextes différents, y compris la création d'œuvres d'art pour le plaisir personnel ou pour un public, l'enseignement de l'art à d'autres personnes, et même dans des domaines professionnels tels que la publicité, la conception de produits, et la production de films.     
+1. Artiste
+La famille de métier des artistes comprend les créateurs dans divers domaines, tels que la musique, la peinture, la danse, la littérature, le cinéma, le cirque, etc. Les artistes sont souvent considérés comme des personnes talentueuses et expressives, ayant le don de traduire leurs émotions et leur vision du monde en formes artistiques. Les métiers dans cette famille peuvent inclure le musicien, le peintre, le danseur, l'écrivain, le réalisateur, etc. Les compétences liées à cette famille peuvent inclure la créativité, la technique artistique, la compréhension de l'histoire de l'art, la communication interpersonnelle, la capacité à travailler en équipe, etc. Les artistes peuvent augmenter leurs compétences en suivant des cours, en pratiquant régulièrement leur art et en se familiarisant avec les techniques et les styles différents. Les compétences dans cette famille peuvent être utiles dans de nombreux contextes différents, y compris la création d'œuvres d'art pour le plaisir personnel ou pour un public, l'enseignement de l'art à d'autres personnes, et même dans des domaines professionnels tels que la publicité, la conception de produits, et la production de films.     
    * 2 compétences du domaine (« Jongler », « Jouer la comédie », « Chanter », « Jouer de la musique »)
    * Athlétisme
    * Baratin

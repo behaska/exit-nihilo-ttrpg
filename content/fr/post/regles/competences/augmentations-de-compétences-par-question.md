@@ -22,8 +22,6 @@ Quel est ton signe astrologique ?
 Ces questions aidaient à déterminer les statistiques de base et les caractéristiques du personnage, ainsi que son background et son alignement moral dans le monde d'Ultima.
 
 
-
-
 hervé DARRITCHON (herveDarritchon)
 est ce qu'il n'y avait pas d'autres questions ?
 Cela dépend de la version exacte du jeu Ultima dans laquelle vous jouiez. Dans certaines versions, il pouvait y avoir d'autres questions ou un certain nombre de questions supplémentaires pour aider à déterminer davantage les caractéristiques du personnage. Par exemple, certains jeux Ultima pouvaient inclure des questions supplémentaires telles que :

@@ -13,18 +13,18 @@ draft: false
 Il est important de noter que, dans le cadre d'un jeu de rôle, les compétences associées à un contexte donné peuvent varier en fonction de l'expérience et de l'histoire du personnage. En travaillant en étroite collaboration avec le Maitre de Jeu, les joueurs peuvent construire un personnage avec des compétences qui reflètent leur histoire et leur environnement. En outre, il est essentiel que les joueurs comprennent que chaque compétence a une justification, et qu'ils doivent être en mesure de les expliquer en fonction de l'histoire de leur personnage. Cette pratique renforce la crédibilité et l'immersion dans le jeu, tout en ajoutant une dimension supplémentaire au développement de l'histoire.
 
 ## Listes de questions auxquelles répondre :
-* ["Quel genre d'événements a marqué votre enfance et comment les avez-vous vécus ?"](evenements-marque-enfance.md)
-* ["Comment votre personnage réagit-il face à l'adversité et aux obstacles ?"](reaction-face-a-adversite.md)
-* ["Comment votre personnage perçoit-il la vie et les relations humaines ?"](perception-releations-humaines.md)
-* ["Comment votre personnage gère-t-il les conflits et les difficultés ?"](gestion-des-conflits.md)
-* ["Comment votre personnage gère-t-il la perte et le deuil ?"](gestion-du-deuil.md)
-* ["Quelle est votre profession ?"](choix-profession.md)
-* ["Quelle est votre statut social ?"](choix-statut-social.md)
-* ["Quel est votre niveau d'éducation ?"](choix-niveau-d-education.md)
-* ["Quel est votre niveau d'éducation ?"](choix-niveau-d-education.md)
+* ["Quel genre d'événements a marqué votre enfance et comment les avez-vous vécus ?"](les-evenements-de-votre-enfance)
+* ["Comment votre personnage réagit-il face à l'adversité et aux obstacles ?"](reaction-face-a-adversite)
+* ["Comment votre personnage perçoit-il la vie et les relations humaines ?"](perception-releations-humaines)
+* ["Comment votre personnage gère-t-il les conflits et les difficultés ?"](gestion-des-conflits)
+* ["Comment votre personnage gère-t-il la perte et le deuil ?"](gestion-du-deuil)
+* ["Quelle est votre profession ?"](choix-profession)
+* ["Quelle est votre statut social ?"](choix-statut-social)
+* ["Quel est votre niveau d'éducation ?"](choix-niveau-d-education)
+* ["Quel est votre niveau d'éducation ?"](choix-niveau-d-education)
 * ["Quel est votre hobby préféré ?"](hoby-prefere)
 * ["Vie de Famille ?"](vie-de-famille)
-* ["Quel genre d'événements a marqué votre Adolescence ?"](evenements-marque-adolescence.md)
+* ["Quel genre d'événements a marqué votre Adolescence ?"](evenements-marque-adolescence)
 
 
 Comment réagissez-vous au stress ?

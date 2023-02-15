@@ -16,13 +16,15 @@ En répondant à cette question, le joueur décidera des traits de caractère de
 > "Comment votre personnage perçoit-il la vie et les relations humaines ?"
 
 ### Réponses possibles
-1) Comme un défi : détermination, courage, manque de compassion.
-1) Comme une opportunité : optimisme, confiance en soi, manque de réalisme.
-1) Comme un fardeau : dépression, manque de courage, difficulté à faire face à la réalité.
-1) Comme une source de joie : joie de vivre, optimisme, manque de profondeur émotionnelle.
-1) Comme une source de souffrance : pessimisme, dépression, manque d'espoir.
-1) Comme un jeu : indifférence, manque d'empathie, danger pour les autres.
-1) Comme un cadeau : gratitude, reconnaissance, manque de réalisme.
-1) Comme un devoir : responsabilité, détermination, manque de plaisir.
-1) Comme un mystère : curiosité, ouverture d'esprit, manque de compréhension.
-1) Comme une aventure : aventureux, courage, manque de préparation.
+1) Comme un défi : conquérant, ambitieux, manque de compassion.
+1) Comme une opportunité : optimiste, opportuniste, manque de réalisme.
+1) Comme un fardeau : pessimiste, découragé, difficulté à faire face à la réalité.
+1) Comme une source de joie : joyeux, enthousiaste, manque de profondeur émotionnelle.
+1) Comme une source de souffrance : tourmenté, anxieux, manque d'espoir.
+1) Comme un jeu : malicieux, facétieux, danger pour les autres.
+1) Comme un cadeau : chanceux, émerveillé, manque de réalisme.
+1) Comme un devoir : responsable, dévoué, manque de plaisir.
+2) Comme un mystère : curieux, mystérieux, manque de compréhension.
+3) Comme une aventure : intrépide, audacieux, manque de préparation.
+
+{{% navigation beforePost="reaction-face-a-adversite" beforeLabel="Réactions face à l'Adversité" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="gestion-des-conflits" afterLabel="La Gestion des Conflits" %}}

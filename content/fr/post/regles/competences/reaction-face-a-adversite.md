@@ -16,13 +16,15 @@ En répondant à cette question, le joueur décidera des traits de caractère de
 > "Comment votre personnage réagit-il face à l'adversité et aux obstacles ?"
 
 ### Réponses possibles
-1) Avec détermination : détermination, courage, manque de flexibilité.
-1) Avec défaitisme : dépression, manque de courage, incapacité à faire face à la réalité.
-1) Avec optimisme : optimisme, confiance en soi, manque de réalisme.
-1) Avec persévérance : détermination, persévérance, manque de réflexion.
-1) Avec colère : colère, impulsivité, manque de contrôle émotionnel.
-1) Avec peur : peur, manque de courage, incapacité à faire face à la réalité.
-1) Avec résignation : dépression, manque de courage, manque d'espoir.
-1) Avec indifférence : indifférence, manque d'empathie, danger pour les autres.
-1) Avec courage : courage, détermination, manque de prudence.
-1) Avec créativité : créativité, adaptabilité, manque de planification.
+1) Avec détermination : déterminée, volontaire, manque de flexibilité.
+2) Avec défaitisme : fataliste, résignée, incapacité à faire face à la réalité.
+3) Avec optimisme : optimiste, confiante, manque de réalisme.
+4) Avec persévérance : tenace, persévérante, manque de réflexion.
+5) Avec prudence : prudent, réfléchie, manque de courage.
+6) Avec colère : colérique, impulsive, manque de contrôle émotionnel.
+7) Avec peur : peureuse, craintive, incapacité à faire face à la réalité.
+8) Avec indifférence : détachée, impassible, danger pour les autres.
+9) Avec courage : courageuse, audacieuse, manque de prudence.
+10) Avec créativité : imaginatif, inventif, manque de planification.
+
+{{% navigation beforePost="evenements-marque-enfance" beforeLabel="Les Évènements de votre enfance" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="perception-relations-humaines" afterLabel="Les Relations Humaines" %}}

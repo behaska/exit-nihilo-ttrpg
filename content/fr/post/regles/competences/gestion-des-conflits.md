@@ -46,3 +46,5 @@ Voici cinq exemples de situations de conflit et de difficultés que le personnag
 * Pression sociale : Le personnage peut ressentir la pression d'entrer dans un groupe ou de correspondre à certaines normes sociales pour être accepté, ce qui peut entraîner des conflits avec ses propres valeurs et sa personnalité.
 * Difficultés scolaires : Le personnage peut éprouver des difficultés à l'école, comme des difficultés d'apprentissage, un manque de concentration, ou des difficultés à suivre les règles.
 * Conflits interpersonnels : Le personnage peut également rencontrer des conflits avec d'autres enfants, qu'il s'agisse d'une rivalité amoureuse ou de disputes avec des amis sur des sujets tels que le partage de jouets ou d'autres problèmes.
+
+{{% navigation beforePost="perception-relations-humaines" beforeLabel="Les Relations Humaines" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="gestion-du-deuil" afterLabel="La Gestion du Deuil" %}}

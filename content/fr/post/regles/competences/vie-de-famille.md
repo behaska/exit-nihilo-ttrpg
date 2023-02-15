@@ -41,3 +41,5 @@ Le statut relationnel du personnage avant le Grand Événement peut avoir un imp
 1) "J'ai un enfant en bas âge, qui nécessite beaucoup de temps et d'attention."
 1) "Je n'ai pas d'enfants, mais je suis très impliqué(e) dans la vie de mes neveux et nièces."
 1) "Je préfère ne pas répondre à cette question."
+
+{{% navigation beforePost="hobby-prefere" beforeLabel="Hobby préféré" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="evenements-marque-adolescence" afterLabel="Évènements de l'Adolescence" %}}

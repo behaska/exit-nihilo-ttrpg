@@ -70,3 +70,5 @@ En résumé, participer à un programme de formation militaire peut aider à dé
    * Armes de poing. Les participants apprendront à manier et à tirer avec des pistolets, des revolvers et d'autres armes de poing, à nettoyer et à entretenir leur équipement, ainsi qu'à développer des compétences en esquive pour éviter les attaques ennemies.
    * Esquive est particulièrement importante pour les soldats en formation, car elle leur permet de se déplacer rapidement sur le champ de bataille et de se mettre à couvert pour éviter les tirs ennemis. 
    * Survie est également une compétence clé, car les soldats en formation peuvent être amenés à se retrouver dans des environnements difficiles et à devoir survivre avec des ressources limitées.
+
+{{% navigation beforePost="vie-de-famille" beforeLabel="Vie de Famille" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="vie-de-famille" afterLabel="Vie de Famille" %}}

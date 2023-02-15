@@ -5,7 +5,7 @@ description: "Question/Réponses \"Choix du Niveau d'Education\""
 slug: 'choix-niveau-d-education'
 featured_image: "/images/les-prédateurs.png"
 tags: ["règles", "création-de-personnage"]
-title: "Chapitre II: Choix Status Social"
+title: "Chapitre II: Choix du Niveau d'Éducation"
 draft: false
 ---
 
@@ -27,3 +27,5 @@ Par exemple, un personnage qui a étudié la médecine pendant de nombreuses ann
 1) Cours du soir
 1) Formation continue
 1) Autodidacte
+
+{{% navigation beforePost="choix-statut-social" beforeLabel="Choix du Statut Social" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="hobby-prefere" afterLabel="Hobby préféré" %}}

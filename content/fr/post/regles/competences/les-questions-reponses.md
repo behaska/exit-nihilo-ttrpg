@@ -1,104 +1,33 @@
 ---
 date: 2023-01-28T10:58:08-04:00
 publishdate: 2023-01-28
-description: "Les Monstres : Les Prédateurs"
-slug: 'les-prédateurs'
+description: "Création de Personnage : La série de Questions/Réponses pour enrichir son personnage."
+slug: 'les-questions-reponses'
 featured_image: "/images/les-prédateurs.png"
-tags: ["règles", "monstres", "prédateurs"]
-title: "Chapitre IV: Les Prédateurs"
-draft: true
+tags: ["règles", "création-de-personnage"]
+title: "Chapitre II: Les Questions-Réponses"
+draft: false
 ---
 
-Listes de questions auxquelles répondre :
-* ["Quel genre d'événements a marqué votre enfance et comment les avez-vous vécus?"](evenements-marque-enfance.md)
+## Introduction 
+Il est important de noter que, dans le cadre d'un jeu de rôle, les compétences associées à un contexte donné peuvent varier en fonction de l'expérience et de l'histoire du personnage. En travaillant en étroite collaboration avec le Maitre de Jeu, les joueurs peuvent construire un personnage avec des compétences qui reflètent leur histoire et leur environnement. En outre, il est essentiel que les joueurs comprennent que chaque compétence a une justification, et qu'ils doivent être en mesure de les expliquer en fonction de l'histoire de leur personnage. Cette pratique renforce la crédibilité et l'immersion dans le jeu, tout en ajoutant une dimension supplémentaire au développement de l'histoire.
 
-Voici 10 réponses possibles pour la question "Comment votre personnage réagit-il face à l'adversité et aux obstacles?" :  
-* Avec détermination : détermination, courage, manque de flexibilité.
-* Avec défaitisme : dépression, manque de courage, incapacité à faire face à la réalité.
-* Avec optimisme : optimisme, confiance en soi, manque de réalisme.
-* Avec persévérance : détermination, persévérance, manque de réflexion.
-* Avec colère : colère, impulsivité, manque de contrôle émotionnel.
-* Avec peur : peur, manque de courage, incapacité à faire face à la réalité.
-* Avec résignation : dépression, manque de courage, manque d'espoir.
-* Avec indifférence : indifférence, manque d'empathie, danger pour les autres.
-* Avec courage : courage, détermination, manque de prudence.
-* Avec créativité : créativité, adaptabilité, manque de planification.
+## Listes de questions auxquelles répondre :
+* ["Quel genre d'événements a marqué votre enfance et comment les avez-vous vécus ?"](evenements-marque-enfance.md)
+* ["Comment votre personnage réagit-il face à l'adversité et aux obstacles ?"](reaction-face-a-adversite.md)
+* ["Comment votre personnage perçoit-il la vie et les relations humaines ?"](perception-releations-humaines.md)
+* ["Comment votre personnage gère-t-il les conflits et les difficultés ?"](gestion-des-conflits.md)
+* ["Comment votre personnage gère-t-il la perte et le deuil ?"](gestion-du-deuil.md)
+* ["Quelle est votre profession ?"](choix-profession.md)
+* ["Quelle est votre statut social ?"](choix-statut-social.md)
+* ["Quel est votre niveau d'éducation ?"](choix-niveau-d-education.md)
+* ["Quel est votre niveau d'éducation ?"](choix-niveau-d-education.md)
+* ["Quel est votre hobby préféré ?"](hoby-prefere)
+* ["Vie de Famille ?"](vie-de-famille)
+* ["Quel genre d'événements a marqué votre Adolescence ?"](evenements-marque-adolescence.md)
 
-Voici 10 réponses possibles pour la question "Comment votre personnage perçoit-il la vie et les relations humaines ?" :  
-* Comme un défi : détermination, courage, manque de compassion.
-* Comme une opportunité : optimisme, confiance en soi, manque de réalisme.
-* Comme un fardeau : dépression, manque de courage, difficulté à faire face à la réalité.
-* Comme une source de joie : joie de vivre, optimisme, manque de profondeur émotionnelle.
-* Comme une source de souffrance : pessimisme, dépression, manque d'espoir.
-* Comme un jeu : indifférence, manque d'empathie, danger pour les autres.
-* Comme un cadeau : gratitude, reconnaissance, manque de réalisme.
-* Comme un devoir : responsabilité, détermination, manque de plaisir.
-* Comme un mystère : curiosité, ouverture d'esprit, manque de compréhension.
-* Comme une aventure : aventureux, courage, manque de préparation.
 
-Voici 10 réponses possibles pour la question "Comment votre personnage gère-t-il les conflits et les difficultés ?" :  
-* En fuyant : manque de courage, peur, difficulté à faire face à la réalité.
-* En se battant : courage, détermination, manque de tact.
-* En négociant : diplomatie, capacité à communiquer, manque de détermination.
-* En utilisant la manipulation : doute, manque de confiance * en soi, danger.
-* En se retirant : solitude, paix intérieure, manque de relations durables.
-* En recherchant de l'aide : vulnérabilité, dépendance, manque de détermination.
-* En gardant ses distances : indépendance, manque de relations durables, difficulté à comprendre les autres.
-* En se mettant à la place de l'autre : empathie, capacité à communiquer, manque d'objectivité.
-* En acceptant la défaite : acceptation, manque de détermination, difficulté à faire face à la réalité.
-* En trouvant une solution alternative : créativité, manque de conformité, difficulté à suivre les règles.
-
-Voici 10 réponses possibles pour la question "Comment votre personnage gère-t-il la perte et le deuil ?" :  
-* En refusant d'y penser : fuite émotionnelle, manque de compréhension de soi, difficulté à établir des relations durables.
-* En se consacrant à une cause : but, détermination, manque de vie personnelle.
-* En se tournant vers la religion ou la spiritualité : foi, paix intérieure, manque d'objectivité.
-* En cherchant à se venger : colère, manque de paix intérieure, danger.
-* En se déconnectant émotionnellement : absence d'émotions, manque de relations durables, difficulté à comprendre les autres.
-* En développant une addiction : dépendance, perte de contrôle, danger.
-* En cherchant à aider les autres qui traversent la même chose : empathie, travail * en équipe, manque de temps personnel.
-* En gardant les souvenirs de la personne perdue précieusement : mémoire, respect, manque d'acceptation.
-* En cherchant à les remplacer : dépendance, manque de compréhension de soi, difficulté à établir des relations durables.
-* En acceptant la perte et en allant de l'avant : acceptation, paix intérieure, manque de mémoire.
-
---------------------------
-
-Quelle est votre profession ?
-* Ouvrier/ouvrière
-* Employé/employée
-* Profession libérale
-* Fonctionnaire
-* Artisan/artisane
-* Agriculteur/agricultrice
-* Étudiant/étudiante
-* Retraité/retraitée
-* Sans emploi
-* Chef d'entreprise
-* Militaire/Pompier/Policier
-* Travailleur/travailleuse social(e)
-* Artiste
-
-Quel est votre statut social ?
-* Riche/Issu d'une famille aisée : Revenu annuel supérieur à 200 000 $.
-* Classe moyenne supérieure : Revenu annuel entre 50 000 $ et 100 000 $.
-* Classe moyenne inférieure : Revenu annuel entre 20 000 $ et 30 000 $.
-* Pauvre/SDF : Revenu annuel inférieur à 20 000 $.
-* Chômeur/chômeuse : Pas de revenu stable.
-* Immigré/immigrée : Revenu variable selon le pays d'origine et le statut administratif.
-* Réfugié/réfugiée : Pas de revenu stable.
-
-Quel est votre niveau d'éducation ?
-* Diplôme d'études secondaires/GED (équivalent du baccalauréat)
-* Certificat professionnel
-* Diplôme universitaire de premier cycle (Licence/Bachelor)
-* Diplôme universitaire de deuxième cycle (Master)
-* Diplôme universitaire de troisième cycle (Doctorat)
-* Programme d'études techniques/collégiales (Associate degree)
-* Formation professionnelle/certification
-* Cours du soir
-* Formation continue
-* Autodidacte
-
-Comment réagissez-vous le stress ?
+Comment réagissez-vous au stress ?
 * Anxiété (inquiétude, nervosité, agitation)
 * Colère (irritabilité, impulsivité, hostilité)
 * Évitement (repli sur soi, isolement social, procrastination)
@@ -115,32 +44,7 @@ Comment réagissez-vous le stress ?
 * Écouter de la musique ou pratiquer un passe-temps relaxant
 * Consommer des aliments sains et éviter les stimulants tels que la caféine et l'alcool
 
-Quel est votre hobby préféré ?
-* Jouer à des jeux vidéo
-* Aller voir des spectacles (théâtre, danse, comédies musicales, etc.)
-* Participer à des événements communautaires ou associatifs
-* Voyager et explorer de nouveaux endroits
-* Essayer de nouveaux restaurants ou cuisiner de nouveaux plats à la maison
-* Pratiquer des sports ou des activités de plein air (randonnée, escalade, kayak, etc.)
-* Lire des livres, des magazines ou des bandes dessinées
-* Passer du temps avec des animaux de compagnie ou faire du bénévolat dans un refuge
-* Jouer à des jeux de société ou organiser des soirées jeux avec des amis.
 
-Êtes-vous en couple ?
-* "Oui, je suis en couple avec mon partenaire depuis plusieurs années."
-* "Non, je suis actuellement célibataire."
-* "Je suis dans une relation non-exclusive."
-* "Je suis divorcé(e)."
-* "Je suis en couple, mais notre relation est à distance."
-* "Je ne souhaite pas répondre à cette question."
-
-Avez-vous des enfants ?
-* "Oui, j'ai des enfants, et ils sont ma plus grande source de fierté."
-* "Non, je n'ai pas encore d'enfants, mais j'aimerais en avoir un jour."
-* "J'ai des enfants adultes qui vivent indépendamment."
-* "J'ai un enfant en bas âge, qui nécessite beaucoup de temps et d'attention."
-* "Je n'ai pas d'enfants, mais je suis très impliqué(e) dans la vie de mes neveux et nièces."
-* "Je préfère ne pas répondre à cette question."
 
 Comment traitez-vous les autres ?
 * "Je suis généralement très respectueux(se) et empathique envers les autres, mais j'ai tendance à être méfiant(e) envers les gens que je ne connais * pas bien."

@@ -1,7 +1,7 @@
 ---
 date: 2023-01-28T10:58:08-04:00
 publishdate: 2023-01-28
-description: "La question et les réponses \"Les Évènements de votre enfance\""
+description: "Question/Réponses \"Les Évènements de votre enfance\""
 slug: 'les-evenements-de-votre-enfance'
 featured_image: "/images/les-competences.png"
 tags: ["règles", "création-de-personnage", "compétences"]
@@ -9,10 +9,19 @@ title: "Chapitre II: Les Evènements de votre Enfance"
 draft: false
 ---
 
-Voici dix réponses différentes à la question "Quel genre d'événements a marqué votre enfance et comment les avez-vous vécus?" :  
+## Introduction
+Répondre à des questions sur son histoire personnelle permet de donner de la profondeur et de la cohérence à son personnage. Les détails que le joueur va fournir sur l'histoire de son personnage vont permettre de mieux comprendre sa personnalité, ses motivations, ses craintes et ses aspirations. En conséquence, cela rendra l'expérience de jeu plus immersive et plus intéressante pour le joueur. De plus, en répondant à ces questions, le joueur pourra également obtenir des niveaux dans certaines compétences, reflétant ainsi l'expérience et les connaissances acquises par le personnage tout au long de sa vie. Ces niveaux pourront ensuite être utilisés pour aider le personnage à surmonter des obstacles ou à réussir dans des situations difficiles au cours du jeu. En somme, répondre à des questions sur l'histoire personnelle du personnage est une étape cruciale pour donner vie à un personnage de JdR contemporain et pour l'enrichir de compétences utiles.
+
+### Remarque 
+Les joueurs ont la possibilité de choisir des réponses pré-renseignées pour construire leur personnage. Cependant, cette liste de compétences ne peut être exhaustive et certains joueurs peuvent vouloir proposer leurs propres réponses. Il est important de se rappeler que le choix des compétences doit être en accord avec le Maître de Jeu, qui est le guide de l'aventure. Les joueurs doivent donc prendre en compte les limites de l'univers du jeu, le contexte de l'histoire et les autres personnages joueurs pour proposer des compétences pertinentes pour leur personnage. Le Maître de Jeu est là pour aider les joueurs à créer un personnage intéressant et équilibré pour une expérience de jeu immersive et amusante.
+
+### Question
+> "Quel genre d'événements a marqué votre enfance et comment les avez-vous vécus?"
+
+### Réponses possibles
 1) La séparation/divorce de leurs parents : Le personnage a peut-être vécu de la tristesse et de la confusion à cause de la séparation de leurs parents. Ils peuvent avoir développé des compétences d'adaptation et de résilience.
    * Psychologie : le personnage a peut-être développé une compréhension plus profonde des émotions et des relations en raison de leur propre expérience.  
-   * Perception : le personnage peut être plus sensible aux changements subtils dans l'humeur et le comportement des autres. Survie : le personnage peut avoir appris à être plus autonome et à s'adapter aux changements de vie.  
+   * Perception : le personnage peut être plus sensible aux changements subtils dans l'humeur et le comportement des autres ainsi que dans les évolutions subtiles des environnements dans lequel il vit. Toujours à l'affût des nouveautés.    
    * Technologie : Le personnage pourrait avoir développé un intérêt pour la technologie en tant que moyen de se connecter avec ses parents séparés ou pour s'échapper des difficultés émotionnelles. En utilisant la technologie pour communiquer avec ses parents, le personnage peut avoir appris des compétences techniques telles que la messagerie instantanée, le courrier électronique ou la visioconférence.  
    * Chercher : Le personnage pourrait avoir été motivé à chercher des réponses à propos de la séparation de ses parents, tels que les raisons de la rupture ou les démarches pour réunir la famille. En cherchant des informations sur le divorce, le personnage peut avoir acquis des compétences de recherche, telles que la capacité à évaluer les sources, à synthétiser les informations et à formuler des questions pertinentes.  
 2) La mort d'un proche : Le personnage peut avoir été profondément affecté par la perte d'un proche, développant peut-être un sens aigu de l'empathie et de la compassion pour les autres.

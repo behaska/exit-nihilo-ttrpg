@@ -13,15 +13,15 @@ draft: false
 Il est important de noter que, dans le cadre d'un jeu de rôle, les compétences associées à un contexte donné peuvent varier en fonction de l'expérience et de l'histoire du personnage. En travaillant en étroite collaboration avec le Maitre de Jeu, les joueurs peuvent construire un personnage avec des compétences qui reflètent leur histoire et leur environnement. En outre, il est essentiel que les joueurs comprennent que chaque compétence a une justification, et qu'ils doivent être en mesure de les expliquer en fonction de l'histoire de leur personnage. Cette pratique renforce la crédibilité et l'immersion dans le jeu, tout en ajoutant une dimension supplémentaire au développement de l'histoire.
 
 ## Listes de questions auxquelles répondre :
-1) ["Quel genre d'événements a marqué votre enfance et comment les avez-vous vécus ?"]({{< relref "les-evenements-de-votre-enfance" >}}))
+1) ["Quel genre d'événements a marqué votre enfance et comment les avez-vous vécus ?"]({{< relref "evenements-marque-enfance" >}}))
 1) ["Comment votre personnage réagit-il face à l'adversité et aux obstacles ?"]({{< relref "reaction-face-a-adversite" >}}))
-1) ["Comment votre personnage perçoit-il la vie et les relations humaines ?"]({{< relref "perception-releations-humaines" >}}))
+1) ["Comment votre personnage perçoit-il la vie et les relations humaines ?"]({{< relref "perception-relations-humaines" >}}))
 1) ["Comment votre personnage gère-t-il les conflits et les difficultés ?"]({{< relref "gestion-des-conflits" >}}))
 1) ["Comment votre personnage gère-t-il la perte et le deuil ?"]({{< relref "gestion-du-deuil" >}}))
 1) ["Quelle est votre profession ?"]({{< relref "choix-profession" >}}))
 1) ["Quelle est votre statut social ?"]({{< relref "choix-statut-social" >}}))
 1) ["Quel est votre niveau d'éducation ?"]({{< relref "choix-niveau-d-education" >}}))()
-1) ["Quel est votre hobby préféré ?"]({{< relref "hoby-prefere" >}}))
+1) ["Quel est votre hobby préféré ?"]({{< relref "hobby-prefere" >}}))
 1) ["Vie de Famille ?"]({{< relref "vie-de-famille" >}}))
 1) ["Quel genre d'événements a marqué votre Adolescence ?"]({{< relref "evenements-marque-adolescence" >}}))
 

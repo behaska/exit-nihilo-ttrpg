@@ -17,6 +17,7 @@ Les attributs, dans Exit Nihilo, n'ont pas d'utilité direct dans le jeu, ces va
 * [Esprit]({{< relref "attributs/esprit" >}}): Mesure la capacité d'un personnage à comprendre, raisonner et apprendre, en déterminant sa réussite dans des actions nécessitant une compréhension et un raisonnement efficace, tels que la résolution d'énigmes, la compréhension de concepts scientifiques, et la prise de décisions judicieuses.
 * [Physique]({{< relref "attributs/physique" >}}): Représente la capacité physique d'un personnage, incluant la force, l'endurance, la résistance et la constitution, et détermine la robustesse et la capacité de résister aux efforts physiques et aux dommages.
 * [Social]({{< relref "attributs/social" >}}): Représente la capacité d'un personnage à comprendre et communiquer avec les autres, incluant la persuasion, la compréhension des motivations et des interactions sociales, et est utilisé pour déterminer le succès dans les défis sociaux tels que les négociations et les débats.
+* [Subconscient]({{< relref "attributs/subconscient" >}}): Représente la capacité d'un personnage à avoir une perception intuitive et à être guidé par ses instincts, ce qui peut l'aider à réagir rapidement et efficacement dans des situations dangereuses ou opportunes.
 
 ## Calculer les attributs.
 Pour calculer la valeur des attributs, il faut utiliser les modificateurs fournis par le [stéréotype]({{< relref "stereotypes" >}}) puis les appliquer aux attributs dans l'ordre choisit par le joueur.
@@ -32,6 +33,6 @@ Si l'on reprend ce qui a été [décidé par Sarah]({{< relref "creation-personn
 Elle a un profil de **Spécialiste**, la joueuse d'Emma va donc maintenant appliquer les bonus/malus qu'apportent le stéréotype spécialiste aux attributs. Chaque modificateur doit être appliqué qu'une seule.  
 Sarah, la joueuse, choisit qu'Emma aura plutôt des qualité physique et de caractère et aura plutôt des faiblesse en social et esprit pour respecter ses choix d'Archétype.  
 Ce qui donne au final :  
-> Physique (+1), Agilité (+1), Caractère (0), Esprit (-1) et Social (-1).
+> Physique (+1), Agilité (+1), Caractère (0), Esprit (-1), Social (-1) et Subconscient (+1).
 
 {{% navigation parentPost="creation-personnage#les-attributs" parentLabel="La Création de Personnage" afterPost="creation-personnage#calcul-des-caractéristiques" afterLabel="Calculer les Caractéristiques" %}}

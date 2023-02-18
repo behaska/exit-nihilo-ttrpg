@@ -22,8 +22,9 @@ Les groupes sont :
 * [Caractère]({{< relref "attributs/caractere" >}})
 * [Esprit]({{< relref "attributs/esprit" >}})
 * [Social]({{< relref "attributs/social" >}})
+* [Subconscient]({{< relref "attributs/subconscient" >}})
 
-### Liste des Attributs avec leurs caractérisques
+### Liste des Attributs avec leurs caractéristiques
 
 #### Physique
 L'attribut ***"Physique"*** est un attribut qui représente la capacité physique générale d'un personnage. Il prend en compte plusieurs aspects physiques comme la force, l'endurance, la résistance, et la constitution. Il détermine la robustesse et la capacité d'un personnage à supporter les efforts physiques et les dommages.  
@@ -55,6 +56,12 @@ Elle est composée dans Exit-Nihilo de 2 caractéristiques:
 * [Empathie]({{< relref "attributs/social#empathie" >}})
 * [Communication]({{< relref "attributs/social#communication" >}})
 
+#### Subconscient
+L'attribut ***"Subconscient"*** est une caractéristique qui représente la capacité d'un personnage à avoir une perception intuitive et à être guidé par ses instincts, ce qui peut l'aider à réagir rapidement et efficacement dans des situations dangereuses ou opportunes.    
+Elle est composée dans Exit-Nihilo de 2 caractéristiques:
+* [Instinct]({{< relref "attributs/subconscient#instinct" >}})
+* [Intuition]({{< relref "attributs/subconscient#intuition" >}})
+  
 ## Les Statistiques ou caractéristiques dynamiques
 
 ### Humanité

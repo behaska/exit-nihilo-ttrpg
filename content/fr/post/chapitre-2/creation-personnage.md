@@ -59,6 +59,7 @@ Les attributs sont au nombre de 5 et représentent les groupes de caractéristiq
 * [Esprit]({{< relref "attributs/esprit" >}})
 * [Physique]({{< relref "attributs/physique" >}})
 * [Social]({{< relref "attributs/social" >}})
+* [Subconscient]({{< relref "attributs/subconscient" >}})
 
 En tant que joueur, vous devez classer ces attributs dans l'ordre que vous voulez puis appliquer les bonus/malus éventuels de votre [stéréotype]({{< relref "stereotypes" >}}). Vous obtiendrez donc la valeur de vos attributs que vous pouvez reporter sur votre feuille de personnage. Ces valeurs ne changeront plus jamais durant la vie de votre personnage.
 
@@ -78,9 +79,10 @@ Nous retrouvons Sarah qui doit maintenant, pour chaque attribut, choisir sa cara
 * Esprit (-1) --> [Raisonnement]({{< relref "attributs/esprit#raisonnement" >}}) (secondaire), [Apprentissage]({{< relref "attributs/esprit#apprentissage" >}}) (principal)
 * Caractère (0) --> [Conscience]({{< relref "attributs/caractere#conscience" >}}) (secondaire), [Volonté]({{< relref "attributs/caractere#volonté" >}}) (principal)
 * Social (-1) --> [Communication]({{< relref "attributs/social#communication" >}}) (secondaire), [Empathie]({{< relref "attributs/social#empathie" >}}) (principal)
+* Subconscient (-1) --> [Subconscient]({{< relref "attributs/subconscient#instinct" >}}) (secondaire), [Empathie]({{< relref "attributs/subconscient#intuition" >}}) (principal)
   
 **Les caractéristiques d'Emma sont au final :**
-> Puissance (1), Vitalité (2), Adresse (1), Coordination (2), Raisonnement (-1), Apprentissage (0), Conscience (0), Volonté (1), Communication (-1), Empathie (0)
+> Puissance (1), Vitalité (2), Adresse (1), Coordination (2), Raisonnement (-1), Apprentissage (0), Conscience (0), Volonté (1), Communication (-1), Empathie (0), Intuition (1), Instinct (0)
 
 ## Les Compétences
 Il existe 3 types de [compétences]({{< relref "competences" >}}) dans Exit Nihilo :

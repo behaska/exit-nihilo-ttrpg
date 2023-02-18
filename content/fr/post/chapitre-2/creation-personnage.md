@@ -42,9 +42,9 @@ Afin de calculer la valeur des attributs, il faut tout d'abord choisir le stér�
 
 ### Les Stéréotypes
 Les joueurs peuvent choisir parmi trois [stéréotypes]({{< relref "stereotypes" >}}) d'attributs pour leur personnage : 
-* le [polyvalent]({{< relref "stereotypes#le-polyvalent" >}}) (0/0/0/0/0)
-* le [spécialiste]({{< relref "stereotypes#le-spécialiste" >}}) (-1/-1/0/+1/+1)
-* l'[expert]({{< relref "stereotypes#lexpert" >}}) (-2/-1/0/+1/+2)
+* le [polyvalent]({{< relref "stereotypes#le-polyvalent" >}}) (0/0/0/0/0/0)
+* le [spécialiste]({{< relref "stereotypes#le-spécialiste" >}}) (-1/-1/0/0/+1/+1)
+* l'[expert]({{< relref "stereotypes#lexpert" >}}) (-2/-1/0/0/+1/+2)
 
 L'archétype choisi influe sur les attributs en modifiant les valeurs de base de chaque attribut.  
 Par exemple, un personnage polyvalent aura des compétences équilibrées dans tous les domaines, mais sans excelle dans un domaine spécifique. Au contraire, un personnage spécialiste aura des compétences très développées dans plusieurs domaines, mais sera moins polyvalent. Le personnage expert aura des compétences très développées dans un seul domaine, mais peut être faible dans d'autres domaines. Ainsi, l'archétype choisi aura un impact sur les capacités de combat, de survie, de leadership et d'autres compétences importantes dans le monde post-apocalyptique d'Exit Nihilo.  
@@ -79,10 +79,10 @@ Nous retrouvons Sarah qui doit maintenant, pour chaque attribut, choisir sa cara
 * Esprit (-1) --> [Raisonnement]({{< relref "attributs/esprit#raisonnement" >}}) (secondaire), [Apprentissage]({{< relref "attributs/esprit#apprentissage" >}}) (principal)
 * Caractère (0) --> [Conscience]({{< relref "attributs/caractere#conscience" >}}) (secondaire), [Volonté]({{< relref "attributs/caractere#volonté" >}}) (principal)
 * Social (-1) --> [Communication]({{< relref "attributs/social#communication" >}}) (secondaire), [Empathie]({{< relref "attributs/social#empathie" >}}) (principal)
-* Subconscient (-1) --> [Subconscient]({{< relref "attributs/subconscient#instinct" >}}) (secondaire), [Empathie]({{< relref "attributs/subconscient#intuition" >}}) (principal)
+* Subconscient (0) --> [Subconscient]({{< relref "attributs/subconscient#instinct" >}}) (secondaire), [Empathie]({{< relref "attributs/subconscient#intuition" >}}) (principal)
   
 **Les caractéristiques d'Emma sont au final :**
-> Puissance (1), Vitalité (2), Adresse (1), Coordination (2), Raisonnement (-1), Apprentissage (0), Conscience (0), Volonté (1), Communication (-1), Empathie (0), Intuition (1), Instinct (0)
+> Puissance (1), Vitalité (2), Adresse (1), Coordination (2), Raisonnement (-1), Apprentissage (0), Conscience (0), Volonté (1), Communication (-1), Empathie (0), Intuition (0), Instinct (1)
 
 ## Les Compétences
 Il existe 3 types de [compétences]({{< relref "competences" >}}) dans Exit Nihilo :

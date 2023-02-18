@@ -24,4 +24,4 @@ Emma a réussi à s'en sortir, mais elle savait qu'elle devait rester vigilante.
 
 Tout au long de ces règles vous allez suivre Emma, elle nous servira d'exemple pour expliquer les règles de ce jeu.
 
-{{% navigation beforePost=presentation beforeLabel=Présentation parentPost=introduction parentLabel=Introduction afterPost=pentagone afterLabel="Système Pentagone" %}}
+{{% navigation beforePost=presentation beforeLabel=Présentation parentPost=introduction parentLabel=Introduction afterPost=hexagone afterLabel="Système hexagone" %}}

@@ -12,7 +12,7 @@ title: "Chapitre II: Les Stéréotypes"
 Afin de pouvoir calculer la valeur des [attributs]({{< relref "attributs" >}}), il faut tout d'abord choisir son stéréotype ou profil d'attributs. Cela va influer sur les [caractéristiques]({{< relref "caracteristiques" >}}) et la valeurs qu'elles vont avoir. Il existe 3 stéréotypes d'attributs. En fonction du stéréotype, les attributs seront plus ou moins différents.  
 Chaque stéréotype fournira une base de modificateur à chaque groupe ou domaine de compétences, aussi appelé [Attributs]({{< relref "attributs" >}}).
 
-{{< img src="/images/attributs.png" alt="le pentagone des attributs et des caractéristiques" size="500x" extraCss="center" >}}
+{{< img src="/images/attributs.png" alt="le hexagone des attributs et des caractéristiques" size="500x" extraCss="center" >}}
 
 ## Comment choisir le stéréotype
 Afin de choisir le stéréotype, il faut se poser la question sur le personnage que l'on souhaite incarner, normalement durant la phase de discussion sur l'[Archétype de Personnage]({{< relref "creation-personnage#archétype-de-personnage" >}}) vous avez déjà du avoir certaines idées qui doivent vous orienter.

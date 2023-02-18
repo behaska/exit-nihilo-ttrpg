@@ -24,6 +24,8 @@ Il est important de noter que, dans le cadre d'un jeu de rôle, les compétences
 1) ["Quel est votre hobby préféré ?"]({{< relref "hobby-prefere" >}})
 1) ["Vie de Famille ?"]({{< relref "vie-de-famille" >}})
 1) ["Quel genre d'événements a marqué votre Adolescence ?"]({{< relref "evenements-marque-adolescence" >}})
+1) ["Quel est votre passe-temps à l'âge adulte ?"]({{< relref "passe-temps-adulte" >}})
+1) ["Avez-vous un désavantage ou un handicap ?"]({{< relref "desavantages-handicaps" >}})
 
 
 Comment réagissez-vous au stress ?

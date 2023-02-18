@@ -15,7 +15,7 @@ Bienvenue dans un monde post-apocalyptique où les morts se relèvent et où les
 - Répondre aux [Questions/Réponses]({{< relref "questions-reponses/les-questions-reponses" >}})
 - Calcul des [Attributs]({{< relref "#les-attributs" >}})
 - Calcul des [Compétences]({{< relref "#les-compétences" >}})
-- Choix du Rôle
+- Choix de l'[Occupation]({{< relref "#les-occupations" >}})
 
 ## Archétype de personnage  
 Dans ***Exit-Nihilo***, la première étape dans la création de personnages est la phase de choix d'archétype.  

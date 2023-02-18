@@ -10,8 +10,9 @@ title: "Chapitre II: La création de personnage"
 ## Introduction
 Bienvenue dans un monde post-apocalyptique où les morts se relèvent et où les vivants doivent lutter pour survivre. Vous incarnez un personnage déterminé à survivre dans ce monde rempli de dangers, où chaque jour est une lutte pour rester en vie. Vous devrez faire des choix difficiles, affronter des zombies affamés, et naviguer dans les relations complexes avec les autres survivants.  
 
-## Les 5 étapes pour créer un personnage.
+## Les 6 étapes pour créer un personnage.
 - Choix de l'[Archétype]({{< relref "#archétype-de-personnage" >}})
+- Répondre aux [Questions/Réponses]({{< relref "questions-reponses/les-questions-reponses" >}})
 - Calcul des [Attributs]({{< relref "#les-attributs" >}})
 - Calcul des [Compétences]({{< relref "#les-compétences" >}})
 - Choix du Rôle

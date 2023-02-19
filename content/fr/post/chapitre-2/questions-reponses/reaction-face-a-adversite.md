@@ -16,15 +16,15 @@ En répondant à cette question, le joueur décidera des traits de caractère de
 > "Comment votre personnage réagit-il face à l'adversité et aux obstacles ?"
 
 ### Réponses possibles
-1) Avec détermination : déterminée, volontaire, manque de flexibilité.
-2) Avec défaitisme : fataliste, résignée, incapacité à faire face à la réalité.
-3) Avec optimisme : optimiste, confiante, manque de réalisme.
-4) Avec persévérance : tenace, persévérante, manque de réflexion.
-5) Avec prudence : prudent, réfléchie, manque de courage.
-6) Avec colère : colérique, impulsive, manque de contrôle émotionnel.
-7) Avec peur : peureuse, craintive, incapacité à faire face à la réalité.
-8) Avec indifférence : détachée, impassible, danger pour les autres.
-9) Avec courage : courageuse, audacieuse, manque de prudence.
-10) Avec créativité : imaginatif, inventif, manque de planification.
+1) Avec détermination : déterminée, volontaire, manque de flexibilité. (**Tenace**)
+2) Avec défaitisme : fataliste, résignée, incapacité à faire face à la réalité. (**Résigner**)
+3) Avec optimisme : optimiste, confiante, manque de réalisme. (**Confiant**)
+4) Avec persévérance : tenace, persévérante, manque de réflexion. (**Persévérant**)
+5) Avec prudence : prudent, réfléchie, manque de courage. (**Prudent**)
+6) Avec colère : colérique, impulsive, manque de contrôle émotionnel. (**Impulsif**)
+7) Avec peur : peureuse, craintive, incapacité à faire face à la réalité. (**Craintif**)
+8) Avec indifférence : détachée, impassible, danger pour les autres. (**Détacher**)
+9) Avec courage : courageuse, audacieuse, manque de prudence. (**Audacieux**)
+10) Avec créativité : imaginatif, inventif, manque de planification. (**Imaginatif**)
 
 {{% navigation beforePost="evenements-marque-enfance" beforeLabel="Les Évènements de votre enfance" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="perception-relations-humaines" afterLabel="Les Relations Humaines" %}}

@@ -40,4 +40,4 @@ Les joueurs ont la possibilité de choisir des réponses pré-renseignées pour 
 10) Le personnage a une forte capacité de résilience et de persévérance. Il peut traverser des moments difficiles en restant concentré sur ses objectifs et en faisant preuve d'une grande détermination.
     * Résistance
 
-{{% navigation beforePost="gestion-des-conflits" beforeLabel="La Gestion des Conflits" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="choix-profession" afterLabel="Choix de la Profession" %}}
+{{% navigation beforePost="gestion-des-conflits" beforeLabel="La Gestion des Conflits" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="traite-des-autres" afterLabel="Les Autres" %}}

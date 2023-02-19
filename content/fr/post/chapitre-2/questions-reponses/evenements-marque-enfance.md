@@ -69,4 +69,4 @@ Les joueurs ont la possibilité de choisir des réponses pré-renseignées pour 
    * Art : L'enfant a peut-être été encouragé à exprimer leur créativité, que ce soit par le biais de la musique, de la peinture, du dessin ou de l'écriture. Ils ont peut-être pris des cours de musique, de danse ou de dessin, ce qui leur a permis de développer leur talent artistique.
    * Chercher : L'enfant a peut-être été encouragé à poser des questions et à chercher des réponses par eux-mêmes. Ils ont peut-être été encouragés à explorer les bibliothèques et les ressources en ligne pour trouver des réponses à leurs questions. Cette curiosité et cette recherche constante de connaissances peuvent les aider à s'adapter à de nouveaux environnements et à apprendre de nouvelles compétences plus rapidement.).
 
-{{% navigation parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="reaction-face-a-adversite" afterLabel="Réactions face à l'Adversité" %}}
+{{% navigation beforePost="vous-et-le-stress" beforeLabel="Le Stress" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="motivation" afterLabel="La Motivation" %}}

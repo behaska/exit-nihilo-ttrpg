@@ -28,4 +28,4 @@ Par exemple, un personnage qui a étudié la médecine pendant de nombreuses ann
 1) Formation continue
 1) Autodidacte
 
-{{% navigation beforePost="choix-statut-social" beforeLabel="Choix du Statut Social" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="hobby-prefere" afterLabel="Hobby préféré" %}}
+{{% navigation beforePost="l-argent" beforeLabel="L'Argent" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="justice" afterLabel="La Justice" %}}

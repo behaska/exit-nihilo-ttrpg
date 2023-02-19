@@ -48,4 +48,4 @@ Il est important de noter que les réponses proposées sont assez générales et
 ## Remarque
 Il est important de souligner que le choix de votre hobby préféré ne garantit pas une maîtrise automatique des compétences associées. Le maitre de jeu aura toujours le dernier mot quant à l'attribution de ces compétences en fonction du développement de votre personnage, de l'histoire et du contexte de jeu. Il est donc important d'avoir une discussion avec le maitre de jeu pour déterminer comment votre choix de hobby peut se traduire dans le jeu et comment vous pouvez progresser dans vos compétences en lien avec ce hobby. Cela permettra également de s'assurer que ce choix s'intègre bien dans l'univers du jeu et que cela ne déséquilibre pas le gameplay.
 
-{{% navigation beforePost="choix-niveau-d-education" beforeLabel="Choix du Niveau d'Education" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="vie-de-famille" afterLabel="Vie de Famille" %}}
+{{% navigation beforePost="justice" beforeLabel="La Justice" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="pays" afterLabel="Le Pays" %}}

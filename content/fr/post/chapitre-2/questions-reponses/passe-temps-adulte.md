@@ -5,7 +5,7 @@ description: "Question/Réponses \"Les Passes-temps à l'Âge adulte\""
 slug: 'les-evenements-age-adulte'
 featured_image: "/images/les-competences.png"
 tags: ["règles", "création-de-personnage", "compétences"]
-title: "Chapitre II: Les Evènements de votre Adolescence"
+title: "Chapitre II: L'Âge Adulte"
 draft: false
 ---
 
@@ -91,4 +91,4 @@ La musique est une forme d'art qui peut non seulement apporter du plaisir, mais 
    * Perception : La musique peut également améliorer la Perception, car elle nécessite une grande attention aux détails tels que la justesse, la durée, le rythme et la dynamique. En écoutant et en analysant les compositions, les musiciens peuvent apprendre à reconnaître les modèles et les structures musicales, et à anticiper les changements dans la musique. Cela peut également aider à développer des compétences en mémorisation.
    * Filouterie : Jouer d'un instrument de musique nécessite de coordonner différents mouvements des doigts, des mains, des bras, etc. La pratique de la musique peut donc aider à améliorer la compétence Filouterie.  
 
-{{% navigation beforePost="vie-de-famille" beforeLabel="Vie de Famille" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="desavantages-handicaps" afterLabel="Les Désavantages" %}}
+{{% navigation beforePost="evenements-marque-adolescence" beforeLabel="Les Évènements de l'Adolescence" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="desavantages-handicaps" afterLabel="Les Désavantages" %}}

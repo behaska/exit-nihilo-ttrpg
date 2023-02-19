@@ -29,4 +29,4 @@ Le choix du statut social avant le Grand Événement doit être cohérent avec l
 #### Remarque
 Dans le monde post-Grand Événement, l'argent n'a plus cours et n'est donc pas un élément déterminant pour le choix du statut social du personnage. Au lieu de cela, les joueurs devraient se concentrer sur le background de leur personnage et sur ce qui est logique pour leur histoire, leur profession et leur catégorie socio-professionnelle. Le choix du statut social doit être cohérent avec le reste du personnage et contribuer à une expérience de jeu immersive.
 
-{{% navigation beforePost="choix-profession" beforeLabel="Choix de la Profession" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="choix-niveau-d-education" afterLabel="Choix du Niveau d'Education" %}}
+{{% navigation beforePost="choix-profession" beforeLabel="Choix de la Profession" parentPost="les-questions-reponses" parentLabel="Questions/Réponses" afterPost="l-argent" afterLabel="L'Argent" %}}

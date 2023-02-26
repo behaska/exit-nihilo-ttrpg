@@ -10,6 +10,14 @@ title: "Chapitre II: La création de personnage"
 ## Introduction
 Bienvenue dans un monde post-apocalyptique où les morts se relèvent et où les vivants doivent lutter pour survivre. Vous incarnez un personnage déterminé à survivre dans ce monde rempli de dangers, où chaque jour est une lutte pour rester en vie. Vous devrez faire des choix difficiles, affronter des zombies affamés, et naviguer dans les relations complexes avec les autres survivants.  
 
+## 2 Méthodes de création d'un personnage
+Dans le jeu de rôle "Exit Nihilo", les joueurs ont le choix entre deux modes de création de personnage.  
+
+Le **premier mode** est la méthode libre, où les joueurs peuvent choisir *librement* les statistiques de leur personnage, tels que les attributs et les compétences. Cela permet aux joueurs de créer *rapidement* leur personnage, mais cela suppose également qu'ils aient déjà une idée claire de leur personnage et de son histoire.
+
+La **deuxième méthode** de création de personnage est plus détaillée et plus *longue*, mais elle permet aux joueurs de donner du corps à leur personnage sans avoir nécessairement une idée préconçue. Cette méthode implique de répondre à une série de questions, qui peuvent compter jusqu'à une vingtaine, et les statistiques du personnage découlent des réponses à ces questions. Les questions peuvent porter sur l'histoire du personnage, ses relations avec d'autres personnages, ses motivations et ses valeurs.  
+Cette méthode de création de personnage peut sembler plus *laborieuse*, mais elle offre aux joueurs une opportunité de développer un personnage plus complexe et plus immersif, en créant une histoire plus approfondie. En outre, cette méthode permet aux joueurs de découvrir leur personnage au fur et à mesure du jeu, plutôt que d'avoir une idée préconçue et rigide du personnage dès le départ.
+
 ## Les 6 étapes pour créer un personnage.
 - Choix de l'[Archétype]({{< relref "#archétype-de-personnage" >}}).
 - Répondre aux [Questions/Réponses]({{< relref "questions-reponses/les-questions-reponses" >}}).
@@ -19,24 +27,30 @@ Bienvenue dans un monde post-apocalyptique où les morts se relèvent et où les
 - Choix de l'[Occupation]({{< relref "#les-occupations" >}}).
 
 ## Archétype de personnage  
-Dans ***Exit-Nihilo***, la première étape dans la création de personnages est la phase de choix d'archétype.  
-Dans un jeu de rôle, un archétype de personnage est un modèle de personnage prédéfini que les joueurs peuvent choisir pour incarner leur personnage dans le jeu. Les archétypes de personnages peuvent inclure des personnages tels que les combattants, le chasseur, le scientifique, le détective, le mercenaire, etc. Le joueur peut choisir son background, c'est-à-dire son histoire, sa profession, sa famille, ses relations, etc.  
+Le choix d'un archétype de personnage est une étape cruciale dans la création de personnages pour un jeu de rôle comme Exit-Nihilo. Les archétypes permettent de réfléchir aux grandes lignes du personnage, telles que son background, ses forces, ses faiblesses et ses motivations. Il est important de ne pas se concentrer sur les détails à ce stade, mais plutôt de se concentrer sur les grandes lignes pour pouvoir orienter la suite de la création de personnages. Choisir un archétype ne signifie pas que le personnage doit être une caricature, mais plutôt qu'il s'agit d'un point de départ pour la personnalisation et le développement de personnages de manière cohérente et équilibrée. Consacrer du temps à la phase d'archétype peut aider à créer un personnage cohérent, équilibré et offrir des opportunités de jeu.
+Dans un jeu de rôle, un archétype de personnage est un modèle de personnage prédéfini que les joueurs peuvent choisir pour incarner leur personnage dans le jeu. Les archétypes de personnages peuvent inclure des personnages tels que les combattants, le chasseur, le scientifique, le détective, le mercenaire, etc.  
+
+Ensuite, le joueur pourra choisir son background, c'est-à-dire son histoire, sa profession, sa famille, ses relations, etc.  
+Il pourra le faire soit :
+* sous la forme de choix (méthode rapide)
+* sous la forme de réponses à un questionnaire
 Cela va permettre de donner un contexte à son personnage et de définir les compétences qu'il a acquises avant les événements de la campagne. Enfin, le joueur doit définir les motivations de son personnage, ses objectifs et ses désirs. Cela va donner une direction à son personnage et lui permettre de s'épanouir dans la campagne.  
-Cette phase peut également inclure une discussion avec le Maître de Jeu pour s'assurer que l'archétype choisi correspond à l'univers de jeu et à l'histoire qui seront joués. Le Maître de Jeu est là pour aider le joueur à définir ces éléments et s'assurer qu'ils s'intègrent bien dans l'univers et la trame de fond de la campagne. Pendant cette discussion, le joueur pourra décrire les aspirations de son personnage, sa profession, ses motivations, ses peurs, ses espoirs, ses buts, son passé et bien plus. Il pourra ainsi expliquer comment il voit son personnage et comment il souhaite l'incarner.  
-Il est important de noter que choisir un archétype ne signifie pas que le personnage doit être un stéréotype ou qu'il doit suivre certaines règles strictes. Il s'agit plutôt d'un point de départ pour la création de personnages, qui peut être personnalisé et développé de différentes manières dans les étapes suivantes.  
-L'archétype de personnage est un aspect crucial de la création de personnages. Il orientera les étapes suivantes dans le choix des [caractéristiques]({{< relref "caracteristiques" >}}), des compétences de base de votre personnage, ainsi que son histoire et son rôle dans le monde post-apocalyptique d'Exit Nihilo.  
+
+Cette phase peut inclure une discussion avec le Maître de Jeu pour s'assurer que l'archétype choisi correspond à l'univers de jeu et à l'histoire qui seront joués. Le Maître de Jeu est là pour aider le joueur à définir ces éléments et s'assurer qu'ils s'intègrent bien dans l'univers et la trame de fond de la campagne. Pendant cette discussion, le joueur pourra décrire les aspirations de son personnage, sa profession, ses motivations, ses peurs, ses espoirs, ses buts, son passé et bien plus. Il pourra ainsi expliquer comment il voit son personnage et comment il souhaite l'incarner.  
+
+> ***A noter***  
+*Il est important de noter que choisir un archétype ne signifie pas que le personnage doit être un stéréotype ou qu'il doit suivre certaines règles strictes. Il s'agit plutôt d'un point de départ pour la création de personnages, qui peut être personnalisé et développé de différentes manières dans les étapes suivantes.  
+L'archétype de personnage est un aspect crucial de la création de personnages. Il orientera les étapes suivantes dans le choix des [caractéristiques]({{< relref "caracteristiques" >}}), des compétences de base de votre personnage, ainsi que son histoire et son rôle dans le monde post-apocalyptique d'Exit Nihilo.*  
 
 En consacrant du temps à la phase d'archétype, vous pouvez vous assurer que votre personnage est cohérent et qu'il a une histoire crédible. Cela peut vous aider à mieux comprendre la personnalité et les motivations de votre personnage, ce qui peut en retour améliorer votre jeu et votre immersion dans le monde du jeu.  
 De plus, en déterminant les forces et les faiblesses de votre personnage à travers son archétype, vous pouvez vous assurer que votre personnage est bien équilibré et qu'il a les capacités nécessaires pour réussir dans le jeu. Cela peut aussi aider à éviter les incohérences dans le développement de votre personnage au fil du jeu.  
 Enfin, choisir un archétype peut ajouter une dimension supplémentaire à votre jeu en vous permettant de jouer un personnage que vous aimez ou en vous offrant de nouveaux défis à relever en jouant un personnage très différent de ce que vous êtes habitué à jouer.  
 
-En conclusion, consacrer du temps à la phase d'archétype peut vous aider à créer un personnage cohérent, équilibré et immersif, et peut vous offrir de nouveaux défis et opportunités de jeu. C'est donc un investissement de temps qui peut s'avérer très rentable pour votre expérience de jeu.
-
 ### Exemple d'archétype
 Sarah, la joueuse d'Emma, voit son personnage Emma ainsi.
-> Elle était une pompière avant l'effondrement de la société et a conservé son sens du devoir en aidant les autres survivants dans le besoin. Emma est forte physiquement, elle a l'agilité et la force nécessaires pour survivre dans ce monde difficile.  
-> Cependant, la vie dans un monde rempli de zombies l'a également endurcie mentalement. Emma est déterminée à faire ce qui est juste et à aider les autres, mais elle a du mal à s'ouvrir aux gens et à construire des relations humaines. Elle peut être froide et distante, même avec les personnes les plus proches d'elle, et peut avoir des difficultés à faire confiance aux autres.  
-> Malgré cela, Emma est une leader naturelle et est capable de prendre des décisions difficiles pour protéger les autres survivants. Elle est un modèle de détermination et de courage pour les personnes autour d'elle, même si elle peut paraître inaccessible à certains moments.
+> *Elle était une pompière avant l'Effondrement et a conservé son sens du devoir en aidant les autres survivants dans le besoin. Emma est forte physiquement, elle a l'agilité et la force nécessaires pour survivre dans ce monde difficile. Elle est plutôt orienté sur le corps que sur l'esprit.*  
+> *Cependant, la vie dans un monde rempli de zombies l'a également endurcie mentalement. Emma est déterminée à faire ce qui est juste et à aider les autres, mais elle a du mal à s'ouvrir aux gens et à construire des relations humaines. Elle peut être froide et distante, même avec les personnes les plus proches d'elle, et peut avoir des difficultés à faire confiance aux autres.*  
+> *Malgré cela, Emma est une leader naturelle et est capable de prendre des décisions difficiles pour protéger les autres survivants. Elle est un modèle de détermination et de courage pour les personnes autour d'elle, même si elle peut paraître inaccessible à certains moments.*
 
 ## Les Attributs
 Afin de calculer la valeur des attributs, il faut tout d'abord choisir le stéréotype de son personnage, sorte d'archétype d'attributs.

@@ -35,4 +35,4 @@ Sarah, la joueuse, choisit qu'Emma aura plutôt des qualité physique et de cara
 Ce qui donne au final :  
 > Physique (+1), Agilité (+1), Caractère (0), Esprit (-1), Social (-1) et Subconscient (+1).
 
-{{% navigation parentPost="creation-personnage#les-attributs" parentLabel="La Création de Personnage" afterPost="creation-personnage#calcul-des-caractéristiques" afterLabel="Calculer les Caractéristiques" %}}
+{{% navigation beforePost="mode-creation-personnage" beforeLabel="Les Modes de Création" parentPost="creation-personnage#les-attributs" parentLabel="La Création de Personnage" afterPost="creation-personnage#calcul-des-caractéristiques" afterLabel="Calculer les Caractéristiques" %}}

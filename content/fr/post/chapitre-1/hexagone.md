@@ -48,6 +48,6 @@ Ces options de personnalisation permettent aux joueurs et au maître de jeu de p
 ## Conclusion
 Le système hexagone met l'accent sur la prise de décision et les conséquences de ces décisions dans un contexte de survie post-apocalyptique. Les joueurs doivent utiliser leurs compétences et leurs caractéristiques pour relever les défis qui se dressent sur leur chemin, tout en faisant face aux conséquences de leurs actions. Le système offre une expérience de jeu immersive et intense, où chaque décision compte et où la chance joue un rôle important dans la survie des personnages.
 
-{{< img src="/images/systeme-pentagone.png" alt="quelques dés, une feuille de personnage." size="500x" extraCss="center" >}}
+{{< img src="/images/systeme-hexagone.png" alt="quelques dés, une feuille de personnage." size="500x" extraCss="center" >}}
 
 {{% navigation beforePost=emma beforeLabel=Emma parentPost=introduction parentLabel=Introduction afterPost=.. afterLabel=Accueil %}}

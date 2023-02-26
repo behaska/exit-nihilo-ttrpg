@@ -43,4 +43,4 @@ Vous avez accompli l'étape la plus importante dans la création de votre person
 
 Une fois que vous aurez terminé ces étapes presque purement calculatoires, vous serez prêt à jouer votre personnage et à explorer le monde post-apocalyptique. Il ne vous reste plus qu'à revenir à la page de [Création de Personnage]({{< relref "../creation-personnage#les-6-étapes-pour-créer-un-personnage" >}}) pour finaliser les derniers détails et vous lancer dans l'aventure !
 
-{{% navigation parentPost="../creation-personnage" parentLabel="La Création de Personnage" afterPost="vous-et-le-stress" afterLabel="Le Stress" %}}
+{{% navigation parentPost="mode-creation-interactif" parentLabel="Création Mode Interactif " afterPost="vous-et-le-stress" afterLabel="Le Stress" %}}

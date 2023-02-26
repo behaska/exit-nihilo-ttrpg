@@ -16,4 +16,4 @@ Bienvenue dans Exit Nihilo.
 {{< img src="/images/ville-avec-zombies.png" alt="un aperçu d'une ville remplie de zombie" size="500x" extraCss="center" >}}
 
 
-{{% navigation parentPost=.. parentLabel=Accueil afterPost=presentation afterLabel=Présentation %}}
+{{% navigation parentPost=. parentLabel=Accueil afterPost=presentation afterLabel=Présentation %}}

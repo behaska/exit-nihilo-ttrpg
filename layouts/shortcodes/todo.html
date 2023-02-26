@@ -1,0 +1,7 @@
+{{ $image := resources.GetMatch "/images/to-do.jpg" }}
+{{ $size :=  default "300x" (.Get "size") }}
+
+<div class="left">
+    <p class="center"><strong>À écrire ou à faire</strong></p>
+    <img src="{{ ($image.Resize $size).RelPermalink }}" alt="à écrire, à faire" />
+</div>
